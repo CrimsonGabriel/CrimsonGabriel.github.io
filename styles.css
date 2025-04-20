@@ -1,37 +1,166 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Katalog Rzemieślników RP Sagan</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="assets/img/logo.png" type="image/png">
-</head>
-<body>
-    <div class="logo-container">
-        <img src="assets/img/logo.png" alt="logo" class="logo-image">
-        <span class="logo-text">Bazarek Sagan</span>
-    </div>
+@font-face {
+    font-family: 'Gothicll';
+    src: url('fonts/Gothicll.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
-    <h1 class="main-title">Katalog Cechmistrzów</h1>
+@font-face {
+    font-family: 'storm';
+    src: url('fonts/Storm Gust.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
-    <section class="main-grid">
-        <a href="kowal.html" class="main-card">
-            <img src="assets/img/kowal.png" alt="Kowal">
-            <div class="overlay">Kowal</div>
-        </a>
-        <a href="platnerz.html" class="main-card">
-            <img src="assets/img/platnerz.png" alt="Płatnerz">
-            <div class="overlay">Płatnerz</div>
-        </a>
-        <a href="krawiec.html" class="main-card">
-            <img src="assets/img/krawiec.png" alt="Krawiec">
-            <div class="overlay">Krawiec</div>
-        </a>
-        <a href="ciesla.html" class="main-card">
-            <img src="assets/img/ciesla.png" alt="Cieśla">
-            <div class="overlay">Cieśla</div>
-        </a>
-    </section>
-</body>
-</html>
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('assets/img/island.webp') no-repeat center center/cover;
+    filter: blur(10px);
+    z-index: -1;
+}
+
+/* Logo */
+.logo-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    flex-direction: column; /* <== ważne! ustawia wszystko pionowo */
+    gap: 5px;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 20px;
+    z-index: 1000;
+    max-width: 300px;
+}
+
+.logo-line {
+    display: flex;
+    align-items: center;
+}
+
+.logo-image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.logo-text {
+    font-size: 14px;
+    color: #ffffff;
+    font-family: 'storm', sans-serif;
+}
+
+
+/* Tytuł */
+.main-title {
+    text-align: center;
+    font-family: 'Gothicll', serif;
+    font-size: 40px;
+    margin: 80px 0 30px 0;
+    text-shadow: 3px 3px 5px black;
+}
+
+/* Grid */
+.main-grid {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 15px;
+    padding: 20px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+}
+
+/* Karty */
+.main-card {
+    position: relative;
+    width: 150px;
+    height: 650px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: block;
+    text-decoration: none; /* usunięcie stylu linka */
+}
+
+.main-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+    display: block;
+}
+
+.main-card:hover {
+    width: 450px;
+    z-index: 10;
+    transform: scale(1.02);
+}
+
+.main-card:hover img {
+    transform: scale(1.1);
+}
+
+.card-overlay {
+    position: absolute;
+    top: 50%;
+	transform: translateY(-50%);
+    width: 100%;
+    padding: 10px 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    font-family: 'Gothicll';
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000;
+    pointer-events: none;
+}
+
+
+.card-title, .subclass-list {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 3px 0;
+}
+
+/* Tytuł karty */
+.card-title {
+    font-family: 'Gothicll';
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000;
+    margin: 0;
+}
+
+/* Lista podklas */
+.subclass-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px 0;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #ccc;
+    font-size: 13px;
+}
+
+.subclass-list li {
+    margin: 2px 0;
+}

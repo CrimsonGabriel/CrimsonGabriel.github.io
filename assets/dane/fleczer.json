@@ -1,0 +1,74 @@
+[
+{
+        "title": "Kiepski krótki łuk",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:15",
+        "thumbnail": "../card/luk.webp",
+        "model": "../models/luk.glb",
+        "category": "łuk",
+        "tier": "T1"
+    },
+    {
+        "title": "Zbutwiała kusza",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nKłute:15",
+        "thumbnail": "../card/kusza.webp",
+        "model": "../models/kusza.glb",
+        "category": "kusza",
+        "tier": "T1"
+    },
+    {
+        "title": "Łuk myśliwski",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:17\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "../card/luk2.webp",
+        "model": "../models/luk2.glb",
+        "category": "łuk",
+        "tier": "T2"
+    },
+    {
+        "title": "Dusza strzelca",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:17\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "../card/luk3.webp",
+        "model": "../models/luk3.glb",
+        "category": "łuk",
+        "tier": "T2"
+    },
+    {
+        "title": "Kusza",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:12\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "../card/kusza2.webp",
+        "model": "../models/kusza2.glb",
+        "category": "kusza",
+        "tier": "T2"
+    },
+    {
+        "title": "Argument wartownika",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:12\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "../card/kusza3.webp",
+        "model": "../models/kusza3.glb",
+        "category": "kusza",
+        "tier": "T2"
+    },
+    {
+        "title": "Solidna kusza",
+        "description": "WYMAGANIA:\nSiła:26\nZręczność:17\n\nOBRAŻENIA:\nKłute:32",
+        "thumbnail": "../card/kusza4.webp",
+        "model": "../models/kusza4.glb",
+        "category": "kusza",
+        "tier": "T3"
+    },
+    {
+        "title": "Ciemna kusza",
+        "description": "WYMAGANIA:\nSiła:26\nZręczność:17\n\nOBRAŻENIA:\nKłute:32",
+        "thumbnail": "../card/kusza5.webp",
+        "model": "../models/kusza5.glb",
+        "category": "kusza",
+        "tier": "T3"
+    },
+    {
+        "title": "Łowca grubego zwierza",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:26\n\nOBRAŻENIA:\nKłute:32",
+        "thumbnail": "../card/luk4.webp",
+        "model": "../models/luk4.glb",
+        "category": "luk",
+        "tier": "T3"
+    }
+]
