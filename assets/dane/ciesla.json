@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Ognisko",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/campfire.webp",
+        "model": "assets/models/campfire.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kuchenka",
+        "description": "WYMAGANIA:\n\n(Nie umiem tylko tego chujstwa zdekomplikować xd)",
+        "thumbnail": "assets/card/kuchenka.webp",
+        "model": "assets/models/kuchenka.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kamienny piec",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/piec.webp",
+        "model": "assets/models/piec.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Prowizoryczne kowadło",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/kowadlo.webp",
+        "model": "assets/models/kowadlo.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do filetowania",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/filet.webp",
+        "model": "assets/models/filet.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do farmera",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/farmer.webp",
+        "model": "assets/models/farmer.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół myśliwego",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/mysliwy.webp",
+        "model": "assets/models/mysliwy.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do strzał",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/strzaly.webp",
+        "model": "assets/models/strzaly.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do tarcz",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/tarcze.webp",
+        "model": "assets/models/tarcze.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół alchemiczny",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/alchemik.webp",
+        "model": "assets/models/alchemik.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół medyczny",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/cyrul.webp",
+        "model": "assets/models/cyrul.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Krosno",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/krawiec.webp",
+        "model": "assets/models/krawiec.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół płatnerza",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/zbroja.webp",
+        "model": "assets/models/zbroja.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Pniak",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/drwal.webp",
+        "model": "assets/models/drwal.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stojak drwala",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/drwal2.webp",
+        "model": "assets/models/drwal2.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stojak cieśli",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/ciesla.webp",
+        "model": "assets/models/ciesla.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do łuków",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/luki.webp",
+        "model": "assets/models/luki.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kadź bimbrownika",
+        "description": "WYMAGANIA:\n",
+        "thumbnail": "assets/card/bimbr.webp",
+        "model": "assets/models/bimbr.glb",
+        "tier": "T0",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kiepski krótki łuk",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:15",
+        "thumbnail": "assets/card/luk.webp",
+        "model": "assets/models/luk.glb",
+        "category": "Broń dystansowa",
+        "tier": "T1"
+    },
+    {
+        "title": "Zbutwiała kusza",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nKłute:15",
+        "thumbnail": "assets/card/kusza.webp",
+        "model": "assets/models/kusza.glb",
+        "category": "Broń dystansowa",
+        "tier": "T1"
+    },
+    {
+        "title": "Łuk myśliwski",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:17\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "assets/card/luk2.webp",
+        "model": "assets/models/luk2.glb",
+        "category": "Broń dystansowa",
+        "tier": "T2"
+    },
+    {
+        "title": "Dusza strzelca",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:17\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "assets/card/luk3.webp",
+        "model": "assets/models/luk3.glb",
+        "category": "Broń dystansowa",
+        "tier": "T2"
+    },
+    {
+        "title": "Kusza",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:12\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "assets/card/kusza2.webp",
+        "model": "assets/models/kusza2.glb",
+        "category": "Broń dystansowa",
+        "tier": "T2"
+    },
+    {
+        "title": "Argument wartownika",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:12\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "assets/card/kusza3.webp",
+        "model": "assets/models/kusza3.glb",
+        "category": "Broń dystansowa",
+        "tier": "T2"
+    },
+    {
+        "title": "Solidna kusza",
+        "description": "WYMAGANIA:\nSiła:26\nZręczność:17\n\nOBRAŻENIA:\nKłute:32",
+        "thumbnail": "assets/card/kusza4.webp",
+        "model": "assets/models/kusza4.glb",
+        "category": "Broń dystansowa",
+        "tier": "T3"
+    },
+    {
+        "title": "Ciemna kusza",
+        "description": "WYMAGANIA:\nSiła:26\nZręczność:17\n\nOBRAŻENIA:\nKłute:32",
+        "thumbnail": "assets/card/kusza5.webp",
+        "model": "assets/models/kusza5.glb",
+        "category": "Broń dystansowa",
+        "tier": "T3"
+    },
+    {
+        "title": "Łowca grubego zwierza",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:26\n\nOBRAŻENIA:\nKłute:32",
+        "thumbnail": "assets/card/luk4.webp",
+        "model": "assets/models/luk4.glb",
+        "category": "Broń dystansowa",
+        "tier": "T3"
+    }
+]

@@ -3,11 +3,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const modelViewer = document.getElementById('model-viewer');
     const closeViewer = document.getElementById('close-viewer');
     const modelViewerElement = modelViewer.querySelector('model-viewer');
-    const spinner = document.getElementById('spinner'); // Pobierz spinner
+    const spinner = document.getElementById('spinner');
     const categoryButtons = document.querySelectorAll('.button');
 
     const pageName = document.body.getAttribute('data-page');
-    const jsonUrl = `assets/dane/${pageName}.json`;
+    const jsonUrl = `../assets/dane/${pageName}.json`;
+
+    // Dodajemy base path zależnie od lokalizacji strony
+    const basePath = window.location.pathname.includes('/zawody/') ? '../' : '';
 
     let models = [];
 
@@ -26,10 +29,10 @@ document.addEventListener('DOMContentLoaded', () => {
         modelsToDisplay.forEach(model => {
             const card = document.createElement('div');
             card.classList.add('model-card');
-            card.setAttribute('data-model', model.model);
+            card.setAttribute('data-model', basePath + model.model);
     
             const img = document.createElement('img');
-            img.src = model.thumbnail;
+            img.src = basePath + model.thumbnail;
             img.alt = model.title;
     
             const title = document.createElement('h2');
@@ -57,15 +60,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 document.getElementById('model-title').textContent = model.title;
                 document.getElementById('model-description').textContent = model.description;
                 spinner.style.display = 'block';
-                if (modelViewerElement.getAttribute('src') === model.model) {
+                const modelSrc = basePath + model.model;
+                if (modelViewerElement.getAttribute('src') === modelSrc) {
                     spinner.style.display = 'none'; 
                 } else {
                     modelViewerElement.setAttribute('src', ''); 
                     setTimeout(() => {
-                        modelViewerElement.setAttribute('src', model.model);
+                        modelViewerElement.setAttribute('src', modelSrc);
                     }, 50);
                 }
-            
                 modelViewer.style.display = 'flex';
             });
         });

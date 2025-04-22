@@ -1,0 +1,531 @@
+[
+    {
+        "title": "Kosz na ryby",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kosz.webp",
+        "model": "assets/models/kosz.glb",
+        "tier": "T1",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Wiejski kapelusik",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/wiejski.webp",
+        "model": "assets/models/wiejski.glb",
+        "tier": "T1",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Otwarty futrzany kaptur",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur.webp",
+        "model": "assets/models/kaptur.glb",
+        "tier": "T1",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Spodnie kopacza",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec.webp",
+        "model": "assets/models/pkrawiec.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Koszula parobka",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec2.webp",
+        "model": "assets/models/pkrawiec2.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kobiece ubranie robocze",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec3.webp",
+        "model": "assets/models/pkrawiec3.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie rybaka",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec4.webp",
+        "model": "assets/models/pkrawiec4.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie kobiety rybak",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec5.webp",
+        "model": "assets/models/pkrawiec5.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Szara|Czerwona|Zielona koszula",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec6.webp",
+        "model": "assets/models/pkrawiec6.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kamizelka alchemika",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec7.webp",
+        "model": "assets/models/pkrawiec7.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Fatruch rzemieślnika",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec20.webp",
+        "model": "assets/models/pkrawiec20.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Fatruch rzemieślniczki",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec21.webp",
+        "model": "assets/models/pkrawiec21.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kamizelka awanturnika",
+        "description": "WYMAGANIA:\nSiła:4\nZręczność:6\n\nObrona:\nSieczne:4\nKłute:4\nMagia:0\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/pkrawiec8.webp",
+        "model": "assets/models/pkrawiec8.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Koszula awanturniczki",
+        "description": "WYMAGANIA:\nSiła:4\nZręczność:6\n\nObrona:\nSieczne:4\nKłute:4\nMagia:0\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/pkrawiec9.webp",
+        "model": "assets/models/pkrawiec9.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzana torba",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/torba.webp",
+        "model": "assets/models/torba.glb",
+        "tier": "T2",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Czarna chusta",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/chusta.webp",
+        "model": "assets/models/chusta.glb",
+        "tier": "T2",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Skórzany kaptur",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur5.webp",
+        "model": "assets/models/kaptur5.glb",
+        "tier": "T2",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ćwiekowany kaptur",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur3.webp",
+        "model": "assets/models/kaptur3.glb",
+        "tier": "T2",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Piaskowy kaptur z chustą",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur4.webp",
+        "model": "assets/models/kaptur4.glb",
+        "tier": "T2",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Skórzany kaptur z chustą",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur2.webp",
+        "model": "assets/models/kaptur2.glb",
+        "tier": "T2",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ćwiekowany kaptur z chustą",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur6.webp",
+        "model": "assets/models/kaptur6.glb",
+        "tier": "T2",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ubranie nemroda",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:12\n\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec10.webp",
+        "model": "assets/models/pkrawiec10.glb",
+        "tier": "T2",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie koczownika",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:12\n\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec11.webp",
+        "model": "assets/models/pkrawiec11.glb",
+        "tier": "T2",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie koczowniczki",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:12\n\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec12.webp",
+        "model": "assets/models/pkrawiec12.glb",
+        "tier": "T2",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kobiecy strój bandytki",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:12\n\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec12.webp",
+        "model": "assets/models/pkrawiec12.glb",
+        "tier": "T2",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzana brązowa torba",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/torba2.webp",
+        "model": "assets/models/torba2.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak kucharza",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak.webp",
+        "model": "assets/models/plecak.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak misjonarza",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak2.webp",
+        "model": "assets/models/plecak2.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak kopacza",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak3.webp",
+        "model": "assets/models/plecak3.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "🛑Plecak pielgrzyma",
+        "description": "Model posiada błąd pozycji IG",
+        "thumbnail": "assets/card/plecak4.webp",
+        "model": "assets/models/plecak4.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "🛑Plecak podróżnika",
+        "description": "Model posiada błąd pozycji IG",
+        "thumbnail": "assets/card/plecak5.webp",
+        "model": "assets/models/plecak5.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Kapelusz portowca",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz.webp",
+        "model": "assets/models/kapelusz.glb",
+        "tier": "T3",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Chusta patrioty",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/chusta2.webp",
+        "model": "assets/models/chusta2.glb",
+        "tier": "T3",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ubranie nemroda z pasem",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec13.webp",
+        "model": "assets/models/pkrawiec13.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubiór kobiety zbója",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec14.webp",
+        "model": "assets/models/pkrawiec14.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Strój zbója",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec15.webp",
+        "model": "assets/models/pkrawiec15.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Podróżny strój",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec16.webp",
+        "model": "assets/models/pkrawiec16.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie łuczniczki",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec17.webp",
+        "model": "assets/models/pkrawiec17.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzany pancerz kobiecy",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec18.webp",
+        "model": "assets/models/pkrawiec18.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Pancerz nożownika",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec19.webp",
+        "model": "assets/models/pkrawiec19.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Gustowny kapelusz",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz2.webp",
+        "model": "assets/models/kapelusz2.glb",
+        "tier": "T4",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Strój łotra",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec22.webp",
+        "model": "assets/models/pkrawiec22.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzane ubranie myśliwego",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec23.webp",
+        "model": "assets/models/pkrawiec23.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Futro nemroda",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec24.webp",
+        "model": "assets/models/pkrawiec24.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Płaszcz podróżnika",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24\n\nKolor może się różnić!",
+        "thumbnail": "assets/card/pkrawiec25.webp",
+        "model": "assets/models/pkrawiec25.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Płaszcz podróżniczki",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec26.webp",
+        "model": "assets/models/pkrawiec26.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Stylowy kapelusz",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz3.webp",
+        "model": "assets/models/kapelusz3.glb",
+        "tier": "T5",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Kapelusz wilka morskiego",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz4.webp",
+        "model": "assets/models/kapelusz4.glb",
+        "tier": "T5",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Futrzany pancerz z karwaszem",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec27.webp",
+        "model": "assets/models/pkrawiec27.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kobiecy futrzany pancerz z karwaszem",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec28.webp",
+        "model": "assets/models/pkrawiec28.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie chłopca na posyłki",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec29.webp",
+        "model": "assets/models/pkrawiec29.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie najemniczki",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec30.webp",
+        "model": "assets/models/pkrawiec30.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubrane dostojnego",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec31.webp",
+        "model": "assets/models/pkrawiec31.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Czarny pancerz złodzieja",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec32.webp",
+        "model": "assets/models/pkrawiec32.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ciepły skórzany strój",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec33.webp",
+        "model": "assets/models/pkrawiec33.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },  
+    {
+        "title": "Ciężki strój szpiega",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec34.webp",
+        "model": "assets/models/pkrawiec34.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie tropiciela",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec35.webp",
+        "model": "assets/models/pkrawiec35.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie tropicielki",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec36.webp",
+        "model": "assets/models/pkrawiec36.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Strój kłusownika",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec37.webp",
+        "model": "assets/models/pkrawiec37.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ciężkie ubranie bandyty",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/error.webp",
+        "model": "assets/models/error.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Lekkie ubranie z trolla",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec39.webp",
+        "model": "assets/models/pkrawiec39.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzany ubiór najemnika",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec40.webp",
+        "model": "assets/models/pkrawiec40.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Strój typa spod ciemnej gwiazdy",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec41.webp",
+        "model": "assets/models/pkrawiec41.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie typiary spod ciemnej gwiazdy",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec44.webp",
+        "model": "assets/models/pkrawiec44.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Pancerz cwaniaka",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec42.webp",
+        "model": "assets/models/pkrawiec42.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzany pancerz łowczego",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec43.webp",
+        "model": "assets/models/pkrawiec43.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    }
+]
+

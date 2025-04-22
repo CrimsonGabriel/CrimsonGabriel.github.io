@@ -26,7 +26,7 @@ h2 {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('assets/img/kowal.webp') no-repeat center center/cover;
+    background: url('assets/img/kowal.png') no-repeat center center/cover;
     filter: blur(10px);
     z-index: -1;
 }
@@ -37,7 +37,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/platnerz.webp') no-repeat center center/cover;
+  background: url('assets/img/lowca.png') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
@@ -48,7 +48,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/krawiec.webp') no-repeat center center/cover;
+  background: url('assets/img/kucharz.png') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
@@ -59,7 +59,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/ciesla.webp') no-repeat center center/cover;
+  background: url('assets/img/drwal.png') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
@@ -70,7 +70,51 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/budowa.webp') no-repeat center center/cover;
+  background: url('assets/img/alchemik.png') no-repeat center center/cover;
+  filter: blur(10px);
+  z-index: -1;
+}
+
+.background6 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('assets/img/gornik.png') no-repeat center center/cover;
+  filter: blur(10px);
+  z-index: -1;
+}
+
+.background7 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('assets/img/krawiec.png') no-repeat center center/cover;
+  filter: blur(10px);
+  z-index: -1;
+}
+
+.background8 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('assets/img/farmer.png') no-repeat center center/cover;
+  filter: blur(10px);
+  z-index: -1;
+}
+
+.background9 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('assets/img/zielarz.png') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
