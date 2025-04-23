@@ -148,7 +148,7 @@
         "description": "WYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:15",
         "thumbnail": "assets/card/luk.webp",
         "model": "assets/models/luk.glb",
-        "category": "łuk",
+        "category": "łuki",
         "tier": "T1"
     },
     {
@@ -156,7 +156,7 @@
         "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nKłute:15",
         "thumbnail": "assets/card/kusza.webp",
         "model": "assets/models/kusza.glb",
-        "category": "kusza",
+        "category": "kusze",
         "tier": "T1"
     },
     {
@@ -164,7 +164,7 @@
         "description": "WYMAGANIA:\nSiła:12\nZręczność:17\n\nOBRAŻENIA:\nKłute:23",
         "thumbnail": "assets/card/luk2.webp",
         "model": "assets/models/luk2.glb",
-        "category": "łuk",
+        "category": "łuki",
         "tier": "T2"
     },
     {
@@ -172,7 +172,7 @@
         "description": "WYMAGANIA:\nSiła:12\nZręczność:17\n\nOBRAŻENIA:\nKłute:23",
         "thumbnail": "assets/card/luk3.webp",
         "model": "assets/models/luk3.glb",
-        "category": "łuk",
+        "category": "łuki",
         "tier": "T2"
     },
     {
@@ -180,7 +180,7 @@
         "description": "WYMAGANIA:\nSiła:17\nZręczność:12\n\nOBRAŻENIA:\nKłute:23",
         "thumbnail": "assets/card/kusza2.webp",
         "model": "assets/models/kusza2.glb",
-        "category": "kusza",
+        "category": "kusze",
         "tier": "T2"
     },
     {
@@ -188,7 +188,7 @@
         "description": "WYMAGANIA:\nSiła:17\nZręczność:12\n\nOBRAŻENIA:\nKłute:23",
         "thumbnail": "assets/card/kusza3.webp",
         "model": "assets/models/kusza3.glb",
-        "category": "kusza",
+        "category": "kusze",
         "tier": "T2"
     },
     {
@@ -196,7 +196,7 @@
         "description": "WYMAGANIA:\nSiła:26\nZręczność:17\n\nOBRAŻENIA:\nKłute:32",
         "thumbnail": "assets/card/kusza4.webp",
         "model": "assets/models/kusza4.glb",
-        "category": "kusza",
+        "category": "kusze",
         "tier": "T3"
     },
     {
@@ -204,7 +204,7 @@
         "description": "WYMAGANIA:\nSiła:26\nZręczność:17\n\nOBRAŻENIA:\nKłute:32",
         "thumbnail": "assets/card/kusza5.webp",
         "model": "assets/models/kusza5.glb",
-        "category": "kusza",
+        "category": "kusze",
         "tier": "T3"
     },
     {
@@ -212,7 +212,7 @@
         "description": "WYMAGANIA:\nSiła:17\nZręczność:26\n\nOBRAŻENIA:\nKłute:32",
         "thumbnail": "assets/card/luk4.webp",
         "model": "assets/models/luk4.glb",
-        "category": "łuk",
+        "category": "łuki",
         "tier": "T3"
     }
 ]

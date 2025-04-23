@@ -1,10 +1,10 @@
 [
     {
         "title": "Muszkiet",
-        "description": "",
+        "description": "Cwele",
         "thumbnail": "assets/card/muszkiet.webp",
         "model": "assets/models/muszkiet.glb",
-        "category": "xd",
+        "category": "specjalne",
         "hands": "2H",
         "tier": "T0"
     },
