@@ -89,7 +89,7 @@ body {
 .main-card {
     position: relative;
     width: 150px;
-    height: 600px;
+    height: 700px;
     overflow: hidden;
     cursor: pointer;
     transition: all 0.3s ease;
