@@ -357,20 +357,29 @@ header {
       )
       1;
 }
-  .styled-wrapper .buttonq {
-    display: block;
-    position: relative;
-    width: 76px;
-    height: 76px;
-    margin: 0;
-    overflow: hidden;
-    outline: none;
-    background-color: transparent;
-    cursor: pointer;
-    border: 0;
-    top: -60px;
-    left: 20px;
-  }
+
+.styled-wrapper {
+  display: flex;
+  flex-direction: row; 
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+}
+
+.styled-wrapper .buttonq {
+  display: block;
+  position: relative;
+  width: 76px;
+  height: 76px;
+  margin: 0;
+  overflow: hidden;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  border: 0;
+}
+
   
   .styled-wrapper .buttonq:before {
     content: "";
@@ -457,4 +466,16 @@ header {
     100% {
         transform: translate(-50%, -50%) rotate(360deg);
     }
+}
+
+
+.buttonq-box.no-slide {
+  transform: none !important;
+  transition: none !important;
+}
+
+.buttonq:hover .no-slide,
+.buttonq:focus .no-slide {
+  transform: none !important;
+  transition: none !important;
 }

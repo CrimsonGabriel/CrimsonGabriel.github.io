@@ -4,16 +4,49 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hutnik</title>
-  <link rel="stylesheet" href="../styles.css">
+  <link rel="icon" href="../sg.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../catalog.css">
 </head>
-<body>
+<body data-page="hutnik">
   <div class="background"></div>
-  <h1 class="main-title">Hutnik</h1>
-  <section class="main-grid">
-    <div class="main-card">
-      <img src="../assets/img/hutnik.webp" alt="Hutnik">
-      <div class="card-overlay">Hutnik</div>
-    </div>
-  </section>
+  <header>
+        <div class="category-buttons">
+            <button class="button" data-category="all">Wszystko</button>
+            <button class="button" data-category="TODO">TODO</button>
+            <button class="button" data-category="TODO">TODO</button>
+            <button class="button" data-category="specjalne">Specjalne</button>
+        </div>
+        <div class="styled-wrapper">
+            <button class="buttonq" onclick="window.location.href='../index.html'">
+                <div class="buttonq-box">
+                  <span class="buttonq-elem">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon">
+                    <path fill="white" d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path>
+                    </svg>
+                  </span>
+                  <span class="buttonq-elem">
+                    <svg fill="white" viewBox="0 0  24 24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon">
+                    <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"></path>
+                    </svg>
+                  </span>
+                </div>
+            </button>
+        </div>
+    </header>
+ <main>
+        <section class="model-grid"></section>
+
+        <div id="model-viewer">
+            <button id="close-viewer">Zamknij</button>
+            <div id="model-info">
+                <h2 id="model-title"></h2>
+                <p id="model-description"></p>
+            </div>
+            <div id="spinner" class="spinner"></div> 
+            <model-viewer src="" alt="Model 3D" auto-rotate camera-controls></model-viewer>
+        </div>
+    </main>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+    <script src="../catalog.js"></script>
 </body>
 </html>
