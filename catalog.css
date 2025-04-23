@@ -467,15 +467,3 @@ header {
         transform: translate(-50%, -50%) rotate(360deg);
     }
 }
-
-
-.buttonq-box.no-slide {
-  transform: none !important;
-  transition: none !important;
-}
-
-.buttonq:hover .no-slide,
-.buttonq:focus .no-slide {
-  transform: none !important;
-  transition: none !important;
-}
