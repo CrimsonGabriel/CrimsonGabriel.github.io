@@ -1,4 +1,893 @@
 [
+	{
+        "title": "Ławka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_BLACK_01_KOZA.webp",
+        "model": "assets/models/BENCH_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_BROWN_01_KOZA.webp",
+        "model": "assets/models/BENCH_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_ORANGE_01_KOZA.webp",
+        "model": "assets/models/BENCH_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Drewniany Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_WOOD_BLACK_01_KOZA.webp",
+        "model": "assets/models/BENCH_WOOD_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Drewniany Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_WOOD_BROWN_01_KOZA.webp",
+        "model": "assets/models/BENCH_WOOD_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Drewniany Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_WOOD_ORANGE_01_KOZA.webp",
+        "model": "assets/models/BENCH_WOOD_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Drewniany Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_WOOD_YELLOW_01_KOZA.webp",
+        "model": "assets/models/BENCH_WOOD_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Ławka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_YELLOW_01_KOZA.webp",
+        "model": "assets/models/BENCH_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Krzesło Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_CHAIR_BLACK_01_KOZA.webp",
+        "model": "assets/models/CHAIR_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Krzesło Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_CHAIR_BROWN_01_KOZA.webp",
+        "model": "assets/models/CHAIR_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Krzesło Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_CHAIR_ORANGE_01_KOZA.webp",
+        "model": "assets/models/CHAIR_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Krzesło Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_CHAIR_YELLOW_01_KOZA.webp",
+        "model": "assets/models/CHAIR_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Biblioteczka Otwarty Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_BOOKSHELF_OPEN_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_BOOKSHELF_OPEN_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Biblioteczka Otwarty Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_BOOKSHELF_OPEN_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_BOOKSHELF_OPEN_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Biblioteczka Otwarty Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_BOOKSHELF_OPEN_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_BOOKSHELF_OPEN_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Biblioteczka Otwarty Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_BOOKSHELF_OPEN_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_BOOKSHELF_OPEN_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Biblioteczka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_BOOKSHELF_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_BOOKSHELF_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Biblioteczka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_BOOKSHELF_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_BOOKSHELF_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Biblioteczka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_BOOKSHELF_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_BOOKSHELF_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Biblioteczka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_BOOKSHELF_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_BOOKSHELF_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BLACK_01_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BLACK_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BLACK_02_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BLACK_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BLACK_02_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BLACK_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BLACK_03_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BLACK_03_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BROWN_01_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BROWN_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BROWN_02_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BROWN_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BROWN_02_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BROWN_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_BROWN_03_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_BROWN_03_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_ORANGE_01_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_ORANGE_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_ORANGE_02_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_ORANGE_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_ORANGE_02_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_ORANGE_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_ORANGE_03_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_ORANGE_03_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_YELLOW_01_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_YELLOW_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_YELLOW_02_2_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_YELLOW_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_YELLOW_02_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_YELLOW_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Szafka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_CUPBOARD_YELLOW_03_KOZA.webp",
+        "model": "assets/models/GS_CITY_CUPBOARD_YELLOW_03_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Stół Zwykły Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_TABLE_NORMAL_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_TABLE_NORMAL_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Stół Zwykły Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_TABLE_NORMAL_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_TABLE_NORMAL_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Stół Zwykły Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_TABLE_NORMAL_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_TABLE_NORMAL_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Miejski Stół Zwykły Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_CITY_TABLE_NORMAL_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_CITY_TABLE_NORMAL_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Długi Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_LONG_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_LONG_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Długi Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_LONG_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_LONG_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Długi Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_LONG_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_LONG_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Długi Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_LONG_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_LONG_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "LOB Stół Ciężki Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_LOB_TABLE_HEAVY_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_LOB_TABLE_HEAVY_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "SINGLE Otwarty Schowek Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_SINGLE_OPEN_STORAGE_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_SINGLE_OPEN_STORAGE_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "SINGLE Otwarty Schowek Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_SINGLE_OPEN_STORAGE_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_SINGLE_OPEN_STORAGE_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "SINGLE Otwarty Schowek Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_SINGLE_OPEN_STORAGE_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_SINGLE_OPEN_STORAGE_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "SINGLE Otwarty Schowek Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_SINGLE_OPEN_STORAGE_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_SINGLE_OPEN_STORAGE_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Stół Okrągły Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_TABLE_CIRCULAR_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_TABLE_CIRCULAR_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Stół Okrągły Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_TABLE_CIRCULAR_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_TABLE_CIRCULAR_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Stół Okrągły Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_TABLE_CIRCULAR_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_TABLE_CIRCULAR_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Stół Okrągły Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_TABLE_CIRCULAR_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_TABLE_CIRCULAR_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BLACK_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BLACK_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BLACK_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BLACK_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BLACK_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BLACK_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BROWN_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BROWN_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BROWN_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BROWN_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_BROWN_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_BROWN_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_ORANGE_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_ORANGE_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_ORANGE_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_ORANGE_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_ORANGE_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_ORANGE_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Podniszczony KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_POOR_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_POOR_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Podniszczony KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_POOR_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_POOR_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_YELLOW_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_YELLOW_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_YELLOW_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_YELLOW_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Łóżko Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BEDCASE_YELLOW_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BEDCASE_YELLOW_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BLACK_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BLACK_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BLACK_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BLACK_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BLACK_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BLACK_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BROWN_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BROWN_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BROWN_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BROWN_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_BROWN_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_BROWN_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_ORANGE_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_ORANGE_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_ORANGE_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_ORANGE_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_ORANGE_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_ORANGE_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_YELLOW_01_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_YELLOW_01_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_YELLOW_02_2_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_YELLOW_02_2_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Regał Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_BOOKCASE_YELLOW_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_BOOKCASE_YELLOW_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Zegar Podniszczony KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_CLOCK_POOR_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_CLOCK_POOR_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Lada Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_COUNTER_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_COUNTER_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Lada Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_COUNTER_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_COUNTER_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Lada Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_COUNTER_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_COUNTER_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Lada Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_COUNTER_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_COUNTER_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Handlowy BOOKSTAND Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_MERCHANT_BOOKSTAND_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_MERCHANT_BOOKSTAND_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Handlowy BOOKSTAND Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_MERCHANT_BOOKSTAND_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_MERCHANT_BOOKSTAND_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Handlowy BOOKSTAND Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_MERCHANT_BOOKSTAND_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_MERCHANT_BOOKSTAND_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Handlowy BOOKSTAND Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_MERCHANT_BOOKSTAND_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_MERCHANT_BOOKSTAND_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Bogata półka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_RICHSHELF_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_RICHSHELF_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Bogata półka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_RICHSHELF_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_RICHSHELF_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Bogata półka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_RICHSHELF_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_RICHSHELF_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Bogata półka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_RICHSHELF_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_RICHSHELF_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Półka Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_SHELF_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_SHELF_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Półka Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_SHELF_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_SHELF_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Półka Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_SHELF_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_SHELF_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Półka Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_SHELF_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_SHELF_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "TABLESHELVES Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_TABLESHELVES_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_TABLESHELVES_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "TABLESHELVES Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_TABLESHELVES_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_TABLESHELVES_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "TABLESHELVES Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_TABLESHELVES_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_TABLESHELVES_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "TABLESHELVES Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_TABLESHELVES_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_TABLESHELVES_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_BLACK_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_BLACK_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_BLACK_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_BROWN_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_BROWN_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_BROWN_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_ORANGE_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_ORANGE_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_ORANGE_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_YELLOW_01_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Szafa Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_GS_VOB_WARDROBE_YELLOW_02_KOZA.webp",
+        "model": "assets/models/GS_VOB_WARDROBE_YELLOW_02_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Tron Czarny KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_THRONENEW_BLACK_01_KOZA.webp",
+        "model": "assets/models/THRONENEW_BLACK_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Tron Brązowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_THRONENEW_BROWN_01_KOZA.webp",
+        "model": "assets/models/THRONENEW_BROWN_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Tron Pomarańczowy KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_THRONENEW_ORANGE_01_KOZA.webp",
+        "model": "assets/models/THRONENEW_ORANGE_01_KOZA.glb",
+        "category": "Meble"
+    },
+    {
+        "title": "Tron Żółty KOZA",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_THRONENEW_YELLOW_01_KOZA.webp",
+        "model": "assets/models/THRONENEW_YELLOW_01_KOZA.glb",
+        "category": "Meble"
+    },
     {
         "title": "Ściana z otworem",
         "description": "WYMAGANIA:\nDREWNO x20\nPACZKA_GWOZDZI x2",
