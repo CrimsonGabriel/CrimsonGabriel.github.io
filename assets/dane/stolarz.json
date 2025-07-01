@@ -1,4 +1,12 @@
 [
+
+	{
+        "title": "Kominek",
+        "description": "WYMAGANIA:\nTODO\n",
+        "thumbnail": "assets/card/PREV_BENCH_BLACK_01_KOZA.webp",
+        "model": "assets/models/DT_FIREPLACE_V2.glb",
+        "category": "Meble"
+    },
 	{
         "title": "Ławka Czarny",
         "description": "WYMAGANIA:\nTODO\n",
