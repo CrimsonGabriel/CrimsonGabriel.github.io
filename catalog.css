@@ -467,3 +467,53 @@ header {
         transform: translate(-50%, -50%) rotate(360deg);
     }
 }
+
+.search-wrapper {
+    position: fixed;
+    top: 15px;
+    right: 20px;
+    z-index: 1001;
+}
+
+#search-bar {
+    padding: 8px 14px;
+    font-size: 14px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: rgba(0,0,0,0.75);
+    color: white;
+    width: 250px;
+    transition: background-color 0.3s ease;
+    font-family: 'Arial', sans-serif;
+}
+
+#search-bar::placeholder {
+    color: #ccc;
+}
+
+#search-bar:focus {
+    width: 275px;
+    background-color: rgba(20,20,20,0.95);
+}
+
+#search-status {
+  width: 100%;
+  text-align: center;
+  font-family: 'Gothicll';
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-shadow: 0 0 4px #000;
+}
+
+#no-results {
+  width: 100%;
+  text-align: center;
+  font-family: 'Gothicll';
+  font-size: 32px;
+  color: #ff5555;
+  margin-top: 30px;
+  text-shadow: 1px 1px 4px #000;
+  display: none;
+}

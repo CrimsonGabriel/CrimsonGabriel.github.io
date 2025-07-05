@@ -18,10 +18,13 @@
             <button class="button" data-category="specjalne">Specjalne</button>
         </div>
         <div class="styled-wrapper">
+		<div class="search-wrapper">
+		<input type="text" id="search-bar" placeholder="🔍 Szukaj...">
+		</div>
     <!--TODO
 		Filtr Tierami
 		Filtrowanie STR/DEX
-		SearchBar po frazie *-->
+		-->
     <button class="buttonq" onclick="window.location.href='../index.html'">
         <div class="buttonq-box">
             <span class="buttonq-elem">
@@ -59,6 +62,10 @@
     </header>
 
     <main>
+		<section class="search-feedback">
+			<div id="search-status" class="search-status"></div>
+			<div id="no-results" class="no-results">Brak wyników</div>
+		</section>
         <section class="model-grid"></section>
 
         <div id="model-viewer">

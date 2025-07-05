@@ -23,9 +23,11 @@
 		Filtrowanie tierami
 		Filtrowanie 1h/2h--
 		Filtrowanie STR/DEX
-		SearchBar po frazie *-->
+		-->
        <div class="styled-wrapper">
-    
+		<div class="search-wrapper">
+		<input type="text" id="search-bar" placeholder="🔍 Szukaj...">
+		</div>
     <button class="buttonq" onclick="window.location.href='../index.html'">
         <div class="buttonq-box">
             <span class="buttonq-elem">
@@ -61,6 +63,10 @@
 </div>
     </header>
  <main>
+		<section class="search-feedback">
+			<div id="search-status" class="search-status"></div>
+			<div id="no-results" class="no-results">Brak wyników</div>
+		</section>
         <section class="model-grid"></section>
 
         <div id="model-viewer">
