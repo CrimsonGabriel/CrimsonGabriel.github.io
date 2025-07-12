@@ -12,17 +12,28 @@
   <header>
         <div class="category-buttons">
             <button class="button" data-category="all">Wszystko</button>
-            <button class="button" data-category="Sk贸ry">Sk贸ry</button>
-            <button class="button" data-category="Nie sk贸ry">Nie sk贸ry</button>
+            <button class="button" data-category="Skóry">Skóry</button>
+            <button class="button" data-category="Nie skóry">Nie skóry</button>
             <button class="button" data-category="specjalne">Specjalne</button>
         </div>
-		<!--TODO
-		Filtr Tierami
-		-->
+		
         <div class="styled-wrapper">
-		<div class="search-wrapper">
-		<input type="text" id="search-bar" placeholder="馃攳 Szukaj...">
-		</div>
+		<aside id="side-filters">
+    <div id="filter-toggle-tab">?</div>
+
+  <div class="filters-wrapper">
+  <div class="filter-section">
+    <span class="filter-label">Tier:</span>
+    <button class="filter-button" data-tier="T0">N</button>
+    <button class="filter-button" data-tier="T1">I</button>
+    <button class="filter-button" data-tier="T2">II</button>
+    <button class="filter-button" data-tier="T3">III</button>
+    <button class="filter-button" data-tier="T4">IV</button>
+    <button class="filter-button" data-tier="T5">V</button>
+
+  <input type="text" id="search-bar" placeholder="?? Szukaj...">
+</div>
+</aside>
     <button class="buttonq" onclick="window.location.href='../index.html'">
         <div class="buttonq-box">
             <span class="buttonq-elem">
