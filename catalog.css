@@ -129,7 +129,8 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 20px;
+    padding: 5px;
+
 }
 
 .hands-tag {
@@ -256,6 +257,7 @@ header {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+	z-index: 9999;
 }
 .category-buttons {
     margin-top: 10px;
@@ -517,3 +519,118 @@ header {
   text-shadow: 1px 1px 4px #000;
   display: none;
 }
+.filters-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+
+.filter-section {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.filter-label {
+  font-family: 'Gothicll';
+  color: #fff;
+  font-size: 12px;
+  margin-right: 5px;
+}
+
+.filter-button {
+  font-family: 'Gothicll';
+  font-size: 13px;
+  padding: 4px 10px;
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.filter-button:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.filter-button.active {
+  background: rgba(255, 50, 50, 0.25);
+  border: 1px solid rgba(255, 80, 80, 0.8);
+  box-shadow: 0 0 6px rgba(255, 50, 50, 0.7);
+}
+
+body.viewer-open .search-wrapper,
+body.viewer-open .filter-wrapper,
+body.viewer-open .category-buttons {
+    display: none !important;
+}
+
+body.scrolling-hide .search-wrapper,
+body.scrolling-hide .filters-wrapper
+body.scrolling-hide .category-buttons {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.search-wrapper,
+.filter-wrapper,
+.category-buttons {
+    transition: opacity 0.3s ease;
+}
+
+#side-filters {
+  position: fixed;
+  top: 60px;
+  right: -300px; /* głębiej schowane */
+  width: 275px;
+  background: rgba(10,10,10,0.95);
+  border-left: 2px solid rgba(255,255,255,0.2);
+  box-shadow: -4px 0 8px rgba(0,0,0,0.4);
+  padding: 10px;
+  border-radius: 8px 0 0 8px;
+  transition: right 0.3s ease;
+  z-index: 1000;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+#side-filters.open {
+  right: 0;
+}
+
+
+#filter-toggle-tab {
+  position: fixed;
+  top: 110px; /* nie środek – góra */
+  right: 0;
+  transform: translateY(0%);
+  background: rgba(200, 0, 0, 0.9);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 8px 0 0 8px;
+  z-index: 1001;
+  transition: transform 0.3s ease;
+}
+
+#side-filters.open #filter-toggle-tab {
+  transform: rotate(180deg);
+}
+
+body.scrolling-hide .search-wrapper,
+body.scrolling-hide .filters-wrapper,
+body.scrolling-hide .category-buttons,
+body.scrolling-hide #filter-toggle-tab,
+body.scrolling-hide #side-filters {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
