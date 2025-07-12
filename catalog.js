@@ -23,93 +23,146 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function displayModels(modelsToDisplay) {
-        modelGrid.innerHTML = '';
-        modelsToDisplay.forEach(model => {
-            const card = document.createElement('div');
-            card.classList.add('model-card', 'main-card');
-            card.setAttribute('data-title', model.title.toLowerCase());
-            card.setAttribute('data-model', (basePath + model.model).toLowerCase());
+    modelGrid.innerHTML = '';
+    modelsToDisplay.forEach(model => {
+        const card = document.createElement('div');
+        card.classList.add('model-card', 'main-card');
+        card.setAttribute('data-title', model.title.toLowerCase());
+        card.setAttribute('data-model', (basePath + model.model).toLowerCase());
 
-            const desc = model.description?.toLowerCase() || "";
+        const desc = model.description?.toLowerCase() || "";
 
-		// Wyciągnij liczby po "siła:" i "zręczność:"
-		const strMatch = desc.match(/siła\s*[:\-]?\s*(\d+)/i);
-		const dexMatch = desc.match(/zręczność\s*[:\-]?\s*(\d+)/i);
+        // Statystyki STR / DEX / BOTH
+        const strMatch = desc.match(/siła\s*[:\-]?\s*(\d+)/i);
+        const dexMatch = desc.match(/zręczność\s*[:\-]?\s*(\d+)/i);
 
-		const strValue = strMatch ? parseInt(strMatch[1]) : 0;
-		const dexValue = dexMatch ? parseInt(dexMatch[1]) : 0;
+        const strValue = strMatch ? parseInt(strMatch[1]) : 0;
+        const dexValue = dexMatch ? parseInt(dexMatch[1]) : 0;
 
-		if (strValue > dexValue) {
-			card.setAttribute("data-stat", "STR");
-		} else if (dexValue > strValue) {
-			card.setAttribute("data-stat", "DEX");
-		} else if (strValue === dexValue && strValue > 0) {
-			card.setAttribute("data-stat", "BOTH");
+        if (strValue > dexValue) {
+            card.setAttribute("data-stat", "STR");
+        } else if (dexValue > strValue) {
+            card.setAttribute("data-stat", "DEX");
+        } else if (strValue === dexValue && strValue > 0) {
+            card.setAttribute("data-stat", "BOTH");
+        }
+
+		// Inteligentne przypisanie data-dmg na podstawie najwyższej wartości
+		const dmgTypes = {
+			CUT: /sieczne\s*[:\-]?\s*(\d+)/i,
+			PRC: /kłute\s*[:\-]?\s*(\d+)/i,
+			BLT: /obuch\s*[:\-]?\s*(\d+)/i,
+			MAG: /magia\s*[:\-]?\s*(\d+)/i,
+			BES: /bestie\s*[:\-]?\s*(\d+)/i
+		};
+
+		let maxValue = -1;
+		let topTypes = [];
+
+		for (const [key, regex] of Object.entries(dmgTypes)) {
+			const match = desc.match(regex);
+			const value = match ? parseInt(match[1]) : -1;
+			if (value > maxValue) {
+				maxValue = value;
+				topTypes = [key];
+			} else if (value === maxValue && value > -1) {
+				topTypes.push(key);
+			}
 		}
+
+		if (topTypes.length > 1) {
+			card.setAttribute("data-dmg", "MIX");
+		} else if (topTypes.length === 1) {
+			card.setAttribute("data-dmg", topTypes[0]);
+		}
+
 
 		
 
 
-            if (desc.includes("sieczne")) card.setAttribute("data-dmg", "CUT");
-            else if (desc.includes("kłute")) card.setAttribute("data-dmg", "PRC");
-            else if (desc.includes("obuchowe")) card.setAttribute("data-dmg", "BLT");
+        // Tier & hands
+        if (model.tier) card.setAttribute("data-tier", model.tier);
+        if (model.hands) card.setAttribute("data-hands", model.hands);
 
-            if (model.tier) card.setAttribute("data-tier", model.tier);
-            if (model.hands) card.setAttribute("data-hands", model.hands);
-
-            const img = document.createElement('img');
-            img.src = basePath + model.thumbnail;
-            img.alt = model.title;
-
-            const title = document.createElement('h2');
-            title.textContent = model.title;
-
-            if (model.hands) {
-                const handsTag = document.createElement('div');
-                handsTag.classList.add('hands-tag');
-                handsTag.textContent = model.hands === "1H" ? "Jednoręczna" : "Dwuręczna";
-                handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
-                card.appendChild(handsTag);
+        // Materiał → visual
+        if (model.material) {
+            if (model.material.toLowerCase() === "skóra") {
+                card.setAttribute("data-visual", "LIGHT");
+            } else if (model.material.toLowerCase() === "blacha") {
+                card.setAttribute("data-visual", "HEAVY");
             }
+        }
 
-            if (model.tier) {
-                const tierTag = document.createElement('div');
-                tierTag.classList.add('tier-tag');
-                tierTag.textContent = model.tier;
-                tierTag.classList.add(`tier-${model.tier.toLowerCase()}`);
-                card.appendChild(tierTag);
+        // Obraz + Tytuł
+        const img = document.createElement('img');
+        img.src = basePath + model.thumbnail;
+        img.alt = model.title;
+
+        const title = document.createElement('h2');
+        title.textContent = model.title;
+
+        // Etykiety (hands / tier)
+        if (model.hands) {
+            const handsTag = document.createElement('div');
+            handsTag.classList.add('hands-tag');
+            handsTag.textContent = model.hands === "1H" ? "Jednoręczna" : "Dwuręczna";
+            handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
+            card.appendChild(handsTag);
+        }
+
+        if (model.tier) {
+            const tierTag = document.createElement('div');
+            tierTag.classList.add('tier-tag');
+            tierTag.textContent = model.tier;
+            tierTag.classList.add(`tier-${model.tier.toLowerCase()}`);
+            card.appendChild(tierTag);
+        }
+
+        // Składanie karty
+        card.appendChild(img);
+        card.appendChild(title);
+        modelGrid.appendChild(card);
+
+        // Event kliknięcia – podgląd 3D
+        card.addEventListener('click', () => {
+            document.getElementById('model-title').textContent = model.title;
+            document.getElementById('model-description').textContent = model.description;
+            spinner.style.display = 'block';
+            const modelSrc = basePath + model.model;
+            if (modelViewerElement.getAttribute('src') === modelSrc) {
+                spinner.style.display = 'none';
+            } else {
+                modelViewerElement.setAttribute('src', '');
+                setTimeout(() => {
+                    modelViewerElement.setAttribute('src', modelSrc);
+                }, 50);
             }
-
-            card.appendChild(img);
-            card.appendChild(title);
-            modelGrid.appendChild(card);
-
-            card.addEventListener('click', () => {
-                document.getElementById('model-title').textContent = model.title;
-                document.getElementById('model-description').textContent = model.description;
-                spinner.style.display = 'block';
-                const modelSrc = basePath + model.model;
-                if (modelViewerElement.getAttribute('src') === modelSrc) {
-                    spinner.style.display = 'none';
-                } else {
-                    modelViewerElement.setAttribute('src', '');
-                    setTimeout(() => {
-                        modelViewerElement.setAttribute('src', modelSrc);
-                    }, 50);
-                }
-                modelViewer.style.display = 'flex';
-                document.body.classList.add('viewer-open');
-            });
+            modelViewer.style.display = 'flex';
+            document.body.classList.add('viewer-open');
         });
+    });
 
-        applyAllFilters(); // filtruj po renderze
-    }
+    applyAllFilters(); // po renderze
+}
+
+
 
     // FILTRY
     let activeTier = null;
     let activeHands = null;
     let activeStat = null;
     let activeDmg = null;
+	let activeVisual = null;
+
+	document.querySelectorAll('.filter-button[data-visual]').forEach(button => {
+		button.addEventListener('click', () => {
+			document.querySelectorAll('.filter-button[data-visual]').forEach(b => b.classList.remove('active'));
+			activeVisual = (activeVisual === button.dataset.visual) ? null : button.dataset.visual;
+			if (activeVisual) button.classList.add('active');
+			applyAllFilters();
+		});
+	});
+
 
     document.querySelectorAll('.filter-button[data-tier]').forEach(button => {
         button.addEventListener('click', () => {
@@ -163,7 +216,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchStat = !activeStat || card.dataset.stat === activeStat;
             const matchDmg = !activeDmg || card.dataset.dmg === activeDmg;
 
-            const match = matchSearch && matchTier && matchHands && matchStat && matchDmg;
+            const match = matchSearch && matchTier && matchHands && matchStat && matchDmg && (!activeVisual || card.dataset.visual === activeVisual);
+
 
             card.style.display = match ? "block" : "none";
             if (match) visible++;

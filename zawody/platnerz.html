@@ -17,15 +17,7 @@
 			<button class="button" data-category="Tarcze">Tarcze</button>
             <button class="button" data-category="specjalne">Specjalne</button>
         </div>
-		<!--TODO
-		Filtrowanie tierami
-		Filtrowanie STR/DEX
-		Filtr Visual Płyta/Skóra
-		-->
         <div class="styled-wrapper">
-		<div class="search-wrapper">
-		<input type="text" id="search-bar" placeholder="🔍 Szukaj...">
-		</div>
     <button class="buttonq" onclick="window.location.href='../index.html'">
         <div class="buttonq-box">
             <span class="buttonq-elem">
@@ -79,5 +71,46 @@
     </main>
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
     <script src="../catalog.js"></script>
+	<aside id="side-filters">
+  <div id="filter-toggle-tab">❯</div>
+
+  <div class="filters-wrapper">
+    <div class="filter-section">
+      <span class="filter-label">Tier:</span>
+      <button class="filter-button" data-tier="T0">N</button>
+      <button class="filter-button" data-tier="T1">I</button>
+      <button class="filter-button" data-tier="T2">II</button>
+      <button class="filter-button" data-tier="T3">III</button>
+      <button class="filter-button" data-tier="T4">IV</button>
+      <button class="filter-button" data-tier="T5">V</button>
+    </div>
+
+    <div class="filter-section">
+      <span class="filter-label">Stat:</span>
+      <button class="filter-button" data-stat="STR">STR</button>
+      <button class="filter-button" data-stat="DEX">DEX</button>
+      <button class="filter-button" data-stat="BOTH">BOTH</button>
+    </div>
+
+    <div class="filter-section">
+      <span class="filter-label">Obrona:</span>
+      <button class="filter-button" data-dmg="CUT">✂️</button>
+      <button class="filter-button" data-dmg="PRC">🗡️</button>
+      <button class="filter-button" data-dmg="BLT">🔨</button>
+      <button class="filter-button" data-dmg="MAG">🔮</button>
+      <button class="filter-button" data-dmg="BES">🐺</button>
+      <button class="filter-button" data-dmg="MIX">🧩</button>
+    </div>
+
+    <div class="filter-section">
+      <span class="filter-label">Visual:</span>
+      <button class="filter-button" data-visual="LIGHT">Skóra</button>
+      <button class="filter-button" data-visual="HEAVY">Blacha</button>
+    </div>
+
+    <input type="text" id="search-bar" placeholder="🔍 Szukaj..." />
+  </div>
+</aside>
+
 </body>
 </html>
