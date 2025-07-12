@@ -100,7 +100,7 @@
     },
     {
         "title": "Ciemna maczuga",
-        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuch:10",
         "thumbnail": "assets/card/obuch.webp",
         "model": "assets/models/obuch.glb",
         "category": "Obuchy",
@@ -109,7 +109,7 @@
     },
     {
         "title": "Ćwiekowana pałka",
-        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuch:10",
         "thumbnail": "assets/card/obuch2.webp",
         "model": "assets/models/obuch2.glb",
         "category": "Obuchy",
@@ -118,7 +118,7 @@
     },
     {
         "title": "Prymitywny młot",
-        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuch:16",
         "thumbnail": "assets/card/obuch5.webp",
         "model": "assets/models/obuch5.glb",
         "category": "Obuchy",
@@ -127,7 +127,7 @@
     },
     {
         "title": "Ciężka maczuga",
-        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuch:16",
         "thumbnail": "assets/card/obuch6.webp",
         "model": "assets/models/obuch6.glb",
         "category": "Obuchy",
@@ -136,7 +136,7 @@
     },
     {
         "title": "Wyszczerbiony topór",
-        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:10",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuch:10",
         "thumbnail": "assets/card/topor.webp",
         "model": "assets/models/topor.glb",
         "category": "Topory",
@@ -236,7 +236,7 @@
     },
     {
         "title": "Młot wojenny",
-        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuch:18",
         "thumbnail": "assets/card/obuch3.webp",
         "model": "assets/models/obuch3.glb",
         "category": "Obuchy",
@@ -245,7 +245,7 @@
     },
     {
         "title": "Żelazny język",
-        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuch:18",
         "thumbnail": "assets/card/obuch4.webp",
         "model": "assets/models/obuch4.glb",
         "category": "Obuchy",
@@ -254,7 +254,7 @@
     },
     {
         "title": "Prosty kamienny młot",
-        "description": "WYMAGANIA:\nSiła:18\nZręczność:13\n\nOBRAŻENIA:\nObuchowe:25",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:13\n\nOBRAŻENIA:\nObuch:25",
         "thumbnail": "assets/card/obuch7.webp",
         "model": "assets/models/obuch7.glb",
         "category": "Obuchy",
@@ -355,7 +355,7 @@
     },
     {
         "title": "Morgenstern",
-        "description": "WYMAGANIA:\nSiła:28\nZręczność:16\n\nOBRAŻENIA:\nObuchowe:25",
+        "description": "WYMAGANIA:\nSiła:28\nZręczność:16\n\nOBRAŻENIA:\nObuch:25",
         "thumbnail": "assets/card/obuch9.webp",
         "model": "assets/models/obuch9.glb",
         "category": "Obuchy",
@@ -364,7 +364,7 @@
     },
     {
         "title": "Maczuga najemnika",
-        "description": "WYMAGANIA:\nSiła:28\nZręczność:16\n\nOBRAŻENIA:\nObuchowe:25",
+        "description": "WYMAGANIA:\nSiła:28\nZręczność:16\n\nOBRAŻENIA:\nObuch:25",
         "thumbnail": "assets/card/obuch10.webp",
         "model": "assets/models/obuch10.glb",
         "category": "Obuchy",
@@ -373,7 +373,7 @@
     },
     {
         "title": "Pała Szamana",
-        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nObuchowe:38",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nObuch:38",
         "thumbnail": "assets/card/obuch8.webp",
         "model": "assets/models/obuch8.glb",
         "category": "Obuchy",
@@ -463,7 +463,7 @@
     },
     {
         "title": "Stalowy pierniacz",
-        "description": "WYMAGANIA:\nSiła:40\nZręczność:22\n\nOBRAŻENIA:\nObuchowe:33",
+        "description": "WYMAGANIA:\nSiła:40\nZręczność:22\n\nOBRAŻENIA:\nObuch:33",
         "thumbnail": "assets/card/obuch11.webp",
         "model": "assets/models/obuch11.glb",
         "category": "Obuchy",
@@ -472,7 +472,7 @@
     },
     {
         "title": "Kamienny młot",
-        "description": "WYMAGANIA:\nSiła:40\nZręczność:25\n\nOBRAŻENIA:\nObuchowe:44",
+        "description": "WYMAGANIA:\nSiła:40\nZręczność:25\n\nOBRAŻENIA:\nObuch:44",
         "thumbnail": "assets/card/obuch12.webp",
         "model": "assets/models/obuch12.glb",
         "category": "Obuchy",
@@ -598,7 +598,7 @@
     },
     {
         "title": "Mniejsza gwiazda zaranna",
-        "description": "WYMAGANIA:\nSiła:52\nZręczność:29\n\nOBRAŻENIA:\nObuchowe:41",
+        "description": "WYMAGANIA:\nSiła:52\nZręczność:29\n\nOBRAŻENIA:\nObuch:41",
         "thumbnail": "assets/card/obuch13.webp",
         "model": "assets/models/obuch13.glb",
         "category": "Obuchy",
@@ -607,7 +607,7 @@
     },
     {
         "title": "Ciężki młot żołnierski",
-        "description": "WYMAGANIA:\nSiła:52\nZręczność:34\n\nOBRAŻENIA:\nObuchowe:52",
+        "description": "WYMAGANIA:\nSiła:52\nZręczność:34\n\nOBRAŻENIA:\nObuch:52",
         "thumbnail": "assets/card/obuch15.webp",
         "model": "assets/models/obuch15.glb",
         "category": "Obuchy",
@@ -715,7 +715,7 @@
     },
     {
         "title": "Rozłupywacz czaszek",
-        "description": "WYMAGANIA:\nSiła:63\nZręczność:35\n\nOBRAŻENIA:\nObuchowe:49",
+        "description": "WYMAGANIA:\nSiła:63\nZręczność:35\n\nOBRAŻENIA:\nObuch:49",
         "thumbnail": "assets/card/obuch14.webp",
         "model": "assets/models/obuch14.glb",
         "category": "Obuchy",
@@ -724,7 +724,7 @@
     },
     {
         "title": "Stalowy młot dwuręczny",
-        "description": "WYMAGANIA:\nSiła:63\nZręczność:42\n\nOBRAŻENIA:\nObuchowe:63",
+        "description": "WYMAGANIA:\nSiła:63\nZręczność:42\n\nOBRAŻENIA:\nObuch:63",
         "thumbnail": "assets/card/obuch16.webp",
         "model": "assets/models/obuch16.glb",
         "category": "Obuchy",
