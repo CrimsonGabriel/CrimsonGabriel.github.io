@@ -16,3 +16,16 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+assets/dane/test.json
+Lista Broni(in progress).csv
+Lista itemów - KM.csv
+Lista itemów - addon armors koz.csv
+Lista itemów - saga 2.csv
+Lista itemów - vanilla g2nk .csv
+Lista mebli (in progress).csv
+Lista Pancerzy(in progress).csv
+/node_modules
+update_json_data.js
+Spis run.csv
+package.json
+package-lock.json

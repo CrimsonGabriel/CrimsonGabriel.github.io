@@ -6,6 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const spinner = document.getElementById('spinner');
     const categoryButtons = document.querySelectorAll('.button');
 
+	const modelInstance = document.createElement('p');
+    modelInstance.id = 'model-instance';
+    modelInstance.classList.add('model-detail-instance');
+    document.getElementById('model-info').appendChild(modelInstance);
+
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
     const basePath = window.location.pathname.includes('/zawody/') ? '../' : '';
@@ -23,146 +28,161 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function displayModels(modelsToDisplay) {
-    modelGrid.innerHTML = '';
-    modelsToDisplay.forEach(model => {
-        const card = document.createElement('div');
-        card.classList.add('model-card', 'main-card');
-        card.setAttribute('data-title', model.title.toLowerCase());
-        card.setAttribute('data-model', (basePath + model.model).toLowerCase());
+        modelGrid.innerHTML = '';
+        modelsToDisplay.forEach(model => {
+            const card = document.createElement('div');
+            card.classList.add('model-card', 'main-card');
+            card.setAttribute('data-title', model.title.toLowerCase());
+            card.setAttribute('data-model', (basePath + model.model).toLowerCase());
 
-        const desc = model.description?.toLowerCase() || "";
-
-        // Statystyki STR / DEX / BOTH
-        const strMatch = desc.match(/siła\s*[:\-]?\s*(\d+)/i);
-        const dexMatch = desc.match(/zręczność\s*[:\-]?\s*(\d+)/i);
-
-        const strValue = strMatch ? parseInt(strMatch[1]) : 0;
-        const dexValue = dexMatch ? parseInt(dexMatch[1]) : 0;
-
-        if (strValue > dexValue) {
-            card.setAttribute("data-stat", "STR");
-        } else if (dexValue > strValue) {
-            card.setAttribute("data-stat", "DEX");
-        } else if (strValue === dexValue && strValue > 0) {
-            card.setAttribute("data-stat", "BOTH");
-        }
-
-		// Inteligentne przypisanie data-dmg na podstawie najwyższej wartości
-		const dmgTypes = {
-			CUT: /sieczne\s*[:\-]?\s*(\d+)/i,
-			PRC: /kłute\s*[:\-]?\s*(\d+)/i,
-			BLT: /obuch\s*[:\-]?\s*(\d+)/i,
-			MAG: /magia\s*[:\-]?\s*(\d+)/i,
-			BES: /bestie\s*[:\-]?\s*(\d+)/i
-		};
-
-		let maxValue = -1;
-		let topTypes = [];
-
-		for (const [key, regex] of Object.entries(dmgTypes)) {
-			const match = desc.match(regex);
-			const value = match ? parseInt(match[1]) : -1;
-			if (value > maxValue) {
-				maxValue = value;
-				topTypes = [key];
-			} else if (value === maxValue && value > -1) {
-				topTypes.push(key);
-			}
-		}
-
-		if (topTypes.length > 1) {
-			card.setAttribute("data-dmg", "MIX");
-		} else if (topTypes.length === 1) {
-			card.setAttribute("data-dmg", topTypes[0]);
-		}
-
-
-		
-
-
-        // Tier & hands
-        if (model.tier) card.setAttribute("data-tier", model.tier);
-        if (model.hands) card.setAttribute("data-hands", model.hands);
-
-        // Materiał → visual
-        if (model.material) {
-            if (model.material.toLowerCase() === "skóra") {
-                card.setAttribute("data-visual", "LIGHT");
-            } else if (model.material.toLowerCase() === "blacha") {
-                card.setAttribute("data-visual", "HEAVY");
-            }
-        }
-
-        // Obraz + Tytuł
-        const img = document.createElement('img');
-        img.src = basePath + model.thumbnail;
-        img.alt = model.title;
-
-        const title = document.createElement('h2');
-        title.textContent = model.title;
-
-        // Etykiety (hands / tier)
-        if (model.hands) {
-            const handsTag = document.createElement('div');
-            handsTag.classList.add('hands-tag');
-            handsTag.textContent = model.hands === "1H" ? "Jednoręczna" : "Dwuręczna";
-            handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
-            card.appendChild(handsTag);
-        }
-
-        if (model.tier) {
-            const tierTag = document.createElement('div');
-            tierTag.classList.add('tier-tag');
-            tierTag.textContent = model.tier;
-            tierTag.classList.add(`tier-${model.tier.toLowerCase()}`);
-            card.appendChild(tierTag);
-        }
-
-        // Składanie karty
-        card.appendChild(img);
-        card.appendChild(title);
-        modelGrid.appendChild(card);
-
-        // Event kliknięcia – podgląd 3D
-        card.addEventListener('click', () => {
-            document.getElementById('model-title').textContent = model.title;
-            document.getElementById('model-description').textContent = model.description;
-            spinner.style.display = 'block';
-            const modelSrc = basePath + model.model;
-            if (modelViewerElement.getAttribute('src') === modelSrc) {
-                spinner.style.display = 'none';
+            // Dodanie data-letter na podstawie pierwszej litery tytułu
+            const firstLetter = model.title.charAt(0).toUpperCase();
+            if (firstLetter >= 'A' && firstLetter <= 'Z') {
+                card.setAttribute("data-letter", firstLetter);
             } else {
-                modelViewerElement.setAttribute('src', '');
-                setTimeout(() => {
-                    modelViewerElement.setAttribute('src', modelSrc);
-                }, 50);
+                card.setAttribute("data-letter", "123");
             }
-            modelViewer.style.display = 'flex';
-            document.body.classList.add('viewer-open');
+
+			if (model.instance) {
+            card.setAttribute("data-instance", model.instance);
+			}
+		
+            const desc = model.description?.toLowerCase() || "";
+
+            // Statystyki STR / DEX / BOTH
+            const strMatch = desc.match(/siła\s*[:\-]?\s*(\d+)/i);
+            const dexMatch = desc.match(/zręczność\s*[:\-]?\s*(\d+)/i);
+
+            const strValue = strMatch ? parseInt(strMatch[1]) : 0;
+            const dexValue = dexMatch ? parseInt(dexMatch[1]) : 0;
+
+            if (strValue > dexValue) {
+                card.setAttribute("data-stat", "STR");
+            } else if (dexValue > strValue) {
+                card.setAttribute("data-stat", "DEX");
+            } else if (strValue === dexValue && strValue > 0) {
+                card.setAttribute("data-stat", "BOTH");
+            }
+
+            // Inteligentne przypisanie data-dmg na podstawie najwyższej wartości
+            const dmgTypes = {
+                CUT: /sieczne\s*[:\-]?\s*(\d+)/i,
+                PRC: /kłute\s*[:\-]?\s*(\d+)/i,
+                BLT: /obuch\s*[:\-]?\s*(\d+)/i,
+                MAG: /magia\s*[:\-]?\s*(\d+)/i,
+                BES: /bestie\s*[:\-]?\s*(\d+)/i
+            };
+
+            let maxValue = -1;
+            let topTypes = [];
+
+            for (const [key, regex] of Object.entries(dmgTypes)) {
+                const match = desc.match(regex);
+                const value = match ? parseInt(match[1]) : -1;
+                if (value > maxValue) {
+                    maxValue = value;
+                    topTypes = [key];
+                } else if (value === maxValue && value > -1) {
+                    topTypes.push(key);
+                }
+            }
+
+            if (topTypes.length > 1) {
+                card.setAttribute("data-dmg", "MIX");
+            } else if (topTypes.length === 1) {
+                card.setAttribute("data-dmg", topTypes[0]);
+            }
+
+            // Tier & hands
+            if (model.tier) card.setAttribute("data-tier", model.tier);
+            if (model.hands) card.setAttribute("data-hands", model.hands);
+
+            // Materiał → visual
+            if (model.material) {
+                if (model.material.toLowerCase() === "skóra") {
+                    card.setAttribute("data-visual", "LIGHT");
+                } else if (model.material.toLowerCase() === "blacha") {
+                    card.setAttribute("data-visual", "HEAVY");
+                }
+            }
+
+            // Obraz + Tytuł
+            const img = document.createElement('img');
+            img.src = basePath + model.thumbnail;
+            img.alt = model.title;
+
+            const title = document.createElement('h2');
+            title.textContent = model.title;
+
+            // Etykiety (hands / tier)
+            if (model.hands) {
+                const handsTag = document.createElement('div');
+                handsTag.classList.add('hands-tag');
+                handsTag.textContent = model.hands === "1H" ? "Jednoręczna" : "Dwuręczna";
+                handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
+                card.appendChild(handsTag);
+            }
+
+            if (model.tier) {
+                const tierTag = document.createElement('div');
+                tierTag.classList.add('tier-tag');
+                tierTag.textContent = model.tier;
+                tierTag.classList.add(`tier-${model.tier.toLowerCase()}`);
+                card.appendChild(tierTag);
+            }
+
+            // Składanie karty
+            card.appendChild(img);
+            card.appendChild(title);
+            modelGrid.appendChild(card);
+
+            // Event kliknięcia – podgląd 3D
+            card.addEventListener('click', () => {
+                document.getElementById('model-title').textContent = model.title;
+                document.getElementById('model-description').textContent = model.description;
+				
+				if (model.instance) {
+                modelInstance.textContent = `Instancja: ${model.instance}`;
+                modelInstance.style.display = 'block'; 
+				} else {
+					modelInstance.textContent = ''; 
+					modelInstance.style.display = 'none';
+				}
+			
+                spinner.style.display = 'block';
+                const modelSrc = basePath + model.model;
+                if (modelViewerElement.getAttribute('src') === modelSrc) {
+                    spinner.style.display = 'none';
+                } else {
+                    modelViewerElement.setAttribute('src', '');
+                    setTimeout(() => {
+                        modelViewerElement.setAttribute('src', modelSrc);
+                    }, 50);
+                }
+                modelViewer.style.display = 'flex';
+                document.body.classList.add('viewer-open');
+            });
         });
-    });
 
-    applyAllFilters(); // po renderze
-}
-
-
+        applyAllFilters(); // po renderze
+    }
 
     // FILTRY
     let activeTier = null;
     let activeHands = null;
     let activeStat = null;
     let activeDmg = null;
-	let activeVisual = null;
+    let activeVisual = null;
+    let activeLetter = null; // Nowa zmienna dla aktywnego filtra literowego
 
-	document.querySelectorAll('.filter-button[data-visual]').forEach(button => {
-		button.addEventListener('click', () => {
-			document.querySelectorAll('.filter-button[data-visual]').forEach(b => b.classList.remove('active'));
-			activeVisual = (activeVisual === button.dataset.visual) ? null : button.dataset.visual;
-			if (activeVisual) button.classList.add('active');
-			applyAllFilters();
-		});
-	});
-
+    document.querySelectorAll('.filter-button[data-visual]').forEach(button => {
+        button.addEventListener('click', () => {
+            document.querySelectorAll('.filter-button[data-visual]').forEach(b => b.classList.remove('active'));
+            activeVisual = (activeVisual === button.dataset.visual) ? null : button.dataset.visual;
+            if (activeVisual) button.classList.add('active');
+            applyAllFilters();
+        });
+    });
 
     document.querySelectorAll('.filter-button[data-tier]').forEach(button => {
         button.addEventListener('click', () => {
@@ -200,6 +220,16 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // Obsługa filtrów alfabetycznych
+    document.querySelectorAll('.filter-button[data-letter]').forEach(button => {
+        button.addEventListener('click', () => {
+            document.querySelectorAll('.filter-button[data-letter]').forEach(b => b.classList.remove('active'));
+            activeLetter = (activeLetter === button.dataset.letter) ? null : button.dataset.letter;
+            if (activeLetter) button.classList.add('active');
+            applyAllFilters();
+        });
+    });
+
     function applyAllFilters() {
         const query = document.getElementById('search-bar').value.toLowerCase().trim();
         const cards = document.querySelectorAll('.main-card');
@@ -209,14 +239,17 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = card.dataset.title || "";
             const thumb = card.querySelector('img')?.src || "";
             const modelPath = card.dataset.model || "";
+			const instance = card.dataset.instance || "";
 
-            const matchSearch = title.includes(query) || thumb.includes(query) || modelPath.includes(query);
+            const matchSearch = title.includes(query) || thumb.includes(query) || modelPath.includes(query) || instance.toLowerCase().includes(query);
             const matchTier = !activeTier || card.dataset.tier === activeTier;
             const matchHands = !activeHands || card.dataset.hands === activeHands;
             const matchStat = !activeStat || card.dataset.stat === activeStat;
             const matchDmg = !activeDmg || card.dataset.dmg === activeDmg;
+            const matchLetter = !activeLetter || card.dataset.letter === activeLetter;
 
-            const match = matchSearch && matchTier && matchHands && matchStat && matchDmg && (!activeVisual || card.dataset.visual === activeVisual);
+
+            const match = matchSearch && matchTier && matchHands && matchStat && matchDmg && matchLetter && (!activeVisual || card.dataset.visual === activeVisual);
 
 
             card.style.display = match ? "block" : "none";
@@ -256,6 +289,8 @@ document.addEventListener('DOMContentLoaded', () => {
     closeViewer.addEventListener('click', () => {
         modelViewer.style.display = 'none';
         document.body.classList.remove('viewer-open');
+		 modelInstance.textContent = '';
+		 modelInstance.style.display = 'none';
     });
 
     let scrollTimeout;
@@ -280,11 +315,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     fetchModels();
-	const toggleTab = document.getElementById('filter-toggle-tab');
-const sideFilters = document.getElementById('side-filters');
+    const toggleTab = document.getElementById('filter-toggle-tab');
+    const sideFilters = document.getElementById('side-filters');
 
-toggleTab.addEventListener('click', () => {
-  sideFilters.classList.toggle('open');
-});
+    toggleTab.addEventListener('click', () => {
+        sideFilters.classList.toggle('open');
+    });
 
 });

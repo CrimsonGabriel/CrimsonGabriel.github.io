@@ -635,3 +635,18 @@ body.scrolling-hide #side-filters {
   transition: opacity 0.3s ease;
 }
 
+
+
+.alphabet-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px; 
+    margin-top: 10px;
+}
+
+.alphabet-filters .filter-button {
+    flex: 0 0 calc(10% - 5px); 
+    min-width: 30px; 
+    text-align: center;
+}
+
