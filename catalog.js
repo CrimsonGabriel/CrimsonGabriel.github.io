@@ -6,10 +6,52 @@ document.addEventListener('DOMContentLoaded', () => {
     const spinner = document.getElementById('spinner');
     const categoryButtons = document.querySelectorAll('.button');
 
-	const modelInstance = document.createElement('p');
+    const modelInstance = document.createElement('p');
     modelInstance.id = 'model-instance';
     modelInstance.classList.add('model-detail-instance');
     document.getElementById('model-info').appendChild(modelInstance);
+
+    // Nowe elementy do wyświetlania w podglądzie, tworzone dynamicznie
+    const modelInstancesaga3 = document.createElement('p');
+    modelInstancesaga3.id = 'model-instancesaga3';
+    modelInstancesaga3.classList.add('model-detail-instancesaga3');
+    document.getElementById('model-info').appendChild(modelInstancesaga3);
+
+    const modelOpis = document.createElement('p');
+    modelOpis.id = 'model-opis';
+    modelOpis.classList.add('model-detail-opis');
+    document.getElementById('model-info').appendChild(modelOpis);
+
+    const modelWeight = document.createElement('p');
+    modelWeight.id = 'model-weight';
+    modelWeight.classList.add('model-detail-weight');
+    document.getElementById('model-info').appendChild(modelWeight);
+
+    const modelRange = document.createElement('p');
+    modelRange.id = 'model-range';
+    modelRange.classList.add('model-detail-range');
+    document.getElementById('model-info').appendChild(modelRange);
+
+    const modelMagicCircle = document.createElement('p');
+    modelMagicCircle.id = 'model-magic_circle';
+    modelMagicCircle.classList.add('model-detail-magic_circle');
+    document.getElementById('model-info').appendChild(modelMagicCircle);
+
+    const modelManaCost = document.createElement('p');
+    modelManaCost.id = 'model-mana_cost';
+    modelManaCost.classList.add('model-detail-mana_cost');
+    document.getElementById('model-info').appendChild(modelManaCost);
+
+    const modelDurability = document.createElement('p');
+    modelDurability.id = 'model-durability';
+    modelDurability.classList.add('model-detail-durability');
+    document.getElementById('model-info').appendChild(modelDurability);
+
+    const modelHands = document.createElement('p');
+    modelHands.id = 'model-hands';
+    modelHands.classList.add('model-detail-hands');
+    document.getElementById('model-info').appendChild(modelHands);
+
 
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
@@ -27,26 +69,43 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // Funkcja pomocnicza do ustawiania tekstu i widoczności elementu
+    function setDetailText(element, label, value) {
+        if (value && value.trim() !== "" && value.trim().toUpperCase() !== "TODO" && value.trim().toUpperCase() !== "?") {
+            element.textContent = `${label}: ${value}`;
+            element.style.display = 'block';
+        } else {
+            element.textContent = '';
+            element.style.display = 'none';
+        }
+    }
+
     function displayModels(modelsToDisplay) {
         modelGrid.innerHTML = '';
         modelsToDisplay.forEach(model => {
             const card = document.createElement('div');
             card.classList.add('model-card', 'main-card');
-            card.setAttribute('data-title', model.title.toLowerCase());
-            card.setAttribute('data-model', (basePath + model.model).toLowerCase());
 
-            // Dodanie data-letter na podstawie pierwszej litery tytułu
-            const firstLetter = model.title.charAt(0).toUpperCase();
+            // Określ, czy wyświetlamy 'name' czy 'title'
+            const isNameAvailable = model.name && model.name.trim() !== "";
+            const displayNameForSearch = (isNameAvailable ? model.name : model.title || '').toLowerCase();
+            card.setAttribute('data-title', displayNameForSearch);
+            card.setAttribute('data-model', (basePath + model.model).toLowerCase());
+            // Nowy atrybut do filtrowania 'Name'/'Title'
+            card.setAttribute('data-display-source', isNameAvailable ? 'name' : 'title');
+
+
+            const firstLetter = (isNameAvailable ? model.name : model.title || '').charAt(0).toUpperCase();
             if (firstLetter >= 'A' && firstLetter <= 'Z') {
                 card.setAttribute("data-letter", firstLetter);
             } else {
                 card.setAttribute("data-letter", "123");
             }
 
-			if (model.instance) {
-            card.setAttribute("data-instance", model.instance);
-			}
-		
+            if (model.instance) {
+                card.setAttribute("data-instance", model.instance);
+            }
+
             const desc = model.description?.toLowerCase() || "";
 
             // Statystyki STR / DEX / BOTH
@@ -109,10 +168,10 @@ document.addEventListener('DOMContentLoaded', () => {
             // Obraz + Tytuł
             const img = document.createElement('img');
             img.src = basePath + model.thumbnail;
-            img.alt = model.title;
+            img.alt = isNameAvailable ? model.name : model.title;
 
             const title = document.createElement('h2');
-            title.textContent = model.title;
+            title.textContent = isNameAvailable ? model.name : model.title; // Wyświetlana nazwa na 'name' lub 'title'
 
             // Etykiety (hands / tier)
             if (model.hands) {
@@ -138,17 +197,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Event kliknięcia – podgląd 3D
             card.addEventListener('click', () => {
-                document.getElementById('model-title').textContent = model.title;
+                document.getElementById('model-title').textContent = isNameAvailable ? model.name : model.title;
                 document.getElementById('model-description').textContent = model.description;
-				
-				if (model.instance) {
-                modelInstance.textContent = `Instancja: ${model.instance}`;
-                modelInstance.style.display = 'block'; 
-				} else {
-					modelInstance.textContent = ''; 
-					modelInstance.style.display = 'none';
-				}
-			
+
+                setDetailText(modelInstance, 'Instancja', model.instance);
+                setDetailText(modelInstancesaga3, 'Instancja [Saga3]', model.instancesaga3);
+                setDetailText(modelOpis, 'Opis Przedmiotu', model.opis);
+                setDetailText(modelWeight, 'Waga', model.weight);
+                setDetailText(modelRange, 'Zasięg', model.range);
+                setDetailText(modelMagicCircle, 'Magiczny Krąg', model.magic_circle);
+                setDetailText(modelManaCost, 'Koszt Many', model.mana_cost);
+                setDetailText(modelDurability, 'Wytrzymałość', model.durability);
+                setDetailText(modelHands, 'Uchwyt', model.hands === "1H" ? "Jednoręczna" : (model.hands === "2H" ? "Dwuręczna" : ""));
+
+
                 spinner.style.display = 'block';
                 const modelSrc = basePath + model.model;
                 if (modelViewerElement.getAttribute('src') === modelSrc) {
@@ -173,7 +235,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let activeStat = null;
     let activeDmg = null;
     let activeVisual = null;
-    let activeLetter = null; // Nowa zmienna dla aktywnego filtra literowego
+    let activeLetter = null;
+    let activeDisplaySource = null; // NOWA ZMIENNA DLA FILTRA NAME/TITLE
 
     document.querySelectorAll('.filter-button[data-visual]').forEach(button => {
         button.addEventListener('click', () => {
@@ -230,16 +293,27 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // NOWA OBSŁUGA FILTRÓW DLA ŹRÓDŁA NAZWY (NAME/TITLE)
+    document.querySelectorAll('.filter-button[data-display-source]').forEach(button => {
+        button.addEventListener('click', () => {
+            document.querySelectorAll('.filter-button[data-display-source]').forEach(b => b.classList.remove('active'));
+            activeDisplaySource = (activeDisplaySource === button.dataset.displaySource) ? null : button.dataset.displaySource;
+            if (activeDisplaySource) button.classList.add('active');
+            applyAllFilters();
+        });
+    });
+
+
     function applyAllFilters() {
         const query = document.getElementById('search-bar').value.toLowerCase().trim();
         const cards = document.querySelectorAll('.main-card');
         let visible = 0;
 
         cards.forEach(card => {
-            const title = card.dataset.title || "";
+            const title = card.dataset.title || ""; // Teraz używa name/title
             const thumb = card.querySelector('img')?.src || "";
             const modelPath = card.dataset.model || "";
-			const instance = card.dataset.instance || "";
+            const instance = card.dataset.instance || "";
 
             const matchSearch = title.includes(query) || thumb.includes(query) || modelPath.includes(query) || instance.toLowerCase().includes(query);
             const matchTier = !activeTier || card.dataset.tier === activeTier;
@@ -247,9 +321,11 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchStat = !activeStat || card.dataset.stat === activeStat;
             const matchDmg = !activeDmg || card.dataset.dmg === activeDmg;
             const matchLetter = !activeLetter || card.dataset.letter === activeLetter;
+            // NOWY WARUNEK FILTROWANIA DLA ŹRÓDŁA NAZWY
+            const matchDisplaySource = !activeDisplaySource || card.dataset.displaySource === activeDisplaySource;
 
 
-            const match = matchSearch && matchTier && matchHands && matchStat && matchDmg && matchLetter && (!activeVisual || card.dataset.visual === activeVisual);
+            const match = matchSearch && matchTier && matchHands && matchStat && matchDmg && matchLetter && matchDisplaySource && (!activeVisual || card.dataset.visual === activeVisual);
 
 
             card.style.display = match ? "block" : "none";
@@ -289,8 +365,25 @@ document.addEventListener('DOMContentLoaded', () => {
     closeViewer.addEventListener('click', () => {
         modelViewer.style.display = 'none';
         document.body.classList.remove('viewer-open');
-		 modelInstance.textContent = '';
-		 modelInstance.style.display = 'none';
+        // Resetowanie wszystkich pól po zamknięciu podglądu
+        modelInstance.textContent = '';
+        modelInstance.style.display = 'none';
+        modelInstancesaga3.textContent = '';
+        modelInstancesaga3.style.display = 'none';
+        modelOpis.textContent = '';
+        modelOpis.style.display = 'none';
+        modelWeight.textContent = '';
+        modelWeight.style.display = 'none';
+        modelRange.textContent = '';
+        modelRange.style.display = 'none';
+        modelMagicCircle.textContent = '';
+        modelMagicCircle.style.display = 'none';
+        modelManaCost.textContent = '';
+        modelManaCost.style.display = 'none';
+        modelDurability.textContent = '';
+        modelDurability.style.display = 'none';
+        modelHands.textContent = '';
+        modelHands.style.display = 'none';
     });
 
     let scrollTimeout;
@@ -321,5 +414,4 @@ document.addEventListener('DOMContentLoaded', () => {
     toggleTab.addEventListener('click', () => {
         sideFilters.classList.toggle('open');
     });
-
 });
