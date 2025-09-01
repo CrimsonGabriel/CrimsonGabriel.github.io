@@ -52,7 +52,97 @@ document.addEventListener('DOMContentLoaded', () => {
     modelHands.classList.add('model-detail-hands');
     document.getElementById('model-info').appendChild(modelHands);
 
+    // Nowe elementy z pliku Itemki.csv
+    const modelUses = document.createElement('p');
+    modelUses.id = 'model-uses';
+    modelUses.classList.add('model-detail-uses');
+    document.getElementById('model-info').appendChild(modelUses);
+    
+    const modelStaminaPerHit = document.createElement('p');
+    modelStaminaPerHit.id = 'model-staminaPerHit';
+    modelStaminaPerHit.classList.add('model-detail-staminaPerHit');
+    document.getElementById('model-info').appendChild(modelStaminaPerHit);
 
+    const modelHpPerHit = document.createElement('p');
+    modelHpPerHit.id = 'model-hpPerHit';
+    modelHpPerHit.classList.add('model-detail-hpPerHit');
+    document.getElementById('model-info').appendChild(modelHpPerHit);
+
+    const modelManaPerHit = document.createElement('p');
+    modelManaPerHit.id = 'model-manaPerHit';
+    modelManaPerHit.classList.add('model-detail-manaPerHit');
+    document.getElementById('model-info').appendChild(modelManaPerHit);
+
+    const modelStamina = document.createElement('p');
+    modelStamina.id = 'model-stamina';
+    modelStamina.classList.add('model-detail-stamina');
+    document.getElementById('model-info').appendChild(modelStamina);
+
+    const modelHp = document.createElement('p');
+    modelHp.id = 'model-hp';
+    modelHp.classList.add('model-detail-hp');
+    document.getElementById('model-info').appendChild(modelHp);
+
+    const modelMana = document.createElement('p');
+    modelMana.id = 'model-mana';
+    modelMana.classList.add('model-detail-mana');
+    document.getElementById('model-info').appendChild(modelMana);
+
+    const modelDmgType = document.createElement('p');
+    modelDmgType.id = 'model-dmgType';
+    modelDmgType.classList.add('model-detail-dmgType');
+    document.getElementById('model-info').appendChild(modelDmgType);
+
+    const modelDmg = document.createElement('p');
+    modelDmg.id = 'model-dmg';
+    modelDmg.classList.add('model-detail-dmg');
+    document.getElementById('model-info').appendChild(modelDmg);
+
+    const modelStrength = document.createElement('p');
+    modelStrength.id = 'model-strength';
+    modelStrength.classList.add('model-detail-strength');
+    document.getElementById('model-info').appendChild(modelStrength);
+
+    const modelDexterity = document.createElement('p');
+    modelDexterity.id = 'model-dexterity';
+    modelDexterity.classList.add('model-detail-dexterity');
+    document.getElementById('model-info').appendChild(modelDexterity);
+
+    const modelIntelligence = document.createElement('p');
+    modelIntelligence.id = 'model-intelligence';
+    modelIntelligence.classList.add('model-detail-intelligence');
+    document.getElementById('model-info').appendChild(modelIntelligence);
+    
+    const modelResistanceBlunt = document.createElement('p');
+    modelResistanceBlunt.id = 'model-resistance_blunt';
+    modelResistanceBlunt.classList.add('model-detail-resistance_blunt');
+    document.getElementById('model-info').appendChild(modelResistanceBlunt);
+
+    const modelResistanceProjectile = document.createElement('p');
+    modelResistanceProjectile.id = 'model-resistance_projectile';
+    modelResistanceProjectile.classList.add('model-detail-resistance_projectile');
+    document.getElementById('model-info').appendChild(modelResistanceProjectile);
+
+    const modelResistanceSlash = document.createElement('p');
+    modelResistanceSlash.id = 'model-resistance_slash';
+    modelResistanceSlash.classList.add('model-detail-resistance_slash');
+    document.getElementById('model-info').appendChild(modelResistanceSlash);
+
+    const modelResistanceMagic = document.createElement('p');
+    modelResistanceMagic.id = 'model-resistance_magic';
+    modelResistanceMagic.classList.add('model-detail-resistance_magic');
+    document.getElementById('model-info').appendChild(modelResistanceMagic);
+
+    const modelResistanceFire = document.createElement('p');
+    modelResistanceFire.id = 'model-resistance_fire';
+    modelResistanceFire.classList.add('model-detail-resistance_fire');
+    document.getElementById('model-info').appendChild(modelResistanceFire);
+
+    const modelResistanceFall = document.createElement('p');
+    modelResistanceFall.id = 'model-resistance_fall';
+    modelResistanceFall.classList.add('model-detail-resistance_fall');
+    document.getElementById('model-info').appendChild(modelResistanceFall);
+    
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
     const basePath = window.location.pathname.includes('/zawody/') ? '../' : '';
@@ -71,7 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Funkcja pomocnicza do ustawiania tekstu i widoczności elementu
     function setDetailText(element, label, value) {
-        if (value && value.trim() !== "" && value.trim().toUpperCase() !== "TODO" && value.trim().toUpperCase() !== "?") {
+        if (value && value.trim() !== "" && value.trim().toUpperCase() !== "BRAK" && value.trim().toUpperCase() !== "?") {
             element.textContent = `${label}: ${value}`;
             element.style.display = 'block';
         } else {
@@ -172,7 +262,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const title = document.createElement('h2');
             title.textContent = isNameAvailable ? model.name : model.title; // Wyświetlana nazwa na 'name' lub 'title'
-
+            
             // Etykiety (hands / tier)
             if (model.hands) {
                 const handsTag = document.createElement('div');
@@ -205,12 +295,31 @@ document.addEventListener('DOMContentLoaded', () => {
                 setDetailText(modelOpis, 'Opis Przedmiotu', model.opis);
                 setDetailText(modelWeight, 'Waga', model.weight);
                 setDetailText(modelRange, 'Zasięg', model.range);
-                setDetailText(modelMagicCircle, 'Magiczny Krąg', model.magic_circle);
-                setDetailText(modelManaCost, 'Koszt Many', model.mana_cost);
+                setDetailText(modelMagicCircle, 'Magiczny Krąg', model.magicCircle);
+                setDetailText(modelManaCost, 'Koszt Many', model.manaCost);
                 setDetailText(modelDurability, 'Wytrzymałość', model.durability);
                 setDetailText(modelHands, 'Uchwyt', model.hands === "1H" ? "Jednoręczna" : (model.hands === "2H" ? "Dwuręczna" : ""));
 
-
+                // Nowe pola
+                setDetailText(modelUses, 'Liczba użyć', model.uses);
+                setDetailText(modelStaminaPerHit, 'Stamina za 1 hit', model.staminaPerHit);
+                setDetailText(modelHpPerHit, 'HP za 1 hit', model.hpPerHit);
+                setDetailText(modelManaPerHit, 'Mana za 1 hit', model.manaPerHit);
+                setDetailText(modelStamina, 'Stamina', model.stamina);
+                setDetailText(modelHp, 'HP', model.hp);
+                setDetailText(modelMana, 'Mana', model.mana);
+                setDetailText(modelDmgType, 'Rodzaj obrażeń', model.dmgType);
+                setDetailText(modelDmg, 'DMG', model.dmg);
+                setDetailText(modelStrength, 'Wymagana Siła', model.strength);
+                setDetailText(modelDexterity, 'Wymagana Zręczność', model.dexterity);
+                setDetailText(modelIntelligence, 'Wymagana Inteligencja', model.intelligence);
+                setDetailText(modelResistanceBlunt, 'Obrona Obuchowa', model.resistance_blunt);
+                setDetailText(modelResistanceProjectile, 'Obrona Pociski', model.resistance_projectile);
+                setDetailText(modelResistanceSlash, 'Obrona Sieczna', model.resistance_slash);
+                setDetailText(modelResistanceMagic, 'Obrona Magia', model.resistance_magic);
+                setDetailText(modelResistanceFire, 'Obrona Ogień', model.resistance_fire);
+                setDetailText(modelResistanceFall, 'Obrona Upadek', model.resistance_fall);
+                
                 spinner.style.display = 'block';
                 const modelSrc = basePath + model.model;
                 if (modelViewerElement.getAttribute('src') === modelSrc) {
@@ -236,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let activeDmg = null;
     let activeVisual = null;
     let activeLetter = null;
-    let activeDisplaySource = null; // NOWA ZMIENNA DLA FILTRA NAME/TITLE
+    let activeDisplaySource = null;
 
     document.querySelectorAll('.filter-button[data-visual]').forEach(button => {
         button.addEventListener('click', () => {
@@ -293,7 +402,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // NOWA OBSŁUGA FILTRÓW DLA ŹRÓDŁA NAZWY (NAME/TITLE)
     document.querySelectorAll('.filter-button[data-display-source]').forEach(button => {
         button.addEventListener('click', () => {
             document.querySelectorAll('.filter-button[data-display-source]').forEach(b => b.classList.remove('active'));
@@ -310,7 +418,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let visible = 0;
 
         cards.forEach(card => {
-            const title = card.dataset.title || ""; // Teraz używa name/title
+            const title = card.dataset.title || "";
             const thumb = card.querySelector('img')?.src || "";
             const modelPath = card.dataset.model || "";
             const instance = card.dataset.instance || "";
@@ -321,7 +429,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchStat = !activeStat || card.dataset.stat === activeStat;
             const matchDmg = !activeDmg || card.dataset.dmg === activeDmg;
             const matchLetter = !activeLetter || card.dataset.letter === activeLetter;
-            // NOWY WARUNEK FILTROWANIA DLA ŹRÓDŁA NAZWY
             const matchDisplaySource = !activeDisplaySource || card.dataset.displaySource === activeDisplaySource;
 
 
@@ -366,24 +473,33 @@ document.addEventListener('DOMContentLoaded', () => {
         modelViewer.style.display = 'none';
         document.body.classList.remove('viewer-open');
         // Resetowanie wszystkich pól po zamknięciu podglądu
-        modelInstance.textContent = '';
-        modelInstance.style.display = 'none';
-        modelInstancesaga3.textContent = '';
-        modelInstancesaga3.style.display = 'none';
-        modelOpis.textContent = '';
-        modelOpis.style.display = 'none';
-        modelWeight.textContent = '';
-        modelWeight.style.display = 'none';
-        modelRange.textContent = '';
-        modelRange.style.display = 'none';
-        modelMagicCircle.textContent = '';
-        modelMagicCircle.style.display = 'none';
-        modelManaCost.textContent = '';
-        modelManaCost.style.display = 'none';
-        modelDurability.textContent = '';
-        modelDurability.style.display = 'none';
-        modelHands.textContent = '';
-        modelHands.style.display = 'none';
+        setDetailText(modelInstance, '', '');
+        setDetailText(modelInstancesaga3, '', '');
+        setDetailText(modelOpis, '', '');
+        setDetailText(modelWeight, '', '');
+        setDetailText(modelRange, '', '');
+        setDetailText(modelMagicCircle, '', '');
+        setDetailText(modelManaCost, '', '');
+        setDetailText(modelDurability, '', '');
+        setDetailText(modelHands, '', '');
+        setDetailText(modelUses, '', '');
+        setDetailText(modelStaminaPerHit, '', '');
+        setDetailText(modelHpPerHit, '', '');
+        setDetailText(modelManaPerHit, '', '');
+        setDetailText(modelStamina, '', '');
+        setDetailText(modelHp, '', '');
+        setDetailText(modelMana, '', '');
+        setDetailText(modelDmgType, '', '');
+        setDetailText(modelDmg, '', '');
+        setDetailText(modelStrength, '', '');
+        setDetailText(modelDexterity, '', '');
+        setDetailText(modelIntelligence, '', '');
+        setDetailText(modelResistanceBlunt, '', '');
+        setDetailText(modelResistanceProjectile, '', '');
+        setDetailText(modelResistanceSlash, '', '');
+        setDetailText(modelResistanceMagic, '', '');
+        setDetailText(modelResistanceFire, '', '');
+        setDetailText(modelResistanceFall, '', '');
     });
 
     let scrollTimeout;

@@ -33,3 +33,6 @@ package-lock.json
 Lista Broni.csv
 Lista mebli.csv
 update_json_with_details.js
+update_from_csv.js
+Itemki.csv
+Itemki.xlsx
