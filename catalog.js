@@ -143,6 +143,12 @@ document.addEventListener('DOMContentLoaded', () => {
     modelResistanceFall.classList.add('model-detail-resistance_fall');
     document.getElementById('model-info').appendChild(modelResistanceFall);
     
+    // Nowy element do wyświetlania Main Flag
+    const modelMainFlag = document.createElement('p');
+    modelMainFlag.id = 'model-main-flag';
+    modelMainFlag.classList.add('model-detail-main-flag');
+    document.getElementById('model-info').appendChild(modelMainFlag);
+
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
     const basePath = window.location.pathname.includes('/zawody/') ? '../' : '';
@@ -261,7 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
             img.alt = isNameAvailable ? model.name : model.title;
 
             const title = document.createElement('h2');
-            title.textContent = isNameAvailable ? model.name : model.title; // Wyświetlana nazwa na 'name' lub 'title'
+            title.textContent = isNameAvailable ? model.name : model.title;
             
             // Etykiety (hands / tier)
             if (model.hands) {
@@ -320,6 +326,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 setDetailText(modelResistanceFire, 'Obrona Ogień', model.resistance_fire);
                 setDetailText(modelResistanceFall, 'Obrona Upadek', model.resistance_fall);
                 
+                // Wyświetlanie Main Flag
+                setDetailText(modelMainFlag, 'Main Flaga', model.mainFlag);
+                
                 spinner.style.display = 'block';
                 const modelSrc = basePath + model.model;
                 if (modelViewerElement.getAttribute('src') === modelSrc) {
@@ -335,7 +344,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        applyAllFilters(); // po renderze
+        applyAllFilters();
     }
 
     // FILTRY
@@ -500,6 +509,7 @@ document.addEventListener('DOMContentLoaded', () => {
         setDetailText(modelResistanceMagic, '', '');
         setDetailText(modelResistanceFire, '', '');
         setDetailText(modelResistanceFall, '', '');
+        setDetailText(modelMainFlag, '', '');
     });
 
     let scrollTimeout;
