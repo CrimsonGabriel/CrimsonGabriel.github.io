@@ -143,11 +143,16 @@ document.addEventListener('DOMContentLoaded', () => {
     modelResistanceFall.classList.add('model-detail-resistance_fall');
     document.getElementById('model-info').appendChild(modelResistanceFall);
     
-    // Nowy element do wyświetlania Main Flag
     const modelMainFlag = document.createElement('p');
     modelMainFlag.id = 'model-main-flag';
     modelMainFlag.classList.add('model-detail-main-flag');
     document.getElementById('model-info').appendChild(modelMainFlag);
+
+    // Nowy element do wyświetlania nazwy pliku 3ds
+    const modelFile3ds = document.createElement('p');
+    modelFile3ds.id = 'model-file-3ds';
+    modelFile3ds.classList.add('model-detail-file-3ds');
+    document.getElementById('model-info').appendChild(modelFile3ds);
 
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
@@ -182,12 +187,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.classList.add('model-card', 'main-card');
 
-            // Określ, czy wyświetlamy 'name' czy 'title'
             const isNameAvailable = model.name && model.name.trim() !== "";
             const displayNameForSearch = (isNameAvailable ? model.name : model.title || '').toLowerCase();
             card.setAttribute('data-title', displayNameForSearch);
             card.setAttribute('data-model', (basePath + model.model).toLowerCase());
-            // Nowy atrybut do filtrowania 'Name'/'Title'
             card.setAttribute('data-display-source', isNameAvailable ? 'name' : 'title');
 
 
@@ -204,7 +207,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const desc = model.description?.toLowerCase() || "";
 
-            // Statystyki STR / DEX / BOTH
             const strMatch = desc.match(/siła\s*[:\-]?\s*(\d+)/i);
             const dexMatch = desc.match(/zręczność\s*[:\-]?\s*(\d+)/i);
 
@@ -219,7 +221,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 card.setAttribute("data-stat", "BOTH");
             }
 
-            // Inteligentne przypisanie data-dmg na podstawie najwyższej wartości
             const dmgTypes = {
                 CUT: /sieczne\s*[:\-]?\s*(\d+)/i,
                 PRC: /kłute\s*[:\-]?\s*(\d+)/i,
@@ -248,11 +249,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 card.setAttribute("data-dmg", topTypes[0]);
             }
 
-            // Tier & hands
             if (model.tier) card.setAttribute("data-tier", model.tier);
             if (model.hands) card.setAttribute("data-hands", model.hands);
 
-            // Materiał → visual
             if (model.material) {
                 if (model.material.toLowerCase() === "skóra") {
                     card.setAttribute("data-visual", "LIGHT");
@@ -261,7 +260,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
 
-            // Obraz + Tytuł
             const img = document.createElement('img');
             img.src = basePath + model.thumbnail;
             img.alt = isNameAvailable ? model.name : model.title;
@@ -269,7 +267,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = document.createElement('h2');
             title.textContent = isNameAvailable ? model.name : model.title;
             
-            // Etykiety (hands / tier)
             if (model.hands) {
                 const handsTag = document.createElement('div');
                 handsTag.classList.add('hands-tag');
@@ -286,12 +283,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 card.appendChild(tierTag);
             }
 
-            // Składanie karty
             card.appendChild(img);
             card.appendChild(title);
             modelGrid.appendChild(card);
 
-            // Event kliknięcia – podgląd 3D
             card.addEventListener('click', () => {
                 document.getElementById('model-title').textContent = isNameAvailable ? model.name : model.title;
                 document.getElementById('model-description').textContent = model.description;
@@ -306,7 +301,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 setDetailText(modelDurability, 'Wytrzymałość', model.durability);
                 setDetailText(modelHands, 'Uchwyt', model.hands === "1H" ? "Jednoręczna" : (model.hands === "2H" ? "Dwuręczna" : ""));
 
-                // Nowe pola
                 setDetailText(modelUses, 'Liczba użyć', model.uses);
                 setDetailText(modelStaminaPerHit, 'Stamina za 1 hit', model.staminaPerHit);
                 setDetailText(modelHpPerHit, 'HP za 1 hit', model.hpPerHit);
@@ -326,8 +320,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 setDetailText(modelResistanceFire, 'Obrona Ogień', model.resistance_fire);
                 setDetailText(modelResistanceFall, 'Obrona Upadek', model.resistance_fall);
                 
-                // Wyświetlanie Main Flag
                 setDetailText(modelMainFlag, 'Main Flaga', model.mainFlag);
+                // Wyświetlanie nazwy pliku 3ds
+                setDetailText(modelFile3ds, 'Model 3ds', model.model3ds);
                 
                 spinner.style.display = 'block';
                 const modelSrc = basePath + model.model;
@@ -401,7 +396,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Obsługa filtrów alfabetycznych
     document.querySelectorAll('.filter-button[data-letter]').forEach(button => {
         button.addEventListener('click', () => {
             document.querySelectorAll('.filter-button[data-letter]').forEach(b => b.classList.remove('active'));
@@ -481,7 +475,6 @@ document.addEventListener('DOMContentLoaded', () => {
     closeViewer.addEventListener('click', () => {
         modelViewer.style.display = 'none';
         document.body.classList.remove('viewer-open');
-        // Resetowanie wszystkich pól po zamknięciu podglądu
         setDetailText(modelInstance, '', '');
         setDetailText(modelInstancesaga3, '', '');
         setDetailText(modelOpis, '', '');
@@ -510,6 +503,8 @@ document.addEventListener('DOMContentLoaded', () => {
         setDetailText(modelResistanceFire, '', '');
         setDetailText(modelResistanceFall, '', '');
         setDetailText(modelMainFlag, '', '');
+        // Resetowanie nowego pola
+        setDetailText(modelFile3ds, '', '');
     });
 
     let scrollTimeout;
