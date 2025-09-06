@@ -141,21 +141,6 @@ document.addEventListener('DOMContentLoaded', () => {
     modelResistanceFall.classList.add('model-detail-resistance_fall');
     document.getElementById('model-info').appendChild(modelResistanceFall);
     
-    const modelMainFlag = document.createElement('p');
-    modelMainFlag.id = 'model-main-flag';
-    modelMainFlag.classList.add('model-detail-main-flag');
-    document.getElementById('model-info').appendChild(modelMainFlag);
-
-    const modelFileNazwa = document.createElement('p');
-    modelFileNazwa.id = 'model-file-nazwa';
-    modelFileNazwa.classList.add('model-detail-file-nazwa');
-    document.getElementById('model-info').appendChild(modelFileNazwa);
-
-    const modelExpirationTime = document.createElement('p');
-    modelExpirationTime.id = 'model-expiration-time';
-    modelExpirationTime.classList.add('model-detail-expiration-time');
-    document.getElementById('model-info').appendChild(modelExpirationTime);
-
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
     const basePath = window.location.pathname.includes('/zawody/') ? '../' : '';
@@ -173,7 +158,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function setDetailText(element, label, value) {
-        if (value !== null && value !== undefined) {
+        // Nowa, bardziej rygorystyczna walidacja
+        if (value !== null && value !== undefined && value !== 'BRAK' && value !== '' && value !== '0') {
             element.textContent = `${label}: ${value}`;
             element.style.display = 'block';
         } else {
@@ -321,10 +307,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 setDetailText(modelResistanceFire, 'Obrona Ogień', model.resistance_fire);
                 setDetailText(modelResistanceFall, 'Obrona Upadek', model.resistance_fall);
                 
-                setDetailText(modelMainFlag, 'Main Flaga', model.mainFlag);
-                setDetailText(modelFileNazwa, 'Model 3ds', model.modelNazwa);
-                setDetailText(modelExpirationTime, 'Czas wygaśnięcia', model.expirationTime);
-
                 spinner.style.display = 'block';
                 const modelSrc = basePath + model.model;
                 if (modelViewerElement.getAttribute('src') === modelSrc) {
@@ -503,9 +485,6 @@ document.addEventListener('DOMContentLoaded', () => {
         setDetailText(modelResistanceMagic, '', '');
         setDetailText(modelResistanceFire, '', '');
         setDetailText(modelResistanceFall, '', '');
-        setDetailText(modelMainFlag, '', '');
-        setDetailText(modelFileNazwa, '', '');
-        setDetailText(modelExpirationTime, '', '');
     });
 
     let scrollTimeout;
