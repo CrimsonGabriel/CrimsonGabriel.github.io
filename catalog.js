@@ -384,14 +384,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    document.querySelectorAll('.filter-button[data-display-source]').forEach(button => {
-        button.addEventListener('click', () => {
-            document.querySelectorAll('.filter-button[data-display-source]').forEach(b => b.classList.remove('active'));
-            activeDisplaySource = (activeDisplaySource === button.dataset.displaySource) ? null : button.dataset.displaySource;
-            if (activeDisplaySource) button.classList.add('active');
-            applyAllFilters();
-        });
-    });
 
 
     function applyAllFilters() {
