@@ -135,7 +135,7 @@ header {
 
 .hands-tag {
   position: absolute;
-  top: 10px;
+  bottom: 10px;
   right: 10px;
   padding: 5px 10px;
   border-radius: 4px;
@@ -147,11 +147,11 @@ header {
 }
 
 .one-handed {
-  background-color: rgba(0, 100, 255, 0.7);
+  background-color: #A9A9A9;
 }
 
 .two-handed {
-  background-color: rgba(255, 100, 0, 0.7);
+  background-color: #C0C0C0;
 }
 
 .model-card {
@@ -189,45 +189,26 @@ header {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
-.tier-t1 {
-  background-color: #39653a;
+.tier-t0 {
+  background-color: #808080; 
 }
-
+.tier-t1 {
+  background-color: #d3d3d3; 
+}
 .tier-t2 {
   background-color: #8BC34A;
 }
-
 .tier-t3 {
-  background-color: #CDDC39; 
+  background-color: #FFA500; 
 }
-
 .tier-t4 {
-  background-color: #FFEB3B;
+  background-color: #FFD700; 
 }
-
 .tier-t5 {
-  background-color: #FFC107;
+  background-color: #FF4500; 
 }
 
-.tier-t6 {
-  background-color: #FF9800;
-}
 
-.tier-t7 {
-  background-color: #FF5722;
-}
-
-.tier-t8 {
-  background-color: #F44336;
-}
-
-.tier-t9 {
-  background-color: #E91E63;
-}
-
-.tier-t10 {
-  background-color: #9C27B0;
-}
 
 #model-viewer {
     display: none;
