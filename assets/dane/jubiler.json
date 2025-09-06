@@ -1828,7 +1828,7 @@
         "tier": "BRAK",
         "expirationTime": "21600",
         "plik": "consumable",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITPL_BEET.glb",
         "thumbnail": "assets/card/ITPL_BEET.webp"
     },
@@ -1867,7 +1867,7 @@
         "tier": "BRAK",
         "expirationTime": "21600",
         "plik": "consumable",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITFO_CARROT.glb",
         "thumbnail": "assets/card/ITFO_CARROT.webp"
     },
@@ -1906,7 +1906,7 @@
         "tier": "BRAK",
         "expirationTime": "21600",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/GS_NATURE_FLAX_03_GALI.glb",
         "thumbnail": "assets/card/GS_NATURE_FLAX_03_GALI.webp"
     },
@@ -1945,7 +1945,7 @@
         "tier": "BRAK",
         "expirationTime": "21600",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/GS_NATURE_WHEAT_03_GALI.glb",
         "thumbnail": "assets/card/GS_NATURE_WHEAT_03_GALI.webp"
     },
@@ -1984,7 +1984,7 @@
         "tier": "BRAK",
         "expirationTime": "21600",
         "plik": "consumable",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/KM_VOB_PUMPKIN_01.glb",
         "thumbnail": "assets/card/KM_VOB_PUMPKIN_01.webp"
     },
@@ -2023,7 +2023,7 @@
         "tier": "BRAK",
         "expirationTime": "21600",
         "plik": "consumable",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/KAPUSTA.glb",
         "thumbnail": "assets/card/KAPUSTA.webp"
     },
@@ -2062,7 +2062,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/NASIONO18.glb",
         "thumbnail": "assets/card/NASIONO18.webp"
     },
@@ -2101,7 +2101,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/NASIONO29.glb",
         "thumbnail": "assets/card/NASIONO29.webp"
     },
@@ -2140,7 +2140,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "acsr2",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/STATIC_KOZA_KLOSO_01.glb",
         "thumbnail": "assets/card/STATIC_KOZA_KLOSO_01.webp"
     },
@@ -2179,7 +2179,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/KM_ITMI_PACKET_03.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_03.webp"
     },
@@ -2218,7 +2218,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/IT_SLAVEROPE.glb",
         "thumbnail": "assets/card/IT_SLAVEROPE.webp"
     },
@@ -2257,7 +2257,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/NASIONO30.glb",
         "thumbnail": "assets/card/NASIONO30.webp"
     },
@@ -2296,7 +2296,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/PASZA.glb",
         "thumbnail": "assets/card/PASZA.webp"
     },
@@ -2335,7 +2335,7 @@
         "tier": "T0",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/NASIONO12.glb",
         "thumbnail": "assets/card/NASIONO12.webp"
     },
@@ -2374,7 +2374,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/NASIONO28.glb",
         "thumbnail": "assets/card/NASIONO28.webp"
     },
@@ -2413,7 +2413,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/KM_ITMI_PACKET_07.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_07.webp"
     },
@@ -2452,7 +2452,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/NASIONO2.glb",
         "thumbnail": "assets/card/NASIONO2.webp"
     },
@@ -2491,7 +2491,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "common",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITMI_POCKET.glb",
         "thumbnail": "assets/card/ITMI_POCKET.webp"
     },
@@ -2530,7 +2530,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITMI_ALCHEMY_SALT_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_SALT_01.webp"
     },
@@ -2569,7 +2569,7 @@
         "tier": "T1",
         "expirationTime": "21600",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/TOD_HUEHNEREI01.glb",
         "thumbnail": "assets/card/TOD_HUEHNEREI01.webp"
     },
@@ -2608,7 +2608,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITFO_GS_BAWELNA.glb",
         "thumbnail": "assets/card/ITFO_GS_BAWELNA.webp"
     },
@@ -2647,7 +2647,7 @@
         "tier": "T2",
         "expirationTime": "21600",
         "plik": "consumable",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITFO_MILK.glb",
         "thumbnail": "assets/card/ITFO_MILK.webp"
     },
@@ -2686,7 +2686,7 @@
         "tier": "T3",
         "expirationTime": "21600",
         "plik": "consumable",
-        "profession": "Rolnik (Farmer)",
+        "profession": "Rolnik",
         "model": "assets/models/ITFO_CHEESE.glb",
         "thumbnail": "assets/card/ITFO_CHEESE.webp"
     },
@@ -10174,7 +10174,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KMCROSSBOW01.glb",
         "thumbnail": "assets/card/KMCROSSBOW01.webp"
     },
@@ -10213,7 +10213,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_07.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_07.webp"
     },
@@ -10252,7 +10252,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_CROSSBOW_CHING.glb",
         "thumbnail": "assets/card/KM_CROSSBOW_CHING.webp"
     },
@@ -10291,7 +10291,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KMCROSSBOW03.glb",
         "thumbnail": "assets/card/KMCROSSBOW03.webp"
     },
@@ -10330,7 +10330,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_02.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_02.webp"
     },
@@ -10369,7 +10369,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_05.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_05.webp"
     },
@@ -10408,7 +10408,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KMCROSSBOW04.glb",
         "thumbnail": "assets/card/KMCROSSBOW04.webp"
     },
@@ -10447,7 +10447,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_CROSSBOW_05.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_05.webp"
     },
@@ -10486,7 +10486,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_CROSSBOW_01.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_01.webp"
     },
@@ -10525,7 +10525,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_06.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_06.webp"
     },
@@ -10564,7 +10564,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_04.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_04.webp"
     },
@@ -10603,7 +10603,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_CROSSBOW_03.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_03.webp"
     },
@@ -10642,7 +10642,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_01.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_01.webp"
     },
@@ -10681,7 +10681,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_CROSSBOW_04.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_04.webp"
     },
@@ -10720,7 +10720,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_03.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_03.webp"
     },
@@ -10759,7 +10759,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_CROSSBOW_02.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_02.webp"
     },
@@ -10798,7 +10798,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/CROSSBOW_BLACK_03.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_03.webp"
     },
@@ -10837,7 +10837,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "crossbows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KMCROSSBOW02.glb",
         "thumbnail": "assets/card/KMCROSSBOW02.webp"
     },
@@ -10876,7 +10876,7 @@
         "tier": "T0",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_BOW_L_VANILLA_01.glb",
         "thumbnail": "assets/card/ITRW_BOW_L_VANILLA_01.webp"
     },
@@ -10915,7 +10915,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_09.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_09.webp"
     },
@@ -10954,7 +10954,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_16.glb",
         "thumbnail": "assets/card/KM_BOW_16.webp"
     },
@@ -10993,7 +10993,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_07.glb",
         "thumbnail": "assets/card/KM_BOW_07.webp"
     },
@@ -11032,7 +11032,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_09.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_09.webp"
     },
@@ -11071,7 +11071,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_06.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_06.webp"
     },
@@ -11110,7 +11110,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_01.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_01.webp"
     },
@@ -11149,7 +11149,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_12.glb",
         "thumbnail": "assets/card/KM_BOW_12.webp"
     },
@@ -11188,7 +11188,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_SLD_BOW_VANILLA.glb",
         "thumbnail": "assets/card/ITRW_SLD_BOW_VANILLA.webp"
     },
@@ -11227,7 +11227,7 @@
         "tier": "T2",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_BOW_M_VANILLA_02.glb",
         "thumbnail": "assets/card/ITRW_BOW_M_VANILLA_02.webp"
     },
@@ -11266,7 +11266,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_08.glb",
         "thumbnail": "assets/card/KM_BOW_08.webp"
     },
@@ -11305,7 +11305,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_09.glb",
         "thumbnail": "assets/card/KM_BOW_09.webp"
     },
@@ -11344,7 +11344,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_10.glb",
         "thumbnail": "assets/card/KM_BOW_10.webp"
     },
@@ -11383,7 +11383,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_05.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_05.webp"
     },
@@ -11422,7 +11422,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_04.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_04.webp"
     },
@@ -11461,7 +11461,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_02.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_02.webp"
     },
@@ -11500,7 +11500,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_08.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_08.webp"
     },
@@ -11539,7 +11539,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_BOW_H_VANILLA_04.glb",
         "thumbnail": "assets/card/ITRW_BOW_H_VANILLA_04.webp"
     },
@@ -11578,7 +11578,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_07.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_07.webp"
     },
@@ -11617,7 +11617,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_BOW_H_VANILLA_03.glb",
         "thumbnail": "assets/card/ITRW_BOW_H_VANILLA_03.webp"
     },
@@ -11656,7 +11656,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_11.glb",
         "thumbnail": "assets/card/KM_BOW_11.webp"
     },
@@ -11695,7 +11695,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_15.glb",
         "thumbnail": "assets/card/KM_BOW_15.webp"
     },
@@ -11734,7 +11734,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_ITRW_BOW_03.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_03.webp"
     },
@@ -11773,7 +11773,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_14.glb",
         "thumbnail": "assets/card/KM_BOW_14.webp"
     },
@@ -11812,7 +11812,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "bows",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/KM_BOW_13.glb",
         "thumbnail": "assets/card/KM_BOW_13.webp"
     },
@@ -11851,7 +11851,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "projectile",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_ARROW.glb",
         "thumbnail": "assets/card/ITRW_ARROW.webp"
     },
@@ -11890,7 +11890,7 @@
         "tier": "T1",
         "expirationTime": "BRAK",
         "plik": "projectile",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/ITRW_BOLT.glb",
         "thumbnail": "assets/card/ITRW_BOLT.webp"
     },
@@ -11929,7 +11929,7 @@
         "tier": "T0",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/IT_BOWSTRING.glb",
         "thumbnail": "assets/card/IT_BOWSTRING.webp"
     },
@@ -11968,7 +11968,7 @@
         "tier": "T3",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/WZMOCNIONA_CIECIWA.glb",
         "thumbnail": "assets/card/WZMOCNIONA_CIECIWA.webp"
     },
@@ -12007,7 +12007,7 @@
         "tier": "T4",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/MISTRZOWSKA_CIECIWA.glb",
         "thumbnail": "assets/card/MISTRZOWSKA_CIECIWA.webp"
     },
@@ -12046,7 +12046,7 @@
         "tier": "T5",
         "expirationTime": "BRAK",
         "plik": "materials",
-        "profession": "Łuczarz (Fleczer)",
+        "profession": "Łuczarz",
         "model": "assets/models/TROLLA_CIECIWA.glb",
         "thumbnail": "assets/card/TROLLA_CIECIWA.webp"
     },
