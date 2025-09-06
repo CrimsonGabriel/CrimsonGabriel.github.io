@@ -566,8 +566,8 @@ body.scrolling-hide .category-buttons {
 #side-filters {
   position: fixed;
   top: 60px;
-  right: -300px; /* głębiej schowane */
-  width: 275px;
+  right: -325px; /* głębiej schowane */
+  width: 300px;
   min-height: 75px;
   background: rgba(10,10,10,0.95);
   border-left: 2px solid rgba(255,255,255,0.2);
