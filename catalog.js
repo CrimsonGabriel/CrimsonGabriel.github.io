@@ -11,7 +11,6 @@ document.addEventListener('DOMContentLoaded', () => {
     modelInstance.classList.add('model-detail-instance');
     document.getElementById('model-info').appendChild(modelInstance);
 
-    // Nowe elementy do wyświetlania w podglądzie, tworzone dynamicznie
     const modelInstancesaga3 = document.createElement('p');
     modelInstancesaga3.id = 'model-instancesaga3';
     modelInstancesaga3.classList.add('model-detail-instancesaga3');
@@ -52,7 +51,6 @@ document.addEventListener('DOMContentLoaded', () => {
     modelHands.classList.add('model-detail-hands');
     document.getElementById('model-info').appendChild(modelHands);
 
-    // Nowe elementy z pliku Itemki.csv
     const modelUses = document.createElement('p');
     modelUses.id = 'model-uses';
     modelUses.classList.add('model-detail-uses');
@@ -148,11 +146,15 @@ document.addEventListener('DOMContentLoaded', () => {
     modelMainFlag.classList.add('model-detail-main-flag');
     document.getElementById('model-info').appendChild(modelMainFlag);
 
-    // Nowy element do wyświetlania nazwy pliku 3ds
-    const modelFile3ds = document.createElement('p');
-    modelFile3ds.id = 'model-file-3ds';
-    modelFile3ds.classList.add('model-detail-file-3ds');
-    document.getElementById('model-info').appendChild(modelFile3ds);
+    const modelFileNazwa = document.createElement('p');
+    modelFileNazwa.id = 'model-file-nazwa';
+    modelFileNazwa.classList.add('model-detail-file-nazwa');
+    document.getElementById('model-info').appendChild(modelFileNazwa);
+
+    const modelExpirationTime = document.createElement('p');
+    modelExpirationTime.id = 'model-expiration-time';
+    modelExpirationTime.classList.add('model-detail-expiration-time');
+    document.getElementById('model-info').appendChild(modelExpirationTime);
 
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `../assets/dane/${pageName}.json`;
@@ -170,9 +172,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Funkcja pomocnicza do ustawiania tekstu i widoczności elementu
     function setDetailText(element, label, value) {
-        if (value && value.trim() !== "" && value.trim().toUpperCase() !== "BRAK" && value.trim().toUpperCase() !== "?") {
+        if (value !== null && value !== undefined) {
             element.textContent = `${label}: ${value}`;
             element.style.display = 'block';
         } else {
@@ -321,9 +322,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 setDetailText(modelResistanceFall, 'Obrona Upadek', model.resistance_fall);
                 
                 setDetailText(modelMainFlag, 'Main Flaga', model.mainFlag);
-                // Wyświetlanie nazwy pliku 3ds
-                setDetailText(modelFile3ds, 'Model 3ds', model.model3ds);
-                
+                setDetailText(modelFileNazwa, 'Model 3ds', model.modelNazwa);
+                setDetailText(modelExpirationTime, 'Czas wygaśnięcia', model.expirationTime);
+
                 spinner.style.display = 'block';
                 const modelSrc = basePath + model.model;
                 if (modelViewerElement.getAttribute('src') === modelSrc) {
@@ -503,8 +504,8 @@ document.addEventListener('DOMContentLoaded', () => {
         setDetailText(modelResistanceFire, '', '');
         setDetailText(modelResistanceFall, '', '');
         setDetailText(modelMainFlag, '', '');
-        // Resetowanie nowego pola
-        setDetailText(modelFile3ds, '', '');
+        setDetailText(modelFileNazwa, '', '');
+        setDetailText(modelExpirationTime, '', '');
     });
 
     let scrollTimeout;
