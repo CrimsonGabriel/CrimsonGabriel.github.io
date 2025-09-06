@@ -6,16 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const spinner = document.getElementById('spinner');
     const categoryButtons = document.querySelectorAll('.button');
 
-    const modelInstance = document.createElement('p');
-    modelInstance.id = 'model-instance';
-    modelInstance.classList.add('model-detail-instance');
-    document.getElementById('model-info').appendChild(modelInstance);
-
-    const modelInstancesaga3 = document.createElement('p');
-    modelInstancesaga3.id = 'model-instancesaga3';
-    modelInstancesaga3.classList.add('model-detail-instancesaga3');
-    document.getElementById('model-info').appendChild(modelInstancesaga3);
-
+    // Elementy do wyświetlania w podglądzie detali
     const modelOpis = document.createElement('p');
     modelOpis.id = 'model-opis';
     modelOpis.classList.add('model-detail-opis');
@@ -158,8 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function setDetailText(element, label, value) {
-        // Nowa, bardziej rygorystyczna walidacja
-        if (value !== null && value !== undefined && value !== 'BRAK' && value !== '' && value !== '0') {
+        if (value !== null && value !== undefined && value !== 'BRAK' && value !== '' && value !== '0' && value !== '?') {
             element.textContent = `${label}: ${value}`;
             element.style.display = 'block';
         } else {
@@ -179,7 +169,6 @@ document.addEventListener('DOMContentLoaded', () => {
             card.setAttribute('data-title', displayNameForSearch);
             card.setAttribute('data-model', (basePath + model.model).toLowerCase());
             card.setAttribute('data-display-source', isNameAvailable ? 'name' : 'title');
-
 
             const firstLetter = (isNameAvailable ? model.name : model.title || '').charAt(0).toUpperCase();
             if (firstLetter >= 'A' && firstLetter <= 'Z') {
@@ -254,20 +243,28 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = document.createElement('h2');
             title.textContent = isNameAvailable ? model.name : model.title;
             
-            if (model.hands) {
-                const handsTag = document.createElement('div');
-                handsTag.classList.add('hands-tag');
-                handsTag.textContent = model.hands === "1H" ? "Jednoręczna" : "Dwuręczna";
-                handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
-                card.appendChild(handsTag);
-            }
-
-            if (model.tier) {
+            // Logika dla etykiety Tiera
+            if (model.tier && model.tier !== 'BRAK') {
                 const tierTag = document.createElement('div');
                 tierTag.classList.add('tier-tag');
                 tierTag.textContent = model.tier;
                 tierTag.classList.add(`tier-${model.tier.toLowerCase()}`);
                 card.appendChild(tierTag);
+            }
+
+            // Nowa logika dla etykiety 1H/2H
+            if (model.instancesaga3) {
+                const instancesaga3Upper = model.instancesaga3.toUpperCase();
+                const handsTag = document.createElement('div');
+                if (instancesaga3Upper.includes('2H')) {
+                    handsTag.classList.add('hands-tag', 'two-handed');
+                    handsTag.textContent = '2H';
+                    card.appendChild(handsTag);
+                } else if (instancesaga3Upper.includes('1H')) {
+                    handsTag.classList.add('hands-tag', 'one-handed');
+                    handsTag.textContent = '1H';
+                    card.appendChild(handsTag);
+                }
             }
 
             card.appendChild(img);
@@ -278,8 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 document.getElementById('model-title').textContent = isNameAvailable ? model.name : model.title;
                 document.getElementById('model-description').textContent = model.description;
 
-                setDetailText(modelInstance, 'Instancja', model.instance);
-                setDetailText(modelInstancesaga3, 'Instancja [Saga3]', model.instancesaga3);
+                // Usunięto linie wyświetlające Instancja i Instancja Saga3
                 setDetailText(modelOpis, 'Opis Przedmiotu', model.opis);
                 setDetailText(modelWeight, 'Waga', model.weight);
                 setDetailText(modelRange, 'Zasięg', model.range);
@@ -458,8 +454,6 @@ document.addEventListener('DOMContentLoaded', () => {
     closeViewer.addEventListener('click', () => {
         modelViewer.style.display = 'none';
         document.body.classList.remove('viewer-open');
-        setDetailText(modelInstance, '', '');
-        setDetailText(modelInstancesaga3, '', '');
         setDetailText(modelOpis, '', '');
         setDetailText(modelWeight, '', '');
         setDetailText(modelRange, '', '');
