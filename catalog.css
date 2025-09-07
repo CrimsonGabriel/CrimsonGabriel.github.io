@@ -59,7 +59,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/drwal.webp') no-repeat center center/cover;
+  background: url('assets/img/robotnik.webp') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
@@ -81,7 +81,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/gornik.webp') no-repeat center center/cover;
+  background: url('assets/img/zaklinacz.webp') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
@@ -103,7 +103,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/farmer.webp') no-repeat center center/cover;
+  background: url('assets/img/rolnik.webp') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
@@ -114,7 +114,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/zielarz.webp') no-repeat center center/cover;
+  background: url('assets/img/zbieracz.webp') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
