@@ -181,60 +181,57 @@ document.addEventListener('DOMContentLoaded', () => {
                 card.setAttribute("data-instance", model.instance);
             }
 
-            const desc = model.description?.toLowerCase() || "";
-
-            const strMatch = desc.match(/siła\s*[:\-]?\s*(\d+)/i);
-            const dexMatch = desc.match(/zręczność\s*[:\-]?\s*(\d+)/i);
-
-            const strValue = strMatch ? parseInt(strMatch[1]) : 0;
-            const dexValue = dexMatch ? parseInt(dexMatch[1]) : 0;
-
-            if (strValue > dexValue) {
-                card.setAttribute("data-stat", "STR");
-            } else if (dexValue > strValue) {
-                card.setAttribute("data-stat", "DEX");
-            } else if (strValue === dexValue && strValue > 0) {
-                card.setAttribute("data-stat", "BOTH");
+            // Logika dla atrybutu hands
+            if (model.instancesaga3) {
+                const instancesaga3Upper = model.instancesaga3.toUpperCase();
+                if (instancesaga3Upper.includes('2H')) {
+                    card.setAttribute("data-hands", "2H");
+                } else if (instancesaga3Upper.includes('1H')) {
+                    card.setAttribute("data-hands", "1H");
+                }
             }
-
-            const dmgTypes = {
-                CUT: /sieczne\s*[:\-]?\s*(\d+)/i,
-                PRC: /kłute\s*[:\-]?\s*(\d+)/i,
-                BLT: /obuch\s*[:\-]?\s*(\d+)/i,
-                MAG: /magia\s*[:\-]?\s*(\d+)/i,
-                BES: /bestie\s*[:\-]?\s*(\d+)/i
-            };
-
-            let maxValue = -1;
-            let topTypes = [];
-
-            for (const [key, regex] of Object.entries(dmgTypes)) {
-                const match = desc.match(regex);
-                const value = match ? parseInt(match[1]) : -1;
-                if (value > maxValue) {
-                    maxValue = value;
-                    topTypes = [key];
-                } else if (value === maxValue && value > -1) {
-                    topTypes.push(key);
+            
+            // Logika dla atrybutu stat (STR/DEX/BOTH)
+            const strength = parseFloat(model.strength) || 0;
+            const dexterity = parseFloat(model.dexterity) || 0;
+            if (strength > 0 || dexterity > 0) {
+                if (strength > dexterity) {
+                    card.setAttribute("data-stat", "STR");
+                } else if (dexterity > strength) {
+                    card.setAttribute("data-stat", "DEX");
+                } else {
+                    card.setAttribute("data-stat", "BOTH");
                 }
             }
 
-            if (topTypes.length > 1) {
-                card.setAttribute("data-dmg", "MIX");
-            } else if (topTypes.length === 1) {
-                card.setAttribute("data-dmg", topTypes[0]);
+            // Logika dla atrybutu dmg
+            if (model.dmgType) {
+                let dmgType = '';
+                switch (model.dmgType) {
+                    case 'DAMAGE_EDGE':
+                        dmgType = 'CUT';
+                        break;
+                    case 'DAMAGE_POINT':
+                        dmgType = 'PRC';
+                        break;
+                    case 'DAMAGE_BLUNT':
+                        dmgType = 'BLT';
+                        break;
+                    case 'DAMAGE_MAGIC':
+                        dmgType = 'MAG';
+                        break;
+                    case 'DAMAGE_FIRE':
+                        dmgType = 'FIRE';
+                        break;
+                }
+                if (dmgType) {
+                    card.setAttribute("data-dmg", dmgType);
+                }
             }
 
             if (model.tier) card.setAttribute("data-tier", model.tier);
             if (model.hands) card.setAttribute("data-hands", model.hands);
 
-            if (model.material) {
-                if (model.material.toLowerCase() === "skóra") {
-                    card.setAttribute("data-visual", "LIGHT");
-                } else if (model.material.toLowerCase() === "blacha") {
-                    card.setAttribute("data-visual", "HEAVY");
-                }
-            }
 
             const img = document.createElement('img');
             img.src = basePath + model.thumbnail;
@@ -330,14 +327,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let activeLetter = null;
     let activeDisplaySource = null;
 
-    document.querySelectorAll('.filter-button[data-visual]').forEach(button => {
-        button.addEventListener('click', () => {
-            document.querySelectorAll('.filter-button[data-visual]').forEach(b => b.classList.remove('active'));
-            activeVisual = (activeVisual === button.dataset.visual) ? null : button.dataset.visual;
-            if (activeVisual) button.classList.add('active');
-            applyAllFilters();
-        });
-    });
+    
 
     document.querySelectorAll('.filter-button[data-tier]').forEach(button => {
         button.addEventListener('click', () => {
@@ -431,17 +421,17 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    categoryButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            const category = button.getAttribute('data-category');
-            if (category === 'all') {
-                displayModels(models);
-            } else {
-                const filtered = models.filter(model => model.category === category);
-                displayModels(filtered);
-            }
-        });
-    });
+		categoryButtons.forEach(button => {
+		button.addEventListener('click', () => {
+			const category = button.getAttribute('data-category');
+			if (category === 'all') {
+				displayModels(models);
+			} else {
+				const filtered = models.filter(model => model.kategoria === category);
+				displayModels(filtered);
+			}
+		});
+	});
 
     closeViewer.addEventListener('click', () => {
         modelViewer.style.display = 'none';

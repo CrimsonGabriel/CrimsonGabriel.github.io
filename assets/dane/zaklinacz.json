@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_LIGHTHEAL.glb",
         "thumbnail": "assets/card/ITRU_LIGHTHEAL.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_ZAP.glb",
         "thumbnail": "assets/card/ITRU_ZAP.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_FIREBOLT.glb",
         "thumbnail": "assets/card/ITRU_FIREBOLT.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_ICEBOLT.glb",
         "thumbnail": "assets/card/ITRU_ICEBOLT.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_LIGHT.glb",
         "thumbnail": "assets/card/ITRU_LIGHT.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_SUMGOBSKEL.glb",
         "thumbnail": "assets/card/ITRU_SUMGOBSKEL.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_INSTANTFIREBALL.glb",
         "thumbnail": "assets/card/ITRU_INSTANTFIREBALL.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_WATER04.glb",
         "thumbnail": "assets/card/ITRU_WATER04.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_WINDFIST.glb",
         "thumbnail": "assets/card/ITRU_WINDFIST.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_WATER02.glb",
         "thumbnail": "assets/card/ITRU_WATER02.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_SLEEP.glb",
         "thumbnail": "assets/card/ITRU_SLEEP.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_BELIAR01.glb",
         "thumbnail": "assets/card/ITRU_BELIAR01.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_WATER03.glb",
         "thumbnail": "assets/card/ITRU_WATER03.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_SUMWOLF.glb",
         "thumbnail": "assets/card/ITRU_SUMWOLF.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_WATER01.glb",
         "thumbnail": "assets/card/ITRU_WATER01.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_CHARGEFIREBALL.glb",
         "thumbnail": "assets/card/ITRU_CHARGEFIREBALL.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_MEDIUMHEAL.glb",
         "thumbnail": "assets/card/ITRU_MEDIUMHEAL.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_FIRESTORM.glb",
         "thumbnail": "assets/card/ITRU_FIRESTORM.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_THUNDERBALL.glb",
         "thumbnail": "assets/card/ITRU_THUNDERBALL.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_BELIAR03.glb",
         "thumbnail": "assets/card/ITRU_BELIAR03.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_BELIAR06.glb",
         "thumbnail": "assets/card/ITRU_BELIAR06.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_FEAR.glb",
         "thumbnail": "assets/card/ITRU_FEAR.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_PALREPELEVIL.glb",
         "thumbnail": "assets/card/ITRU_PALREPELEVIL.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_SUMSKEL.glb",
         "thumbnail": "assets/card/ITRU_SUMSKEL.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_LIGHTNINGFLASH.glb",
         "thumbnail": "assets/card/ITRU_LIGHTNINGFLASH.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_BELIAR04.glb",
         "thumbnail": "assets/card/ITRU_BELIAR04.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_SUMGOL.glb",
         "thumbnail": "assets/card/ITRU_SUMGOL.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_BELIAR07.glb",
         "thumbnail": "assets/card/ITRU_BELIAR07.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_HARMUNDEAD.glb",
         "thumbnail": "assets/card/ITRU_HARMUNDEAD.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_MASTEROFDESASTER.glb",
         "thumbnail": "assets/card/ITRU_MASTEROFDESASTER.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_ICECUBE.glb",
         "thumbnail": "assets/card/ITRU_ICECUBE.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_PYROKINESIS.glb",
         "thumbnail": "assets/card/ITRU_PYROKINESIS.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_FULLHEAL.glb",
         "thumbnail": "assets/card/ITRU_FULLHEAL.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_WATER05.glb",
         "thumbnail": "assets/card/ITRU_WATER05.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_ICEWAVE.glb",
         "thumbnail": "assets/card/ITRU_ICEWAVE.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_BREATHOFDEATH.glb",
         "thumbnail": "assets/card/ITRU_BREATHOFDEATH.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_PALREPELEVIL.glb",
         "thumbnail": "assets/card/ITRU_PALREPELEVIL.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_SUMDEMON.glb",
         "thumbnail": "assets/card/ITRU_SUMDEMON.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_ARMYOFDARKNESS.glb",
         "thumbnail": "assets/card/ITRU_ARMYOFDARKNESS.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_FIRERAIN.glb",
         "thumbnail": "assets/card/ITRU_FIRERAIN.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Runy",
         "model": "assets/models/ITRU_MASSDEATH.glb",
         "thumbnail": "assets/card/ITRU_MASSDEATH.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_RUNEBLANK.glb",
         "thumbnail": "assets/card/ITMI_RUNEBLANK.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_RUNEBLANK.glb",
         "thumbnail": "assets/card/ITMI_RUNEBLANK.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_RUNEBLANK.glb",
         "thumbnail": "assets/card/ITMI_RUNEBLANK.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/FEDERV6.glb",
         "thumbnail": "assets/card/FEDERV6.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_FIREBOLT.glb",
         "thumbnail": "assets/card/ITSC_FIREBOLT.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_ICEBOLT.glb",
         "thumbnail": "assets/card/ITSC_ICEBOLT.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_LIGHT.glb",
         "thumbnail": "assets/card/ITSC_LIGHT.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_ZAP.glb",
         "thumbnail": "assets/card/ITSC_ZAP.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_LIGHTHEAL.glb",
         "thumbnail": "assets/card/ITSC_LIGHTHEAL.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_SUMGOBSKEL.glb",
         "thumbnail": "assets/card/ITSC_SUMGOBSKEL.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_SUMWOLF.glb",
         "thumbnail": "assets/card/ITSC_SUMWOLF.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_INSTANTFIREBALL.glb",
         "thumbnail": "assets/card/ITSC_INSTANTFIREBALL.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_WATER04.glb",
         "thumbnail": "assets/card/ITSC_WATER04.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_WATER02.glb",
         "thumbnail": "assets/card/ITSC_WATER02.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_WATER03.glb",
         "thumbnail": "assets/card/ITSC_WATER03.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_WINDFIST.glb",
         "thumbnail": "assets/card/ITSC_WINDFIST.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_SLEEP.glb",
         "thumbnail": "assets/card/ITSC_SLEEP.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_FEAR.glb",
         "thumbnail": "assets/card/ITSC_FEAR.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_PALMEDIUMHEAL.glb",
         "thumbnail": "assets/card/ITSC_PALMEDIUMHEAL.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_WATER01.glb",
         "thumbnail": "assets/card/ITSC_WATER01.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_THUNDERBALL.glb",
         "thumbnail": "assets/card/ITSC_THUNDERBALL.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_CHARGEFIREBALL.glb",
         "thumbnail": "assets/card/ITSC_CHARGEFIREBALL.webp"
     },
@@ -2492,6 +2555,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_FIRESTORM.glb",
         "thumbnail": "assets/card/ITSC_FIRESTORM.webp"
     },
@@ -2531,6 +2595,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_SUMSKEL.glb",
         "thumbnail": "assets/card/ITSC_SUMSKEL.webp"
     },
@@ -2570,6 +2635,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_SUMGOL.glb",
         "thumbnail": "assets/card/ITSC_SUMGOL.webp"
     },
@@ -2609,6 +2675,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_ICECUBE.glb",
         "thumbnail": "assets/card/ITSC_ICECUBE.webp"
     },
@@ -2648,6 +2715,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_HARMUNDEAD.glb",
         "thumbnail": "assets/card/ITSC_HARMUNDEAD.webp"
     },
@@ -2687,6 +2755,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_LIGHTNINGFLASH.glb",
         "thumbnail": "assets/card/ITSC_LIGHTNINGFLASH.webp"
     },
@@ -2726,6 +2795,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_PYROKINESIS.glb",
         "thumbnail": "assets/card/ITSC_PYROKINESIS.webp"
     },
@@ -2765,6 +2835,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_BREATHOFDEATH.glb",
         "thumbnail": "assets/card/ITSC_BREATHOFDEATH.webp"
     },
@@ -2804,6 +2875,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_ICEWAVE.glb",
         "thumbnail": "assets/card/ITSC_ICEWAVE.webp"
     },
@@ -2843,6 +2915,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_FIRERAIN.glb",
         "thumbnail": "assets/card/ITSC_FIRERAIN.webp"
     },
@@ -2882,6 +2955,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_MASSDEATH.glb",
         "thumbnail": "assets/card/ITSC_MASSDEATH.webp"
     },
@@ -2921,6 +2995,7 @@
         "expirationTime": "BRAK",
         "plik": "runes",
         "profession": "Zaklinacz",
+        "kategoria": "Zwój",
         "model": "assets/models/ITSC_WATER05.glb",
         "thumbnail": "assets/card/ITSC_WATER05.webp"
     },
@@ -2960,6 +3035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/2H_STAFF_03.glb",
         "thumbnail": "assets/card/2H_STAFF_03.webp"
     },
@@ -2999,6 +3075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/2H_STAFF_03.glb",
         "thumbnail": "assets/card/2H_STAFF_03.webp"
     },
@@ -3038,6 +3115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zaklinacz",
+        "kategoria": "Inne",
         "model": "assets/models/DREWIENKO1.glb",
         "thumbnail": "assets/card/DREWIENKO1.webp"
     },
@@ -3077,6 +3155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/2H_STAFF_03.glb",
         "thumbnail": "assets/card/2H_STAFF_03.webp"
     },
@@ -3116,6 +3195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_FIREMAGE_01.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_FIREMAGE_01.webp"
     },
@@ -3155,6 +3235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_WATERMAGE_01.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_WATERMAGE_01.webp"
     },
@@ -3194,6 +3275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_MANA_01.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_MANA_01.webp"
     },
@@ -3233,6 +3315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_PROT_01.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_PROT_01.webp"
     },
@@ -3272,6 +3355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/ITMW_2H_STAFF_L_CRYSTAL.glb",
         "thumbnail": "assets/card/ITMW_2H_STAFF_L_CRYSTAL.webp"
     },
@@ -3311,6 +3395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_FIREMAGE_02.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_FIREMAGE_02.webp"
     },
@@ -3350,6 +3435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_WATERMAGE_02.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_WATERMAGE_02.webp"
     },
@@ -3389,6 +3475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/ITMW_STAFF_DRUID_01.glb",
         "thumbnail": "assets/card/ITMW_STAFF_DRUID_01.webp"
     },
@@ -3428,6 +3515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_PROT_02.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_PROT_02.webp"
     },
@@ -3467,6 +3555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_BLADESTAFF_01.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_BLADESTAFF_01.webp"
     },
@@ -3506,6 +3595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_SCEPTREOFVARANT_02.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_SCEPTREOFVARANT_02.webp"
     },
@@ -3545,6 +3635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/ITMW_2H_BLOODSTAFF_01.glb",
         "thumbnail": "assets/card/ITMW_2H_BLOODSTAFF_01.webp"
     },
@@ -3584,6 +3675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_FIREMAGE_03.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_FIREMAGE_03.webp"
     },
@@ -3623,6 +3715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_WATERMAGE_03.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_WATERMAGE_03.webp"
     },
@@ -3662,6 +3755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_MANA_03.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_MANA_03.webp"
     },
@@ -3701,6 +3795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/G3_WEAPON_STAFF_PROT_03.glb",
         "thumbnail": "assets/card/G3_WEAPON_STAFF_PROT_03.webp"
     },
@@ -3740,6 +3835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/WULWRYK_STAFF_V9.glb",
         "thumbnail": "assets/card/WULWRYK_STAFF_V9.webp"
     },
@@ -3779,6 +3875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/WATER_STAFF.glb",
         "thumbnail": "assets/card/WATER_STAFF.webp"
     },
@@ -3818,6 +3915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/ITMW_STAFF_DRUID_03.glb",
         "thumbnail": "assets/card/ITMW_STAFF_DRUID_03.webp"
     },
@@ -3857,6 +3955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zaklinacz",
+        "kategoria": "Kostur",
         "model": "assets/models/IT_WPN_STAFF_DRUID.glb",
         "thumbnail": "assets/card/IT_WPN_STAFF_DRUID.webp"
     },
@@ -3896,6 +3995,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_EDGE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_EDGE_02.webp"
     },
@@ -3935,6 +4035,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_EDGE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_EDGE_02.webp"
     },
@@ -3974,6 +4075,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_EDGE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_EDGE_02.webp"
     },
@@ -4013,6 +4115,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_MANA_01.glb",
         "thumbnail": "assets/card/ITRI_MANA_01.webp"
     },
@@ -4052,6 +4155,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_HP_01.glb",
         "thumbnail": "assets/card/ITRI_HP_01.webp"
     },
@@ -4091,6 +4195,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_TOTAL_01.glb",
         "thumbnail": "assets/card/ITRI_PROT_TOTAL_01.webp"
     },
@@ -4130,6 +4235,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_POINT_01.glb",
         "thumbnail": "assets/card/ITRI_PROT_POINT_01.webp"
     },
@@ -4169,6 +4275,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_HP_01.glb",
         "thumbnail": "assets/card/ITRI_HP_01.webp"
     },
@@ -4208,6 +4315,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_EDGE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_EDGE_02.webp"
     },
@@ -4247,6 +4355,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_EDGE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_EDGE_02.webp"
     },
@@ -4286,6 +4395,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_FIRE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_FIRE_02.webp"
     },
@@ -4325,6 +4435,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_EDGE_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_EDGE_02.webp"
     },
@@ -4364,6 +4475,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_HP_02.glb",
         "thumbnail": "assets/card/ITRI_HP_02.webp"
     },
@@ -4403,6 +4515,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_MANA_02.glb",
         "thumbnail": "assets/card/ITRI_MANA_02.webp"
     },
@@ -4442,6 +4555,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_HP_MANA_01.glb",
         "thumbnail": "assets/card/ITRI_HP_MANA_01.webp"
     },
@@ -4481,6 +4595,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_STR_02.glb",
         "thumbnail": "assets/card/ITRI_STR_02.webp"
     },
@@ -4520,6 +4635,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_HP_01.glb",
         "thumbnail": "assets/card/ITRI_HP_01.webp"
     },
@@ -4559,6 +4675,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_TOTAL_02.glb",
         "thumbnail": "assets/card/ITRI_PROT_TOTAL_02.webp"
     },
@@ -4598,6 +4715,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_PROT_EDGE_01.glb",
         "thumbnail": "assets/card/ITAM_PROT_EDGE_01.webp"
     },
@@ -4637,6 +4755,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_PROT_POINT_01.glb",
         "thumbnail": "assets/card/ITAM_PROT_POINT_01.webp"
     },
@@ -4676,6 +4795,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_PROT_TOTAL_01.glb",
         "thumbnail": "assets/card/ITAM_PROT_TOTAL_01.webp"
     },
@@ -4715,6 +4835,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_MANA_01.glb",
         "thumbnail": "assets/card/ITAM_MANA_01.webp"
     },
@@ -4754,6 +4875,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_STRG_01.glb",
         "thumbnail": "assets/card/ITAM_STRG_01.webp"
     },
@@ -4793,6 +4915,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_HP_MANA_01.glb",
         "thumbnail": "assets/card/ITAM_HP_MANA_01.webp"
     },
@@ -4832,6 +4955,7 @@
         "expirationTime": "BRAK",
         "plik": "rings",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITRI_PROT_TOTAL_01.glb",
         "thumbnail": "assets/card/ITRI_PROT_TOTAL_01.webp"
     },
@@ -4871,6 +4995,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_STRG_01.glb",
         "thumbnail": "assets/card/ITAM_STRG_01.webp"
     },
@@ -4910,6 +5035,7 @@
         "expirationTime": "BRAK",
         "plik": "amulets",
         "profession": "Zaklinacz",
+        "kategoria": "Magiczne akcesoria",
         "model": "assets/models/ITAM_PROT_POINT_01.glb",
         "thumbnail": "assets/card/ITAM_PROT_POINT_01.webp"
     }

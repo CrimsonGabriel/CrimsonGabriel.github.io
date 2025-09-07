@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/MALAWEDKA.glb",
         "thumbnail": "assets/card/MALAWEDKA.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/LOPATA2.glb",
         "thumbnail": "assets/card/LOPATA2.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMW_020_2H_PICKAXE_01.glb",
         "thumbnail": "assets/card/ITMW_020_2H_PICKAXE_01.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMW_020_2H_AXE_LUMBERJACK_01.glb",
         "thumbnail": "assets/card/ITMW_020_2H_AXE_LUMBERJACK_01.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_SAW.glb",
         "thumbnail": "assets/card/ITMI_SAW.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMW_010_1H_SLEDGEHAMMER_01.glb",
         "thumbnail": "assets/card/ITMW_010_1H_SLEDGEHAMMER_01.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_RAKE.glb",
         "thumbnail": "assets/card/ITMI_RAKE.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_HAMMER.glb",
         "thumbnail": "assets/card/ITMI_HAMMER.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMW_005_1H_DAGGER_01.glb",
         "thumbnail": "assets/card/ITMW_005_1H_DAGGER_01.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/KOLOWROT.glb",
         "thumbnail": "assets/card/KOLOWROT.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_FLASK.glb",
         "thumbnail": "assets/card/ITMI_FLASK.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMW_1H_NOZYCE_01.glb",
         "thumbnail": "assets/card/ITMW_1H_NOZYCE_01.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_STUFF_BARBKNIFE_01.glb",
         "thumbnail": "assets/card/ITMI_STUFF_BARBKNIFE_01.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/KM_VOB_BREADGIVER.glb",
         "thumbnail": "assets/card/KM_VOB_BREADGIVER.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_PLIERS.glb",
         "thumbnail": "assets/card/ITMI_PLIERS.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_PAN.glb",
         "thumbnail": "assets/card/ITMI_PAN.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_SCOOP.glb",
         "thumbnail": "assets/card/ITMI_SCOOP.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_PACKET.glb",
         "thumbnail": "assets/card/ITMI_PACKET.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/KM_ITMI_PACKET_06.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_06.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/KM_ITMI_PACKET_05.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_05.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/KOLCZUGASRUDAS.glb",
         "thumbnail": "assets/card/KOLCZUGASRUDAS.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/JELEC.glb",
         "thumbnail": "assets/card/JELEC.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ITMI_POCKET.glb",
         "thumbnail": "assets/card/ITMI_POCKET.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANE_ZELAZNE_OSTRZE.glb",
         "thumbnail": "assets/card/NIEUFORMOWANE_ZELAZNE_OSTRZE.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANE_ZELAZNE_OSTRZE.glb",
         "thumbnail": "assets/card/UFORMOWANE_ZELAZNE_OSTRZE.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIENAOSTRZONE_ZELAZNE_OSTRZE.glb",
         "thumbnail": "assets/card/NIENAOSTRZONE_ZELAZNE_OSTRZE.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ZELAZNE_OSTRZE.glb",
         "thumbnail": "assets/card/ZELAZNE_OSTRZE.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANE_STALOWE_OSTRZE.glb",
         "thumbnail": "assets/card/NIEUFORMOWANE_STALOWE_OSTRZE.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANE_STALOWE_OSTRZE.glb",
         "thumbnail": "assets/card/UFORMOWANE_STALOWE_OSTRZE.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIENAOSTRZONE_STALOWE_OSTRZE.glb",
         "thumbnail": "assets/card/NIENAOSTRZONE_STALOWE_OSTRZE.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/STALOWE_OSTRZE.glb",
         "thumbnail": "assets/card/STALOWE_OSTRZE.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANE_METEORYTOWE_OSTRZE.glb",
         "thumbnail": "assets/card/NIEUFORMOWANE_METEORYTOWE_OSTRZE.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANE_METEORYTOWE_OSTRZE.glb",
         "thumbnail": "assets/card/UFORMOWANE_METEORYTOWE_OSTRZE.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIENAOSTRZONE_METEORYTOWE_OSTRZE.glb",
         "thumbnail": "assets/card/NIENAOSTRZONE_METEORYTOWE_OSTRZE.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/METEORYTOWE_OSTRZE.glb",
         "thumbnail": "assets/card/METEORYTOWE_OSTRZE.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANE_MAGICZNE_OSTRZE.glb",
         "thumbnail": "assets/card/NIEUFORMOWANE_MAGICZNE_OSTRZE.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANE_MAGICZNE_OSTRZE.glb",
         "thumbnail": "assets/card/UFORMOWANE_MAGICZNE_OSTRZE.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIENAOSTRZONE_MAGICZNEJ_OSTRZE.glb",
         "thumbnail": "assets/card/NIENAOSTRZONE_MAGICZNEJ_OSTRZE.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/MAGICZNE_OSTRZE.glb",
         "thumbnail": "assets/card/MAGICZNE_OSTRZE.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANY_ZELAZNY_PRET.glb",
         "thumbnail": "assets/card/NIEUFORMOWANY_ZELAZNY_PRET.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANY_ZELAZNY_PRET.glb",
         "thumbnail": "assets/card/UFORMOWANY_ZELAZNY_PRET.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ZELAZNY_PRET.glb",
         "thumbnail": "assets/card/ZELAZNY_PRET.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANY_STALOWY_PRET.glb",
         "thumbnail": "assets/card/NIEUFORMOWANY_STALOWY_PRET.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANY_STALOWY_PRET.glb",
         "thumbnail": "assets/card/UFORMOWANY_STALOWY_PRET.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/STALOWY_PRET.glb",
         "thumbnail": "assets/card/STALOWY_PRET.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANY_METEORYTOWY_PRET.glb",
         "thumbnail": "assets/card/NIEUFORMOWANY_METEORYTOWY_PRET.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANY_METEORYTOWY_PRET.glb",
         "thumbnail": "assets/card/UFORMOWANY_METEORYTOWY_PRET.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/METEORYTOWY_PRET.glb",
         "thumbnail": "assets/card/METEORYTOWY_PRET.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANY_MAGICZNY_PRET.glb",
         "thumbnail": "assets/card/NIEUFORMOWANY_MAGICZNY_PRET.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANY_MAGICZNY_PRET.glb",
         "thumbnail": "assets/card/UFORMOWANY_MAGICZNY_PRET.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/MAGICZNY_PRET.glb",
         "thumbnail": "assets/card/MAGICZNY_PRET.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANE_ZELAZO.glb",
         "thumbnail": "assets/card/NIEUFORMOWANE_ZELAZO.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFORMOWANE_ZELAZO.glb",
         "thumbnail": "assets/card/UFORMOWANE_ZELAZO.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/ZELAZNA_BLACHA.glb",
         "thumbnail": "assets/card/ZELAZNA_BLACHA.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANA_STAL.glb",
         "thumbnail": "assets/card/NIEUFORMOWANA_STAL.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFURMOWANA_STAL.glb",
         "thumbnail": "assets/card/UFURMOWANA_STAL.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/STALOWA_BLACHA.glb",
         "thumbnail": "assets/card/STALOWA_BLACHA.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANY_METEORYT.glb",
         "thumbnail": "assets/card/NIEUFORMOWANY_METEORYT.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFURMOWANY_METEORYT.glb",
         "thumbnail": "assets/card/UFURMOWANY_METEORYT.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/METEORYTOWA_BLACHA.glb",
         "thumbnail": "assets/card/METEORYTOWA_BLACHA.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/NIEUFORMOWANA_MAGICZNA.glb",
         "thumbnail": "assets/card/NIEUFORMOWANA_MAGICZNA.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/UFURMOWANA_MAGICZNA.glb",
         "thumbnail": "assets/card/UFURMOWANA_MAGICZNA.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kowal",
+        "kategoria": "",
         "model": "assets/models/MAGICZNA_BLACHA.glb",
         "thumbnail": "assets/card/MAGICZNA_BLACHA.webp"
     }

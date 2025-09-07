@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/BIG_BRYLKA_WEGIEL.glb",
         "thumbnail": "assets/card/BIG_BRYLKA_WEGIEL.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/BIG_BRYLKA_ZLOTO.glb",
         "thumbnail": "assets/card/BIG_BRYLKA_ZLOTO.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/BIG_BRYLKA_ZELAZO.glb",
         "thumbnail": "assets/card/BIG_BRYLKA_ZELAZO.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/KOHLE_NUGGET.glb",
         "thumbnail": "assets/card/KOHLE_NUGGET.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/ITAT_STONEGOLEMHEART.glb",
         "thumbnail": "assets/card/ITAT_STONEGOLEMHEART.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/SALZ_NUGGET.glb",
         "thumbnail": "assets/card/SALZ_NUGGET.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_QUARTZ.glb",
         "thumbnail": "assets/card/ITMI_QUARTZ.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_GOLDNUGGET_01.glb",
         "thumbnail": "assets/card/ITMI_GOLDNUGGET_01.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/CRAFT_BRYLKA_SIARKI.glb",
         "thumbnail": "assets/card/CRAFT_BRYLKA_SIARKI.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/CRAFT_BRYLKA_ZELAZO.glb",
         "thumbnail": "assets/card/CRAFT_BRYLKA_ZELAZO.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/AMETHYST_CRYSTAL.glb",
         "thumbnail": "assets/card/AMETHYST_CRYSTAL.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/AQUAMARIN_CRYSTAL.glb",
         "thumbnail": "assets/card/AQUAMARIN_CRYSTAL.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/RUBIN_CRYSTAL.glb",
         "thumbnail": "assets/card/RUBIN_CRYSTAL.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/BURSZTYN_CRYSTAL.glb",
         "thumbnail": "assets/card/BURSZTYN_CRYSTAL.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_ALCHEMY_SALT_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_SALT_01.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/IT_POWDERMAGICORE.glb",
         "thumbnail": "assets/card/IT_POWDERMAGICORE.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Górnik",
+        "kategoria": "",
         "model": "assets/models/ITAC_KOHLEPULVER.glb",
         "thumbnail": "assets/card/ITAC_KOHLEPULVER.webp"
     }

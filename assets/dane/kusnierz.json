@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_RABUS.glb",
         "thumbnail": "assets/card/ARMOR_RABUS.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_BAB_PRAVEN_L.glb",
         "thumbnail": "assets/card/ARMOR_BAB_PRAVEN_L.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_BAB_BDTL_L.glb",
         "thumbnail": "assets/card/ARMOR_BAB_BDTL_L.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/SYN_ARMOR_BABE_BLACKSZKODNIK.glb",
         "thumbnail": "assets/card/SYN_ARMOR_BABE_BLACKSZKODNIK.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_LEATHER_L.glb",
         "thumbnail": "assets/card/ARMOR_LEATHER_L.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_ARM_ARX_L2.glb",
         "thumbnail": "assets/card/KM_ARM_ARX_L2.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ZRP26.glb",
         "thumbnail": "assets/card/ZRP26.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/TESMAGE.glb",
         "thumbnail": "assets/card/TESMAGE.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_RANGERIST.glb",
         "thumbnail": "assets/card/ARMOR_RANGERIST.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_ARX_M.glb",
         "thumbnail": "assets/card/KM_ARX_M.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/PIR_MAR_H.glb",
         "thumbnail": "assets/card/PIR_MAR_H.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_LEATHER_L_GRD5.glb",
         "thumbnail": "assets/card/ARMOR_LEATHER_L_GRD5.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_SCHATTEN_M_NEW.glb",
         "thumbnail": "assets/card/ARMOR_SCHATTEN_M_NEW.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_RANGER_ADDON.glb",
         "thumbnail": "assets/card/ARMOR_RANGER_ADDON.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_SLD_L.glb",
         "thumbnail": "assets/card/ARMOR_SLD_L.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ORG_M_02_BLACK.glb",
         "thumbnail": "assets/card/ORG_M_02_BLACK.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_LEATHER_L_GRD1.glb",
         "thumbnail": "assets/card/ARMOR_LEATHER_L_GRD1.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/RB_MK_CIENIOSTWOR.glb",
         "thumbnail": "assets/card/RB_MK_CIENIOSTWOR.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_BANDIT_ARMOR_M.glb",
         "thumbnail": "assets/card/KM_BANDIT_ARMOR_M.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_SOILDER.glb",
         "thumbnail": "assets/card/ARMOR_SOILDER.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_SLD_DEX1.glb",
         "thumbnail": "assets/card/ARMOR_SLD_DEX1.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_SLD_H_TOP.glb",
         "thumbnail": "assets/card/ARMOR_SLD_H_TOP.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_ARX_H1.glb",
         "thumbnail": "assets/card/KM_ARX_H1.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_USM_L.glb",
         "thumbnail": "assets/card/KM_USM_L.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/SYN_KM_VOL_BABSKO_01.glb",
         "thumbnail": "assets/card/SYN_KM_VOL_BABSKO_01.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_USM_B.glb",
         "thumbnail": "assets/card/KM_USM_B.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_DJG_CRAWLER.glb",
         "thumbnail": "assets/card/ARMOR_DJG_CRAWLER.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/TRAMNIS_SZKOH.glb",
         "thumbnail": "assets/card/TRAMNIS_SZKOH.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/GS_ARMOR_SABAT_03.glb",
         "thumbnail": "assets/card/GS_ARMOR_SABAT_03.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/FER_TROLL_ARMOR_01.glb",
         "thumbnail": "assets/card/FER_TROLL_ARMOR_01.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/HUM_DHT3_ARMOR.glb",
         "thumbnail": "assets/card/HUM_DHT3_ARMOR.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/PIRANHA_PALADIUM.glb",
         "thumbnail": "assets/card/PIRANHA_PALADIUM.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/KM_ARX_H2.glb",
         "thumbnail": "assets/card/KM_ARX_H2.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/NEUT_IORWETH.glb",
         "thumbnail": "assets/card/NEUT_IORWETH.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/RB_MK_H1.glb",
         "thumbnail": "assets/card/RB_MK_H1.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/GS_PIRATY_T5.glb",
         "thumbnail": "assets/card/GS_PIRATY_T5.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/FER_BLACKTROLL_ARMOR_01.glb",
         "thumbnail": "assets/card/FER_BLACKTROLL_ARMOR_01.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_RAVON_DOWO.glb",
         "thumbnail": "assets/card/ARMOR_RAVON_DOWO.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ZRP50.glb",
         "thumbnail": "assets/card/ZRP50.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/ARMOR_VAATU.glb",
         "thumbnail": "assets/card/ARMOR_VAATU.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Kuśnierz",
+        "kategoria": "Pancerz lekki",
         "model": "assets/models/PANCERZ_VENDERA_1.glb",
         "thumbnail": "assets/card/PANCERZ_VENDERA_1.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_06.glb",
         "thumbnail": "assets/card/ITMI_BELT_06.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_05.glb",
         "thumbnail": "assets/card/ITMI_BELT_05.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_05.glb",
         "thumbnail": "assets/card/ITMI_BELT_05.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_06.glb",
         "thumbnail": "assets/card/ITMI_BELT_06.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_06.glb",
         "thumbnail": "assets/card/ITMI_BELT_06.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_05.glb",
         "thumbnail": "assets/card/ITMI_BELT_05.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_02.glb",
         "thumbnail": "assets/card/ITMI_BELT_02.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "gothic_belt",
         "profession": "Kuśnierz",
+        "kategoria": "Pasy",
         "model": "assets/models/ITMI_BELT_02.glb",
         "thumbnail": "assets/card/ITMI_BELT_02.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kuśnierz",
+        "kategoria": "Inne",
         "model": "assets/models/SKORZANE_PLATY.glb",
         "thumbnail": "assets/card/SKORZANE_PLATY.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kuśnierz",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_KM_LEATHER_L.glb",
         "thumbnail": "assets/card/ITAR_KM_LEATHER_L.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kuśnierz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_08.glb",
         "thumbnail": "assets/card/ITMI_BELT_08.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kuśnierz",
+        "kategoria": "Inne",
         "model": "assets/models/KM_VOB_ARMORER_GLOVES_01.glb",
         "thumbnail": "assets/card/KM_VOB_ARMORER_GLOVES_01.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kuśnierz",
+        "kategoria": "Inne",
         "model": "assets/models/SKORZANE_WZMOCNIENIE.glb",
         "thumbnail": "assets/card/SKORZANE_WZMOCNIENIE.webp"
     }

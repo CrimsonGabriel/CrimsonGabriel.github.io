@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_POCKET.glb",
         "thumbnail": "assets/card/ITMI_POCKET.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/ITFO_WATER.glb",
         "thumbnail": "assets/card/ITFO_WATER.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_FLASK.glb",
         "thumbnail": "assets/card/ITMI_FLASK.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/SYN_IRON_BAR.glb",
         "thumbnail": "assets/card/SYN_IRON_BAR.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/SYN_SILVER_BAR.glb",
         "thumbnail": "assets/card/SYN_SILVER_BAR.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/SYN_RED_BAR.glb",
         "thumbnail": "assets/card/SYN_RED_BAR.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Hutnik",
+        "kategoria": "",
         "model": "assets/models/SYN_MAGIC_BAR.glb",
         "thumbnail": "assets/card/SYN_MAGIC_BAR.webp"
     }

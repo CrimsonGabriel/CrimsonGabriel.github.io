@@ -35,6 +35,7 @@
         "expirationTime": "21600",
         "plik": "consumable",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITPL_BEET.glb",
         "thumbnail": "assets/card/ITPL_BEET.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "21600",
         "plik": "consumable",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITFO_CARROT.glb",
         "thumbnail": "assets/card/ITFO_CARROT.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/GS_NATURE_FLAX_03_GALI.glb",
         "thumbnail": "assets/card/GS_NATURE_FLAX_03_GALI.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/GS_NATURE_WHEAT_03_GALI.glb",
         "thumbnail": "assets/card/GS_NATURE_WHEAT_03_GALI.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "21600",
         "plik": "consumable",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/KM_VOB_PUMPKIN_01.glb",
         "thumbnail": "assets/card/KM_VOB_PUMPKIN_01.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "21600",
         "plik": "consumable",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/KAPUSTA.glb",
         "thumbnail": "assets/card/KAPUSTA.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/NASIONO18.glb",
         "thumbnail": "assets/card/NASIONO18.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/NASIONO29.glb",
         "thumbnail": "assets/card/NASIONO29.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "acsr2",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/STATIC_KOZA_KLOSO_01.glb",
         "thumbnail": "assets/card/STATIC_KOZA_KLOSO_01.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/KM_ITMI_PACKET_03.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_03.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/IT_SLAVEROPE.glb",
         "thumbnail": "assets/card/IT_SLAVEROPE.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/NASIONO30.glb",
         "thumbnail": "assets/card/NASIONO30.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/PASZA.glb",
         "thumbnail": "assets/card/PASZA.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/NASIONO12.glb",
         "thumbnail": "assets/card/NASIONO12.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/NASIONO28.glb",
         "thumbnail": "assets/card/NASIONO28.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/KM_ITMI_PACKET_07.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_07.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/NASIONO2.glb",
         "thumbnail": "assets/card/NASIONO2.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_POCKET.glb",
         "thumbnail": "assets/card/ITMI_POCKET.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITMI_ALCHEMY_SALT_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_SALT_01.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/TOD_HUEHNEREI01.glb",
         "thumbnail": "assets/card/TOD_HUEHNEREI01.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITFO_GS_BAWELNA.glb",
         "thumbnail": "assets/card/ITFO_GS_BAWELNA.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "21600",
         "plik": "consumable",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITFO_MILK.glb",
         "thumbnail": "assets/card/ITFO_MILK.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "21600",
         "plik": "consumable",
         "profession": "Rolnik",
+        "kategoria": "",
         "model": "assets/models/ITFO_CHEESE.glb",
         "thumbnail": "assets/card/ITFO_CHEESE.webp"
     }

@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_WEED.glb",
         "thumbnail": "assets/card/ITPL_WEED.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITFO_PLANTS_MUSHROOM_01.glb",
         "thumbnail": "assets/card/ITFO_PLANTS_MUSHROOM_01.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_MUSHROOM_01.glb",
         "thumbnail": "assets/card/ITPL_MUSHROOM_01.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_WEED.glb",
         "thumbnail": "assets/card/ITPL_WEED.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_TEMP_HERB.glb",
         "thumbnail": "assets/card/ITPL_TEMP_HERB.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_BLUEPLANT.glb",
         "thumbnail": "assets/card/ITPL_BLUEPLANT.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITFO_PLANTS_HERB_01.glb",
         "thumbnail": "assets/card/ITFO_PLANTS_HERB_01.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_MANA_HERB_01.glb",
         "thumbnail": "assets/card/ITPL_MANA_HERB_01.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_HEALTH_HERB_02.glb",
         "thumbnail": "assets/card/ITPL_HEALTH_HERB_02.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_MANA_HERB_02.glb",
         "thumbnail": "assets/card/ITPL_MANA_HERB_02.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_SPEED_HERB_01.glb",
         "thumbnail": "assets/card/ITPL_SPEED_HERB_01.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_PERM_HERB.glb",
         "thumbnail": "assets/card/ITPL_PERM_HERB.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_HEALTH_HERB_03.glb",
         "thumbnail": "assets/card/ITPL_HEALTH_HERB_03.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_MANA_HERB_03.glb",
         "thumbnail": "assets/card/ITPL_MANA_HERB_03.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_FORESTBERRY.glb",
         "thumbnail": "assets/card/ITPL_FORESTBERRY.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Zbieracz",
+        "kategoria": "Rośliny",
         "model": "assets/models/ITPL_DEX_HERB_01.glb",
         "thumbnail": "assets/card/ITPL_DEX_HERB_01.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Zbieracz",
+        "kategoria": "Dary lasu",
         "model": "assets/models/ITFO_APPLE.glb",
         "thumbnail": "assets/card/ITFO_APPLE.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Dary lasu",
         "model": "assets/models/KORA.glb",
         "thumbnail": "assets/card/KORA.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Dary lasu",
         "model": "assets/models/HK_ITEM_PAJECZYNA.glb",
         "thumbnail": "assets/card/HK_ITEM_PAJECZYNA.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Dary lasu",
         "model": "assets/models/ITMI_BOTTLE_EMPTY.glb",
         "thumbnail": "assets/card/ITMI_BOTTLE_EMPTY.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Zbieracz",
+        "kategoria": "Dary lasu",
         "model": "assets/models/ITFO_HONEY.glb",
         "thumbnail": "assets/card/ITFO_HONEY.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Owoce morza",
         "model": "assets/models/ITFO_FISH.glb",
         "thumbnail": "assets/card/ITFO_FISH.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Owoce morza",
         "model": "assets/models/SDRP_FISH_04.glb",
         "thumbnail": "assets/card/SDRP_FISH_04.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Owoce morza",
         "model": "assets/models/ITMI_WHITEPEARL_01.glb",
         "thumbnail": "assets/card/ITMI_WHITEPEARL_01.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Zbieracz",
+        "kategoria": "Owoce morza",
         "model": "assets/models/ITAT_MEATBUGFLESH.glb",
         "thumbnail": "assets/card/ITAT_MEATBUGFLESH.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Owoce morza",
         "model": "assets/models/ITMI_DARKPEARL.glb",
         "thumbnail": "assets/card/ITMI_DARKPEARL.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbieracz",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITMI_ALCHEMY_MOLERATLUBRIC_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_MOLERATLUBRIC_01.webp"
     }

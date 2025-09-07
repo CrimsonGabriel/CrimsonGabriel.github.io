@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/IT_FABRIC.glb",
         "thumbnail": "assets/card/IT_FABRIC.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/IT_THREAD.glb",
         "thumbnail": "assets/card/IT_THREAD.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/TKANINA_WELNA.glb",
         "thumbnail": "assets/card/TKANINA_WELNA.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_BAU_L_03.glb",
         "thumbnail": "assets/card/ITAR_BAU_L_03.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/OPASKAOCZY.glb",
         "thumbnail": "assets/card/OPASKAOCZY.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/LUZNA_SUKNIA.glb",
         "thumbnail": "assets/card/LUZNA_SUKNIA.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_NOV_FIRE.glb",
         "thumbnail": "assets/card/ITAR_NOV_FIRE.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_KM_VLK_05.glb",
         "thumbnail": "assets/card/ITAR_KM_VLK_05.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/SZYKOWNA_SUKNIA.glb",
         "thumbnail": "assets/card/SZYKOWNA_SUKNIA.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/KM_VOB_ARMORER_GLOVES_02.glb",
         "thumbnail": "assets/card/KM_VOB_ARMORER_GLOVES_02.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_KDF_L_KM.glb",
         "thumbnail": "assets/card/ITAR_KDF_L_KM.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_KM_VLK_04.glb",
         "thumbnail": "assets/card/ITAR_KM_VLK_04.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_VLKBABE.glb",
         "thumbnail": "assets/card/ITAR_VLKBABE.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_KM_VLK_02.glb",
         "thumbnail": "assets/card/ITAR_KM_VLK_02.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOP_SMAC_KOSZ.glb",
         "thumbnail": "assets/card/KOP_SMAC_KOSZ.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_ARMOR_BAU_L_01.glb",
         "thumbnail": "assets/card/GS_ARMOR_BAU_L_01.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KAPTURREK_KOPACZA.glb",
         "thumbnail": "assets/card/KAPTURREK_KOPACZA.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/SC_KOPACZ.glb",
         "thumbnail": "assets/card/SC_KOPACZ.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/SC_KOPACZ_H.glb",
         "thumbnail": "assets/card/SC_KOPACZ_H.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/LATANE_SPODNIE1.glb",
         "thumbnail": "assets/card/LATANE_SPODNIE1.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_07.glb",
         "thumbnail": "assets/card/KM_PANTS_07.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_06.glb",
         "thumbnail": "assets/card/KM_PANTS_06.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_05.glb",
         "thumbnail": "assets/card/KM_PANTS_05.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_04.glb",
         "thumbnail": "assets/card/KM_PANTS_04.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_03.glb",
         "thumbnail": "assets/card/KM_PANTS_03.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_02.glb",
         "thumbnail": "assets/card/KM_PANTS_02.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PANTS_01.glb",
         "thumbnail": "assets/card/KM_PANTS_01.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_VLK_BATH.glb",
         "thumbnail": "assets/card/KM_VLK_BATH.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_ARMOR_BAU_L_02.glb",
         "thumbnail": "assets/card/GS_ARMOR_BAU_L_02.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/SZKODNIK_SABAT.glb",
         "thumbnail": "assets/card/SZKODNIK_SABAT.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/SDRP_OSADA_PRACOWNIK.glb",
         "thumbnail": "assets/card/SDRP_OSADA_PRACOWNIK.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_SAILOR_04.glb",
         "thumbnail": "assets/card/KM_SAILOR_04.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_SAILOR_03.glb",
         "thumbnail": "assets/card/KM_SAILOR_03.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_SAILOR_02.glb",
         "thumbnail": "assets/card/KM_SAILOR_02.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/SDRP_OSADA_PRACOWNICZKA.glb",
         "thumbnail": "assets/card/SDRP_OSADA_PRACOWNICZKA.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_SAILOR_01.glb",
         "thumbnail": "assets/card/KM_SAILOR_01.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_SMITH_JOE.glb",
         "thumbnail": "assets/card/ARMOR_SMITH_JOE.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/DK_ARMOR_CITIZEN_BLACKSMITH_01.glb",
         "thumbnail": "assets/card/DK_ARMOR_CITIZEN_BLACKSMITH_01.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_SMITH_02.glb",
         "thumbnail": "assets/card/ARMOR_KM_SMITH_02.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_SMITH_01.glb",
         "thumbnail": "assets/card/ARMOR_KM_SMITH_01.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/N34.glb",
         "thumbnail": "assets/card/N34.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOWALA.glb",
         "thumbnail": "assets/card/KOWALA.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOWALIK1.glb",
         "thumbnail": "assets/card/KOWALIK1.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_BAU_L_02.glb",
         "thumbnail": "assets/card/KM_BAU_L_02.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_BAU_L_01.glb",
         "thumbnail": "assets/card/KM_BAU_L_01.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_BAU_L_JORN.glb",
         "thumbnail": "assets/card/KM_BAU_L_JORN.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAU_L.glb",
         "thumbnail": "assets/card/ARMOR_BAU_L.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/UBRANIE_BAB_01.glb",
         "thumbnail": "assets/card/UBRANIE_BAB_01.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_SPODNIE.glb",
         "thumbnail": "assets/card/KOSZULA_SPODNIE.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_CZERWONA.glb",
         "thumbnail": "assets/card/KOSZULA_CZERWONA.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_CZARNA.glb",
         "thumbnail": "assets/card/KOSZULA_CZARNA.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_ZOLTA.glb",
         "thumbnail": "assets/card/KOSZULA_ZOLTA.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_ZIELONA.glb",
         "thumbnail": "assets/card/KOSZULA_ZIELONA.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_SZARA.glb",
         "thumbnail": "assets/card/KOSZULA_SZARA.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_POMARANCZ.glb",
         "thumbnail": "assets/card/KOSZULA_POMARANCZ.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KOSZULA_NAVY.glb",
         "thumbnail": "assets/card/KOSZULA_NAVY.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_WAITRESS.glb",
         "thumbnail": "assets/card/KM_WAITRESS.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_02_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_02_KOZA.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_01_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_01_KOZA.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_01_1_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_01_1_KOZA.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_02_1_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_02_1_KOZA.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_01_2_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_01_2_KOZA.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_02_2_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_02_2_KOZA.webp"
     },
@@ -2492,6 +2555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_01_4_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_01_4_KOZA.webp"
     },
@@ -2531,6 +2595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_02_4_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_02_4_KOZA.webp"
     },
@@ -2570,6 +2635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_01_3_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_01_3_KOZA.webp"
     },
@@ -2609,6 +2675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_VLK_02_3_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_VLK_02_3_KOZA.webp"
     },
@@ -2648,6 +2715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_L1.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_L1.webp"
     },
@@ -2687,6 +2755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_L2.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_L2.webp"
     },
@@ -2726,6 +2795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_L3.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_L3.webp"
     },
@@ -2765,6 +2835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_L4.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_L4.webp"
     },
@@ -2804,6 +2875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_L5.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_L5.webp"
     },
@@ -2843,6 +2915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_VLKBABE_M.glb",
         "thumbnail": "assets/card/ARMOR_VLKBABE_M.webp"
     },
@@ -2882,6 +2955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_L.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_L.webp"
     },
@@ -2921,6 +2995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_M.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_M.webp"
     },
@@ -2960,6 +3035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLKBABE_03.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLKBABE_03.webp"
     },
@@ -2999,6 +3075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLKBABE_04.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLKBABE_04.webp"
     },
@@ -3038,6 +3115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_ARMOR_LEATHER_L_01.glb",
         "thumbnail": "assets/card/GS_ARMOR_LEATHER_L_01.webp"
     },
@@ -3077,6 +3155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_ARMOR_LEATHER_L_02.glb",
         "thumbnail": "assets/card/GS_ARMOR_LEATHER_L_02.webp"
     },
@@ -3116,6 +3195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_ARMOR_PIR_L_ADDON_01.glb",
         "thumbnail": "assets/card/GS_ARMOR_PIR_L_ADDON_01.webp"
     },
@@ -3155,6 +3235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_ARMOR_PIR_L_ADDON_02.glb",
         "thumbnail": "assets/card/GS_ARMOR_PIR_L_ADDON_02.webp"
     },
@@ -3194,6 +3275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_GERALT_ADDON_GRD1.glb",
         "thumbnail": "assets/card/ARMOR_GERALT_ADDON_GRD1.webp"
     },
@@ -3233,6 +3315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PIR_L.glb",
         "thumbnail": "assets/card/KM_PIR_L.webp"
     },
@@ -3272,6 +3355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_PIR_L_ADDON.glb",
         "thumbnail": "assets/card/ARMOR_PIR_L_ADDON.webp"
     },
@@ -3311,6 +3395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_01.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_01.webp"
     },
@@ -3350,6 +3435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_TRAVELER_COAT_04.glb",
         "thumbnail": "assets/card/KM_TRAVELER_COAT_04.webp"
     },
@@ -3389,6 +3475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_TRAVELER_COAT_03.glb",
         "thumbnail": "assets/card/KM_TRAVELER_COAT_03.webp"
     },
@@ -3428,6 +3515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_TRAVELER_COAT_02.glb",
         "thumbnail": "assets/card/KM_TRAVELER_COAT_02.webp"
     },
@@ -3467,6 +3555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_TRAVELER_COAT_01.glb",
         "thumbnail": "assets/card/KM_TRAVELER_COAT_01.webp"
     },
@@ -3506,6 +3595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_08.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_08.webp"
     },
@@ -3545,6 +3635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_06.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_06.webp"
     },
@@ -3584,6 +3675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_05.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_05.webp"
     },
@@ -3623,6 +3715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAU_M_03.glb",
         "thumbnail": "assets/card/ARMOR_BAU_M_03.webp"
     },
@@ -3662,6 +3755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAU_M_02.glb",
         "thumbnail": "assets/card/ARMOR_BAU_M_02.webp"
     },
@@ -3701,6 +3795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAU_M_01.glb",
         "thumbnail": "assets/card/ARMOR_BAU_M_01.webp"
     },
@@ -3740,6 +3835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAU_M.glb",
         "thumbnail": "assets/card/ARMOR_BAU_M.webp"
     },
@@ -3779,6 +3875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_10.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_10.webp"
     },
@@ -3818,6 +3915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_11.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_11.webp"
     },
@@ -3857,6 +3955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_09.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_09.webp"
     },
@@ -3896,6 +3995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_03.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_03.webp"
     },
@@ -3935,6 +4035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_02.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_02.webp"
     },
@@ -3974,6 +4075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_04.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_04.webp"
     },
@@ -4013,6 +4115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_VLK_L.glb",
         "thumbnail": "assets/card/ARMOR_VLK_L.webp"
     },
@@ -4052,6 +4155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_VLK_H.glb",
         "thumbnail": "assets/card/ARMOR_VLK_H.webp"
     },
@@ -4091,6 +4195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ALCHEMIKB.glb",
         "thumbnail": "assets/card/ALCHEMIKB.webp"
     },
@@ -4130,6 +4235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_WMA_ALHMABBYS.glb",
         "thumbnail": "assets/card/ARMOR_WMA_ALHMABBYS.webp"
     },
@@ -4169,6 +4275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLK_07.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLK_07.webp"
     },
@@ -4208,6 +4315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/OBYW_CZARNBIAL_DLUGAA1.glb",
         "thumbnail": "assets/card/OBYW_CZARNBIAL_DLUGAA1.webp"
     },
@@ -4247,6 +4355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_HER_N.glb",
         "thumbnail": "assets/card/ARMOR_HER_N.webp"
     },
@@ -4286,6 +4395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_WMA_ALHM.glb",
         "thumbnail": "assets/card/ARMOR_WMA_ALHM.webp"
     },
@@ -4325,6 +4435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_VLKBABE_H2.glb",
         "thumbnail": "assets/card/ARMOR_VLKBABE_H2.webp"
     },
@@ -4364,6 +4475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_VLKBABE_H.glb",
         "thumbnail": "assets/card/ARMOR_VLKBABE_H.webp"
     },
@@ -4403,6 +4515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_M3.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_M3.webp"
     },
@@ -4442,6 +4555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_M2.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_M2.webp"
     },
@@ -4481,6 +4595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_BAUBABE_M1.glb",
         "thumbnail": "assets/card/ARMOR_BAUBABE_M1.webp"
     },
@@ -4520,6 +4635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_VLKBABE_L.glb",
         "thumbnail": "assets/card/ARMOR_VLKBABE_L.webp"
     },
@@ -4559,6 +4675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLKBABE_02.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLKBABE_02.webp"
     },
@@ -4598,6 +4715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_KM_VLKBABE_01.glb",
         "thumbnail": "assets/card/ARMOR_KM_VLKBABE_01.webp"
     },
@@ -4637,6 +4755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_DRESS_PURPLE_01.glb",
         "thumbnail": "assets/card/WG_ARMOR_DRESS_PURPLE_01.webp"
     },
@@ -4676,6 +4795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/SUKNIAN.glb",
         "thumbnail": "assets/card/SUKNIAN.webp"
     },
@@ -4715,6 +4835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_DRESS_BLUE_01.glb",
         "thumbnail": "assets/card/WG_ARMOR_DRESS_BLUE_01.webp"
     },
@@ -4754,6 +4875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_BABE_02_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_BABE_02_KOZA.webp"
     },
@@ -4793,6 +4915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_BABE_03_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_BABE_03_KOZA.webp"
     },
@@ -4832,6 +4955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_BABE_04_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_BABE_04_KOZA.webp"
     },
@@ -4871,6 +4995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/GS_SLAV_BABE_05_KOZA.glb",
         "thumbnail": "assets/card/GS_SLAV_BABE_05_KOZA.webp"
     },
@@ -4910,6 +5035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_ELEGANT_CITIZEN_01.glb",
         "thumbnail": "assets/card/WG_ARMOR_ELEGANT_CITIZEN_01.webp"
     },
@@ -4949,6 +5075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_ELEGANT_CITIZEN_02.glb",
         "thumbnail": "assets/card/WG_ARMOR_ELEGANT_CITIZEN_02.webp"
     },
@@ -4988,6 +5115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_ELEGANT_CITIZEN_03.glb",
         "thumbnail": "assets/card/WG_ARMOR_ELEGANT_CITIZEN_03.webp"
     },
@@ -5027,6 +5155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_ELEGANT_CITIZEN_04.glb",
         "thumbnail": "assets/card/WG_ARMOR_ELEGANT_CITIZEN_04.webp"
     },
@@ -5066,6 +5195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_ELEGANT_CITIZEN_05.glb",
         "thumbnail": "assets/card/WG_ARMOR_ELEGANT_CITIZEN_05.webp"
     },
@@ -5105,6 +5235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/WG_ARMOR_ELEGANT_CITIZEN_06.glb",
         "thumbnail": "assets/card/WG_ARMOR_ELEGANT_CITIZEN_06.webp"
     },
@@ -5144,6 +5275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_IVY_ARMOR_03.glb",
         "thumbnail": "assets/card/KM_IVY_ARMOR_03.webp"
     },
@@ -5183,6 +5315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/HUM_ARMOR_IVY_REMADE.glb",
         "thumbnail": "assets/card/HUM_ARMOR_IVY_REMADE.webp"
     },
@@ -5222,6 +5355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/STROJ_KOBIECY_ROZOWY_01.glb",
         "thumbnail": "assets/card/STROJ_KOBIECY_ROZOWY_01.webp"
     },
@@ -5261,6 +5395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/STROJ_KOBIECY_CZERWONY_01.glb",
         "thumbnail": "assets/card/STROJ_KOBIECY_CZERWONY_01.webp"
     },
@@ -5300,6 +5435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/STROJ_KOBIECY_CZARNY_01.glb",
         "thumbnail": "assets/card/STROJ_KOBIECY_CZARNY_01.webp"
     },
@@ -5339,6 +5475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/STROJ_KOBIECY_BRAZOWY_01.glb",
         "thumbnail": "assets/card/STROJ_KOBIECY_BRAZOWY_01.webp"
     },
@@ -5378,6 +5515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ZBROJA_SKYRIM_SZARY_01.glb",
         "thumbnail": "assets/card/ZBROJA_SKYRIM_SZARY_01.webp"
     },
@@ -5417,6 +5555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ZBROJA_SKYRIM_FIOLETOWY_01.glb",
         "thumbnail": "assets/card/ZBROJA_SKYRIM_FIOLETOWY_01.webp"
     },
@@ -5456,6 +5595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ZBROJA_SKYRIM_CZORNY_01.glb",
         "thumbnail": "assets/card/ZBROJA_SKYRIM_CZORNY_01.webp"
     },
@@ -5495,6 +5635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ZBROJA_SKYRIM_CZERWONY_01.glb",
         "thumbnail": "assets/card/ZBROJA_SKYRIM_CZERWONY_01.webp"
     },
@@ -5534,6 +5675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ZBROJA_SKYRIM_BRAZ_01.glb",
         "thumbnail": "assets/card/ZBROJA_SKYRIM_BRAZ_01.webp"
     },
@@ -5573,6 +5715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ROTCHARD_RUSSEL.glb",
         "thumbnail": "assets/card/ROTCHARD_RUSSEL.webp"
     },
@@ -5612,6 +5755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/HUM_ARMOR_RICH_MERCHANT_05.glb",
         "thumbnail": "assets/card/HUM_ARMOR_RICH_MERCHANT_05.webp"
     },
@@ -5651,6 +5795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/HUM_ARMOR_RICH_MERCHANT_04.glb",
         "thumbnail": "assets/card/HUM_ARMOR_RICH_MERCHANT_04.webp"
     },
@@ -5690,6 +5835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RM_NOHAT_02.glb",
         "thumbnail": "assets/card/KM_RM_NOHAT_02.webp"
     },
@@ -5729,6 +5875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RM_NOHAT_03.glb",
         "thumbnail": "assets/card/KM_RM_NOHAT_03.webp"
     },
@@ -5768,6 +5915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RM_NOHAT_01.glb",
         "thumbnail": "assets/card/KM_RM_NOHAT_01.webp"
     },
@@ -5807,6 +5955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_PIR_H.glb",
         "thumbnail": "assets/card/KM_PIR_H.webp"
     },
@@ -5846,6 +5995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_PIR_H_ADDON.glb",
         "thumbnail": "assets/card/ARMOR_PIR_H_ADDON.webp"
     },
@@ -5885,6 +6035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_DRESS_02.glb",
         "thumbnail": "assets/card/KM_DRESS_02.webp"
     },
@@ -5924,6 +6075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_DRESS_03.glb",
         "thumbnail": "assets/card/KM_DRESS_03.webp"
     },
@@ -5963,6 +6115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_DRESS_05.glb",
         "thumbnail": "assets/card/KM_DRESS_05.webp"
     },
@@ -6002,6 +6155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/HUM_ARMOR_DRESS_05.glb",
         "thumbnail": "assets/card/HUM_ARMOR_DRESS_05.webp"
     },
@@ -6041,6 +6195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/HUM_ARMOR_DRESS_06.glb",
         "thumbnail": "assets/card/HUM_ARMOR_DRESS_06.webp"
     },
@@ -6080,6 +6235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/HUM_ARMOR_DRESS_07.glb",
         "thumbnail": "assets/card/HUM_ARMOR_DRESS_07.webp"
     },
@@ -6119,6 +6275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_DRESS_01.glb",
         "thumbnail": "assets/card/KM_DRESS_01.webp"
     },
@@ -6158,6 +6315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RICH_MERCHANT_NOHAT_04.glb",
         "thumbnail": "assets/card/KM_RICH_MERCHANT_NOHAT_04.webp"
     },
@@ -6197,6 +6355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RICH_MERCHANT_NOHAT_03.glb",
         "thumbnail": "assets/card/KM_RICH_MERCHANT_NOHAT_03.webp"
     },
@@ -6236,6 +6395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RICH_MERCHANT_NOHAT_02.glb",
         "thumbnail": "assets/card/KM_RICH_MERCHANT_NOHAT_02.webp"
     },
@@ -6275,6 +6435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/KM_RICH_MERCHANT_NOHAT_01.glb",
         "thumbnail": "assets/card/KM_RICH_MERCHANT_NOHAT_01.webp"
     },
@@ -6314,6 +6475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_JUDGE.glb",
         "thumbnail": "assets/card/ARMOR_JUDGE.webp"
     },
@@ -6353,6 +6515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Stroje",
         "model": "assets/models/ARMOR_GOVERNOR.glb",
         "thumbnail": "assets/card/ARMOR_GOVERNOR.webp"
     },
@@ -6392,6 +6555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/NOGIEN1_WINTER.glb",
         "thumbnail": "assets/card/NOGIEN1_WINTER.webp"
     },
@@ -6431,6 +6595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/NOGIEN2_WINTER.glb",
         "thumbnail": "assets/card/NOGIEN2_WINTER.webp"
     },
@@ -6470,6 +6635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_KDF_L.glb",
         "thumbnail": "assets/card/ARMOR_KDF_L.webp"
     },
@@ -6509,6 +6675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/OGIEN_T3_01.glb",
         "thumbnail": "assets/card/OGIEN_T3_01.webp"
     },
@@ -6548,6 +6715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/OGIEN_T3_02.glb",
         "thumbnail": "assets/card/OGIEN_T3_02.webp"
     },
@@ -6587,6 +6755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_KDF_H.glb",
         "thumbnail": "assets/card/ARMOR_KDF_H.webp"
     },
@@ -6626,6 +6795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/OGIEN_T4_01.glb",
         "thumbnail": "assets/card/OGIEN_T4_01.webp"
     },
@@ -6665,6 +6835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/OGIEN_T4_02.glb",
         "thumbnail": "assets/card/OGIEN_T4_02.webp"
     },
@@ -6704,6 +6875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_KDF_Q.glb",
         "thumbnail": "assets/card/ARMOR_KDF_Q.webp"
     },
@@ -6743,6 +6915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/OGIEN_T5_01.glb",
         "thumbnail": "assets/card/OGIEN_T5_01.webp"
     },
@@ -6782,6 +6955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/OGIEN_T5_02.glb",
         "thumbnail": "assets/card/OGIEN_T5_02.webp"
     },
@@ -6821,6 +6995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/NWODA1_WINTER.glb",
         "thumbnail": "assets/card/NWODA1_WINTER.webp"
     },
@@ -6860,6 +7035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/NWODA2_WINTER.glb",
         "thumbnail": "assets/card/NWODA2_WINTER.webp"
     },
@@ -6899,6 +7075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_KDW_L_ADDON.glb",
         "thumbnail": "assets/card/ARMOR_KDW_L_ADDON.webp"
     },
@@ -6938,6 +7115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/WODA_T3_01.glb",
         "thumbnail": "assets/card/WODA_T3_01.webp"
     },
@@ -6977,6 +7155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/WODA_T3_02.glb",
         "thumbnail": "assets/card/WODA_T3_02.webp"
     },
@@ -7016,6 +7195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_KDW_H.glb",
         "thumbnail": "assets/card/ARMOR_KDW_H.webp"
     },
@@ -7055,6 +7235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/WODA_T4_01.glb",
         "thumbnail": "assets/card/WODA_T4_01.webp"
     },
@@ -7094,6 +7275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/WODA_T4_02.glb",
         "thumbnail": "assets/card/WODA_T4_02.webp"
     },
@@ -7133,6 +7315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_WATERARCHMAGE.glb",
         "thumbnail": "assets/card/ARMOR_WATERARCHMAGE.webp"
     },
@@ -7172,6 +7355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/WODA_T5_01.glb",
         "thumbnail": "assets/card/WODA_T5_01.webp"
     },
@@ -7211,6 +7395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/WODA_T5_02.glb",
         "thumbnail": "assets/card/WODA_T5_02.webp"
     },
@@ -7250,6 +7435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_SHM_B.glb",
         "thumbnail": "assets/card/ARMOR_SHM_B.webp"
     },
@@ -7289,6 +7475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_SHM_L.glb",
         "thumbnail": "assets/card/ARMOR_SHM_L.webp"
     },
@@ -7328,6 +7515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_SHM_M.glb",
         "thumbnail": "assets/card/ARMOR_SHM_M.webp"
     },
@@ -7367,6 +7555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/DROID_T3_01.glb",
         "thumbnail": "assets/card/DROID_T3_01.webp"
     },
@@ -7406,6 +7595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/DROID_T4_01.glb",
         "thumbnail": "assets/card/DROID_T4_01.webp"
     },
@@ -7445,6 +7635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_SHM_H.glb",
         "thumbnail": "assets/card/ARMOR_SHM_H.webp"
     },
@@ -7484,6 +7675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/SZKLANKA1.glb",
         "thumbnail": "assets/card/SZKLANKA1.webp"
     },
@@ -7523,6 +7715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_DS_DARKMAG_02.glb",
         "thumbnail": "assets/card/ARMOR_DS_DARKMAG_02.webp"
     },
@@ -7562,6 +7755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/MROK_T3_01.glb",
         "thumbnail": "assets/card/MROK_T3_01.webp"
     },
@@ -7601,6 +7795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/MROK_T3_02.glb",
         "thumbnail": "assets/card/MROK_T3_02.webp"
     },
@@ -7640,6 +7835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARMOR_CULTIST.glb",
         "thumbnail": "assets/card/ARMOR_CULTIST.webp"
     },
@@ -7679,6 +7875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/MROK_T4_01.glb",
         "thumbnail": "assets/card/MROK_T4_01.webp"
     },
@@ -7718,6 +7915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/MROK_T4_02.glb",
         "thumbnail": "assets/card/MROK_T4_02.webp"
     },
@@ -7757,6 +7955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/ARCHMAGE_ROBE_NECR.glb",
         "thumbnail": "assets/card/ARCHMAGE_ROBE_NECR.webp"
     },
@@ -7796,6 +7995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/MROK_T5_01.glb",
         "thumbnail": "assets/card/MROK_T5_01.webp"
     },
@@ -7835,6 +8035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Krawiec",
+        "kategoria": "Szaty",
         "model": "assets/models/MROK_T5_02.glb",
         "thumbnail": "assets/card/MROK_T5_02.webp"
     },
@@ -7874,6 +8075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_SOAKED_BOOTS.glb",
         "thumbnail": "assets/card/ITMI_SOAKED_BOOTS.webp"
     },
@@ -7913,6 +8115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Krawiec",
+        "kategoria": "Inne",
         "model": "assets/models/ITAR_PRISONER_KM.glb",
         "thumbnail": "assets/card/ITAR_PRISONER_KM.webp"
     }

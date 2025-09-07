@@ -35,6 +35,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITFO_ALCH_NEW.glb",
         "thumbnail": "assets/card/ITFO_ALCH_NEW.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITMI_POCKET.glb",
         "thumbnail": "assets/card/ITMI_POCKET.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITMI_ALCHEMY_SALT_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_SALT_01.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITMI_ALCHEMY_MOLERATLUBRIC_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_MOLERATLUBRIC_01.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITFO_LAKOMY_BEER_01.glb",
         "thumbnail": "assets/card/ITFO_LAKOMY_BEER_01.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/APFELSAFT.glb",
         "thumbnail": "assets/card/APFELSAFT.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/BEERENLIKOER.glb",
         "thumbnail": "assets/card/BEERENLIKOER.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/KM_VOB_DARKBEER.glb",
         "thumbnail": "assets/card/KM_VOB_DARKBEER.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITFO_WINE.glb",
         "thumbnail": "assets/card/ITFO_WINE.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/KM_NEW_BOTTLE_02.glb",
         "thumbnail": "assets/card/KM_NEW_BOTTLE_02.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/KM_NEW_BOTTLE_09.glb",
         "thumbnail": "assets/card/KM_NEW_BOTTLE_09.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/TRAUBENSAFT.glb",
         "thumbnail": "assets/card/TRAUBENSAFT.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITMI_RUM_02.glb",
         "thumbnail": "assets/card/ITMI_RUM_02.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITMI_RUM_01.glb",
         "thumbnail": "assets/card/ITMI_RUM_01.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "32400",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alkohole",
         "model": "assets/models/ITMI_RUM_01.glb",
         "thumbnail": "assets/card/ITMI_RUM_01.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITMI_JOINT_US.glb",
         "thumbnail": "assets/card/ITMI_JOINT_US.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "acsr1",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/STATIC_JOINT_ZAUCHEM.glb",
         "thumbnail": "assets/card/STATIC_JOINT_ZAUCHEM.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "acsr2",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/STATIC_SKRET_USTA1.glb",
         "thumbnail": "assets/card/STATIC_SKRET_USTA1.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/FAJA2.glb",
         "thumbnail": "assets/card/FAJA2.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/FAJA3.glb",
         "thumbnail": "assets/card/FAJA3.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "consumable",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/GS_URNALESTERA.glb",
         "thumbnail": "assets/card/GS_URNALESTERA.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/FAKESCROLL.glb",
         "thumbnail": "assets/card/FAKESCROLL.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_HEALTH_01.glb",
         "thumbnail": "assets/card/ITPO_HEALTH_01.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_MANA_01.glb",
         "thumbnail": "assets/card/ITPO_MANA_01.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/FRUCHTSCHNAPS.glb",
         "thumbnail": "assets/card/FRUCHTSCHNAPS.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_HEALTH_02.glb",
         "thumbnail": "assets/card/ITPO_HEALTH_02.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_MANA_02.glb",
         "thumbnail": "assets/card/ITPO_MANA_02.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITAC_EMPTY_SMALL.glb",
         "thumbnail": "assets/card/ITAC_EMPTY_SMALL.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/MINZSCHNAPS.glb",
         "thumbnail": "assets/card/MINZSCHNAPS.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITFO_POTION_DEX_02.glb",
         "thumbnail": "assets/card/ITFO_POTION_DEX_02.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_HEALTH_03.glb",
         "thumbnail": "assets/card/ITPO_HEALTH_03.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_MANA_03.glb",
         "thumbnail": "assets/card/ITPO_MANA_03.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_SPEED.glb",
         "thumbnail": "assets/card/ITPO_SPEED.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_HEALTH_03.glb",
         "thumbnail": "assets/card/ITPO_HEALTH_03.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_MANA_03.glb",
         "thumbnail": "assets/card/ITPO_MANA_03.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_PERM_STR.glb",
         "thumbnail": "assets/card/ITPO_PERM_STR.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_PERM_HEALTH.glb",
         "thumbnail": "assets/card/ITPO_PERM_HEALTH.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "potions",
         "profession": "Alchemik",
+        "kategoria": "Alchemia",
         "model": "assets/models/ITPO_PERM_DEX.glb",
         "thumbnail": "assets/card/ITPO_PERM_DEX.webp"
     }

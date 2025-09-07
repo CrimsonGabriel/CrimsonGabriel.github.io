@@ -35,6 +35,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_FISH.glb",
         "thumbnail": "assets/card/ITFO_FISH.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_COOKED_MEAT_02.glb",
         "thumbnail": "assets/card/KM_COOKED_MEAT_02.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_OATMEAL.glb",
         "thumbnail": "assets/card/KM_ITFO_OATMEAL.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_MEATBUG.glb",
         "thumbnail": "assets/card/KM_ITFO_MEATBUG.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_FRIEDFISHSKINS.glb",
         "thumbnail": "assets/card/ITFO_FRIEDFISHSKINS.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_SCRAMBLEDEGGS.glb",
         "thumbnail": "assets/card/KM_ITFO_SCRAMBLEDEGGS.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_SHASHLIK.glb",
         "thumbnail": "assets/card/KM_ITFO_SHASHLIK.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_BEERFISH.glb",
         "thumbnail": "assets/card/ITFO_BEERFISH.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_STEW_02.glb",
         "thumbnail": "assets/card/ITFO_STEW_02.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_MUSHROOMS.glb",
         "thumbnail": "assets/card/KM_ITFO_MUSHROOMS.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_PICKLEDTURNIPS.glb",
         "thumbnail": "assets/card/KM_ITFO_PICKLEDTURNIPS.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_SHASHLIK.glb",
         "thumbnail": "assets/card/KM_ITFO_SHASHLIK.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_FISHSOUP.glb",
         "thumbnail": "assets/card/ITFO_FISHSOUP.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_FISH01.glb",
         "thumbnail": "assets/card/KM_ITFO_FISH01.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_FOODPOT.glb",
         "thumbnail": "assets/card/KM_ITFO_FOODPOT.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_SEAFRUIT.glb",
         "thumbnail": "assets/card/KM_ITFO_SEAFRUIT.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/KM_ITFO_BREADMEATVEGIES.glb",
         "thumbnail": "assets/card/KM_ITFO_BREADMEATVEGIES.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_MEATANDBREAD.glb",
         "thumbnail": "assets/card/ITFO_MEATANDBREAD.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_SHEPARDROAST.glb",
         "thumbnail": "assets/card/ITFO_SHEPARDROAST.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_STEW_01.glb",
         "thumbnail": "assets/card/ITFO_STEW_01.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_FISHFILLETPERM.glb",
         "thumbnail": "assets/card/ITFO_FISHFILLETPERM.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Kuchenka",
         "model": "assets/models/ITFO_STEW_02.glb",
         "thumbnail": "assets/card/ITFO_STEW_02.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_SOUP01.glb",
         "thumbnail": "assets/card/KM_ITFO_SOUP01.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_SOUP01.glb",
         "thumbnail": "assets/card/KM_ITFO_SOUP01.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/ITFO_STEW_01.glb",
         "thumbnail": "assets/card/ITFO_STEW_01.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/ITFO_STEW_03.glb",
         "thumbnail": "assets/card/ITFO_STEW_03.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_SOUP01.glb",
         "thumbnail": "assets/card/KM_ITFO_SOUP01.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/ITFO_STEW_02.glb",
         "thumbnail": "assets/card/ITFO_STEW_02.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_FOODPOT.glb",
         "thumbnail": "assets/card/KM_ITFO_FOODPOT.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "10800",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/ITFO_STEW_03.glb",
         "thumbnail": "assets/card/ITFO_STEW_03.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_SOUP01.glb",
         "thumbnail": "assets/card/KM_ITFO_SOUP01.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_SOUP02.glb",
         "thumbnail": "assets/card/KM_ITFO_SOUP02.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/KM_ITFO_SOUP02.glb",
         "thumbnail": "assets/card/KM_ITFO_SOUP02.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Garnek",
         "model": "assets/models/ITFO_STEW_03.glb",
         "thumbnail": "assets/card/ITFO_STEW_03.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "60",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/ITFO_BREAD.glb",
         "thumbnail": "assets/card/ITFO_BREAD.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/ITFO_APPLEPIE.glb",
         "thumbnail": "assets/card/ITFO_APPLEPIE.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/KM_ITFO_PIE02.glb",
         "thumbnail": "assets/card/KM_ITFO_PIE02.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/ITFO_SWEETBUN.glb",
         "thumbnail": "assets/card/ITFO_SWEETBUN.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/KM_ITFO_PIE02.glb",
         "thumbnail": "assets/card/KM_ITFO_PIE02.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/ITFO_SWEETBUN.glb",
         "thumbnail": "assets/card/ITFO_SWEETBUN.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/KM_ITFO_FOODPOT.glb",
         "thumbnail": "assets/card/KM_ITFO_FOODPOT.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/KM_ITFO_PIE02.glb",
         "thumbnail": "assets/card/KM_ITFO_PIE02.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/KM_ITFO_PIE01.glb",
         "thumbnail": "assets/card/KM_ITFO_PIE01.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/ITFO_MEATANDBREAD.glb",
         "thumbnail": "assets/card/ITFO_MEATANDBREAD.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/ITFO_HONEYCOOKIES.glb",
         "thumbnail": "assets/card/ITFO_HONEYCOOKIES.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "14400",
         "plik": "consumable",
         "profession": "Kucharz",
+        "kategoria": "Piec",
         "model": "assets/models/KM_ITFO_PIE01.glb",
         "thumbnail": "assets/card/KM_ITFO_PIE01.webp"
     }

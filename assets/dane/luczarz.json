@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KMCROSSBOW01.glb",
         "thumbnail": "assets/card/KMCROSSBOW01.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_07.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_07.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KM_CROSSBOW_CHING.glb",
         "thumbnail": "assets/card/KM_CROSSBOW_CHING.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KMCROSSBOW03.glb",
         "thumbnail": "assets/card/KMCROSSBOW03.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_02.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_02.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_05.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_05.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KMCROSSBOW04.glb",
         "thumbnail": "assets/card/KMCROSSBOW04.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KM_ITRW_CROSSBOW_05.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_05.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KM_ITRW_CROSSBOW_01.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_01.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_06.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_06.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_04.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_04.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KM_ITRW_CROSSBOW_03.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_03.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_01.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_01.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KM_ITRW_CROSSBOW_04.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_04.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_03.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_03.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KM_ITRW_CROSSBOW_02.glb",
         "thumbnail": "assets/card/KM_ITRW_CROSSBOW_02.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/CROSSBOW_BLACK_03.glb",
         "thumbnail": "assets/card/CROSSBOW_BLACK_03.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "crossbows",
         "profession": "Łuczarz",
+        "kategoria": "Kusze",
         "model": "assets/models/KMCROSSBOW02.glb",
         "thumbnail": "assets/card/KMCROSSBOW02.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/ITRW_BOW_L_VANILLA_01.glb",
         "thumbnail": "assets/card/ITRW_BOW_L_VANILLA_01.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_09.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_09.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_16.glb",
         "thumbnail": "assets/card/KM_BOW_16.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_07.glb",
         "thumbnail": "assets/card/KM_BOW_07.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_09.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_09.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_06.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_06.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_01.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_01.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_12.glb",
         "thumbnail": "assets/card/KM_BOW_12.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/ITRW_SLD_BOW_VANILLA.glb",
         "thumbnail": "assets/card/ITRW_SLD_BOW_VANILLA.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/ITRW_BOW_M_VANILLA_02.glb",
         "thumbnail": "assets/card/ITRW_BOW_M_VANILLA_02.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_08.glb",
         "thumbnail": "assets/card/KM_BOW_08.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_09.glb",
         "thumbnail": "assets/card/KM_BOW_09.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_10.glb",
         "thumbnail": "assets/card/KM_BOW_10.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_05.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_05.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_04.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_04.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_02.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_02.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_08.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_08.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/ITRW_BOW_H_VANILLA_04.glb",
         "thumbnail": "assets/card/ITRW_BOW_H_VANILLA_04.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_07.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_07.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/ITRW_BOW_H_VANILLA_03.glb",
         "thumbnail": "assets/card/ITRW_BOW_H_VANILLA_03.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_11.glb",
         "thumbnail": "assets/card/KM_BOW_11.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_15.glb",
         "thumbnail": "assets/card/KM_BOW_15.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_ITRW_BOW_03.glb",
         "thumbnail": "assets/card/KM_ITRW_BOW_03.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_14.glb",
         "thumbnail": "assets/card/KM_BOW_14.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "bows",
         "profession": "Łuczarz",
+        "kategoria": "Łuki",
         "model": "assets/models/KM_BOW_13.glb",
         "thumbnail": "assets/card/KM_BOW_13.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "projectile",
         "profession": "Łuczarz",
+        "kategoria": "Inne",
         "model": "assets/models/ITRW_ARROW.glb",
         "thumbnail": "assets/card/ITRW_ARROW.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "projectile",
         "profession": "Łuczarz",
+        "kategoria": "Inne",
         "model": "assets/models/ITRW_BOLT.glb",
         "thumbnail": "assets/card/ITRW_BOLT.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Łuczarz",
+        "kategoria": "Inne",
         "model": "assets/models/IT_BOWSTRING.glb",
         "thumbnail": "assets/card/IT_BOWSTRING.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Łuczarz",
+        "kategoria": "Inne",
         "model": "assets/models/WZMOCNIONA_CIECIWA.glb",
         "thumbnail": "assets/card/WZMOCNIONA_CIECIWA.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Łuczarz",
+        "kategoria": "Inne",
         "model": "assets/models/MISTRZOWSKA_CIECIWA.glb",
         "thumbnail": "assets/card/MISTRZOWSKA_CIECIWA.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Łuczarz",
+        "kategoria": "Inne",
         "model": "assets/models/TROLLA_CIECIWA.glb",
         "thumbnail": "assets/card/TROLLA_CIECIWA.webp"
     }

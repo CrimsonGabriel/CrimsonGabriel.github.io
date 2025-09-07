@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/NASZYJNIK_BIALE_PERLY.glb",
         "thumbnail": "assets/card/NASZYJNIK_BIALE_PERLY.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/NASZYJNIK_CZARNE_PERLY.glb",
         "thumbnail": "assets/card/NASZYJNIK_CZARNE_PERLY.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_ITMI_PACKET_02.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_02.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_ITMI_PACKET_01.glb",
         "thumbnail": "assets/card/KM_ITMI_PACKET_01.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_05.glb",
         "thumbnail": "assets/card/ITMI_BELT_05.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_10.glb",
         "thumbnail": "assets/card/ITMI_BELT_10.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_08.glb",
         "thumbnail": "assets/card/ITMI_BELT_08.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_07.glb",
         "thumbnail": "assets/card/KM_BELT_07.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_15.glb",
         "thumbnail": "assets/card/KM_BELT_15.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_16.glb",
         "thumbnail": "assets/card/KM_BELT_16.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_17.glb",
         "thumbnail": "assets/card/KM_BELT_17.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_02.glb",
         "thumbnail": "assets/card/KM_BELT_02.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_18.glb",
         "thumbnail": "assets/card/KM_BELT_18.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_02.glb",
         "thumbnail": "assets/card/ITMI_BELT_02.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_02.glb",
         "thumbnail": "assets/card/ITMI_BELT_02.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/ITMI_BELT_02.glb",
         "thumbnail": "assets/card/ITMI_BELT_02.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_01.glb",
         "thumbnail": "assets/card/KM_BELT_01.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_14.glb",
         "thumbnail": "assets/card/KM_BELT_14.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_13.glb",
         "thumbnail": "assets/card/KM_BELT_13.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_20.glb",
         "thumbnail": "assets/card/KM_BELT_20.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Kaletnik",
+        "kategoria": "Inne",
         "model": "assets/models/KM_BELT_19.glb",
         "thumbnail": "assets/card/KM_BELT_19.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/TORBA_HELM.glb",
         "thumbnail": "assets/card/TORBA_HELM.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/OPASKAOCZY.glb",
         "thumbnail": "assets/card/OPASKAOCZY.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/OPASKA3.glb",
         "thumbnail": "assets/card/OPASKA3.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/OPASKA2.glb",
         "thumbnail": "assets/card/OPASKA2.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/OPASKA4.glb",
         "thumbnail": "assets/card/OPASKA4.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/OPASKA.glb",
         "thumbnail": "assets/card/OPASKA.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/SLOMIANY_KAP1.glb",
         "thumbnail": "assets/card/SLOMIANY_KAP1.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_01.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_01.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CZEPIEC.glb",
         "thumbnail": "assets/card/CZEPIEC.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAPELUSZ_KUCHARZA.glb",
         "thumbnail": "assets/card/KAPELUSZ_KUCHARZA.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CZAPKA1_FIX.glb",
         "thumbnail": "assets/card/CZAPKA1_FIX.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/K7_HAT_WIANEK_01.glb",
         "thumbnail": "assets/card/K7_HAT_WIANEK_01.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HELMSZCZUR.glb",
         "thumbnail": "assets/card/HELMSZCZUR.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAPELUSZ_WIEJSKI.glb",
         "thumbnail": "assets/card/KAPELUSZ_WIEJSKI.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CZAPKA.glb",
         "thumbnail": "assets/card/CZAPKA.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_BIEDACKI_01.glb",
         "thumbnail": "assets/card/KOZA_BIEDACKI_01.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HK_BERET_GREY.glb",
         "thumbnail": "assets/card/HK_BERET_GREY.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HK_BERET_GREEN.glb",
         "thumbnail": "assets/card/HK_BERET_GREEN.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HK_BERET_BROWN.glb",
         "thumbnail": "assets/card/HK_BERET_BROWN.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HK_BERET_BLUE.glb",
         "thumbnail": "assets/card/HK_BERET_BLUE.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HK_BERET_BLACK.glb",
         "thumbnail": "assets/card/HK_BERET_BLACK.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/DZIWNA_CHUSTA.glb",
         "thumbnail": "assets/card/DZIWNA_CHUSTA.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/ITAR_HEM_PIRATE.glb",
         "thumbnail": "assets/card/ITAR_HEM_PIRATE.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/DAVENSTEIN_KAPELUSZ.glb",
         "thumbnail": "assets/card/DAVENSTEIN_KAPELUSZ.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CZAPKA_MALARZA.glb",
         "thumbnail": "assets/card/CZAPKA_MALARZA.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/ZDOBIONY_KAPELUSZ.glb",
         "thumbnail": "assets/card/ZDOBIONY_KAPELUSZ.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAPELUSZ_BOGACZA.glb",
         "thumbnail": "assets/card/KAPELUSZ_BOGACZA.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/DUZY_KAPELUSZ.glb",
         "thumbnail": "assets/card/DUZY_KAPELUSZ.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAPELUSZ_SZLACHCICA.glb",
         "thumbnail": "assets/card/KAPELUSZ_SZLACHCICA.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HELMDZIK.glb",
         "thumbnail": "assets/card/HELMDZIK.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MERLINHUT_KDF_M.glb",
         "thumbnail": "assets/card/MERLINHUT_KDF_M.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MERLINHUT_KDW.glb",
         "thumbnail": "assets/card/MERLINHUT_KDW.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MERLINHUT_DMBM.glb",
         "thumbnail": "assets/card/MERLINHUT_DMBM.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAPELUSZ_MUSZKIETERA.glb",
         "thumbnail": "assets/card/KAPELUSZ_MUSZKIETERA.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HELMWILK.glb",
         "thumbnail": "assets/card/HELMWILK.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/ITHL_PIRATEHAT.glb",
         "thumbnail": "assets/card/ITHL_PIRATEHAT.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/PIRATENHUT.glb",
         "thumbnail": "assets/card/PIRATENHUT.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HAT_ARMOR_MERCHANT_01.glb",
         "thumbnail": "assets/card/HAT_ARMOR_MERCHANT_01.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HAT_ARMOR_MERCHANT_02.glb",
         "thumbnail": "assets/card/HAT_ARMOR_MERCHANT_02.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HAT_ARMOR_MERCHANT_03.glb",
         "thumbnail": "assets/card/HAT_ARMOR_MERCHANT_03.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_06.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_06.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/DUZYKAPELUSZ2.glb",
         "thumbnail": "assets/card/DUZYKAPELUSZ2.webp"
     },
@@ -2492,6 +2555,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_04.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_04.webp"
     },
@@ -2531,6 +2595,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_05.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_05.webp"
     },
@@ -2570,6 +2635,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_07.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_07.webp"
     },
@@ -2609,6 +2675,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_02_BLACK.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_02_BLACK.webp"
     },
@@ -2648,6 +2715,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KOZA_KAPELUSZ_02.glb",
         "thumbnail": "assets/card/KOZA_KAPELUSZ_02.webp"
     },
@@ -2687,6 +2755,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HK_CAP_BEAR_01.glb",
         "thumbnail": "assets/card/HK_CAP_BEAR_01.webp"
     },
@@ -2726,6 +2795,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2BR.glb",
         "thumbnail": "assets/card/HUM_HELM_2BR.webp"
     },
@@ -2765,6 +2835,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2CZ.glb",
         "thumbnail": "assets/card/HUM_HELM_2CZ.webp"
     },
@@ -2804,6 +2875,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2CZAR.glb",
         "thumbnail": "assets/card/HUM_HELM_2CZAR.webp"
     },
@@ -2843,6 +2915,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2FIOL.glb",
         "thumbnail": "assets/card/HUM_HELM_2FIOL.webp"
     },
@@ -2882,6 +2955,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2JCZ.glb",
         "thumbnail": "assets/card/HUM_HELM_2JCZ.webp"
     },
@@ -2921,6 +2995,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2NIE.glb",
         "thumbnail": "assets/card/HUM_HELM_2NIE.webp"
     },
@@ -2960,6 +3035,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2ROZ.glb",
         "thumbnail": "assets/card/HUM_HELM_2ROZ.webp"
     },
@@ -2999,6 +3075,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2SRA.glb",
         "thumbnail": "assets/card/HUM_HELM_2SRA.webp"
     },
@@ -3038,6 +3115,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2ZIEL.glb",
         "thumbnail": "assets/card/HUM_HELM_2ZIEL.webp"
     },
@@ -3077,6 +3155,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/HUM_HELM_2ZOL.glb",
         "thumbnail": "assets/card/HUM_HELM_2ZOL.webp"
     },
@@ -3116,6 +3195,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/SYN_HOOD_04.glb",
         "thumbnail": "assets/card/SYN_HOOD_04.webp"
     },
@@ -3155,6 +3235,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/SYN_HOOD_02.glb",
         "thumbnail": "assets/card/SYN_HOOD_02.webp"
     },
@@ -3194,6 +3275,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/SYN_HOOD_03.glb",
         "thumbnail": "assets/card/SYN_HOOD_03.webp"
     },
@@ -3233,6 +3315,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/SYN_HOOD_01.glb",
         "thumbnail": "assets/card/SYN_HOOD_01.webp"
     },
@@ -3272,6 +3355,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAT.glb",
         "thumbnail": "assets/card/KAT.webp"
     },
@@ -3311,6 +3395,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/ITHL_HOOD_S_THIEVESGUILD_MASTER.glb",
         "thumbnail": "assets/card/ITHL_HOOD_S_THIEVESGUILD_MASTER.webp"
     },
@@ -3350,6 +3435,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/KAPTURGILDII.glb",
         "thumbnail": "assets/card/KAPTURGILDII.webp"
     },
@@ -3389,6 +3475,7 @@
         "expirationTime": "BRAK",
         "plik": "nakrycia_glowy",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/GIERMEK.glb",
         "thumbnail": "assets/card/GIERMEK.webp"
     },
@@ -3428,6 +3515,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_BR.glb",
         "thumbnail": "assets/card/CHUSTA_BR.webp"
     },
@@ -3467,6 +3555,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_CZ.glb",
         "thumbnail": "assets/card/CHUSTA_CZ.webp"
     },
@@ -3506,6 +3595,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_CZAR.glb",
         "thumbnail": "assets/card/CHUSTA_CZAR.webp"
     },
@@ -3545,6 +3635,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_FIOL.glb",
         "thumbnail": "assets/card/CHUSTA_FIOL.webp"
     },
@@ -3584,6 +3675,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_JCZ.glb",
         "thumbnail": "assets/card/CHUSTA_JCZ.webp"
     },
@@ -3623,6 +3715,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_NIE.glb",
         "thumbnail": "assets/card/CHUSTA_NIE.webp"
     },
@@ -3662,6 +3755,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_ROZ.glb",
         "thumbnail": "assets/card/CHUSTA_ROZ.webp"
     },
@@ -3701,6 +3795,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_SRA.glb",
         "thumbnail": "assets/card/CHUSTA_SRA.webp"
     },
@@ -3740,6 +3835,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_ZIEL.glb",
         "thumbnail": "assets/card/CHUSTA_ZIEL.webp"
     },
@@ -3779,6 +3875,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/CHUSTA_SZ.glb",
         "thumbnail": "assets/card/CHUSTA_SZ.webp"
     },
@@ -3818,6 +3915,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_BR.glb",
         "thumbnail": "assets/card/MASK_BR.webp"
     },
@@ -3857,6 +3955,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_CZ.glb",
         "thumbnail": "assets/card/MASK_CZ.webp"
     },
@@ -3896,6 +3995,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_CZAR.glb",
         "thumbnail": "assets/card/MASK_CZAR.webp"
     },
@@ -3935,6 +4035,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_FIOL.glb",
         "thumbnail": "assets/card/MASK_FIOL.webp"
     },
@@ -3974,6 +4075,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_JCZ.glb",
         "thumbnail": "assets/card/MASK_JCZ.webp"
     },
@@ -4013,6 +4115,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_ROZ.glb",
         "thumbnail": "assets/card/MASK_ROZ.webp"
     },
@@ -4052,6 +4155,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_SRA.glb",
         "thumbnail": "assets/card/MASK_SRA.webp"
     },
@@ -4091,6 +4195,7 @@
         "expirationTime": "BRAK",
         "plik": "mask",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/MASK_SZ.glb",
         "thumbnail": "assets/card/MASK_SZ.webp"
     },
@@ -4130,6 +4235,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_KOSZ_ZIELE1.glb",
         "thumbnail": "assets/card/STATIC_KOSZ_ZIELE1.webp"
     },
@@ -4169,6 +4275,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_KOSZ_GORNIKA.glb",
         "thumbnail": "assets/card/STATIC_KOSZ_GORNIKA.webp"
     },
@@ -4208,6 +4315,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_KRYBY_FIX.glb",
         "thumbnail": "assets/card/STATIC_KRYBY_FIX.webp"
     },
@@ -4247,6 +4355,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PLECAKDREWNO.glb",
         "thumbnail": "assets/card/STATIC_PLECAKDREWNO.webp"
     },
@@ -4286,6 +4395,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_SIECI.glb",
         "thumbnail": "assets/card/STATIC_SIECI.webp"
     },
@@ -4325,6 +4435,7 @@
         "expirationTime": "BRAK",
         "plik": "bag",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_TORBA_SZMATA.glb",
         "thumbnail": "assets/card/STATIC_TORBA_SZMATA.webp"
     },
@@ -4364,6 +4475,7 @@
         "expirationTime": "BRAK",
         "plik": "ap_belt",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_MIESZKI_FIX.glb",
         "thumbnail": "assets/card/STATIC_MIESZKI_FIX.webp"
     },
@@ -4403,6 +4515,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PLECAK1.glb",
         "thumbnail": "assets/card/STATIC_PLECAK1.webp"
     },
@@ -4442,6 +4555,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_KOSZYKORIGIN.glb",
         "thumbnail": "assets/card/STATIC_KOSZYKORIGIN.webp"
     },
@@ -4481,6 +4595,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PLECAK4.glb",
         "thumbnail": "assets/card/STATIC_PLECAK4.webp"
     },
@@ -4520,6 +4635,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PLECAK2_FIX.glb",
         "thumbnail": "assets/card/STATIC_PLECAK2_FIX.webp"
     },
@@ -4559,6 +4675,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PLECAK3.glb",
         "thumbnail": "assets/card/STATIC_PLECAK3.webp"
     },
@@ -4598,6 +4715,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PLECAK_FIX.glb",
         "thumbnail": "assets/card/STATIC_PLECAK_FIX.webp"
     },
@@ -4637,6 +4755,7 @@
         "expirationTime": "BRAK",
         "plik": "backpack",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_KOLCZAN.glb",
         "thumbnail": "assets/card/STATIC_KOLCZAN.webp"
     },
@@ -4676,6 +4795,7 @@
         "expirationTime": "BRAK",
         "plik": "bolts",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_BELTY_KOLCZAN.glb",
         "thumbnail": "assets/card/STATIC_BELTY_KOLCZAN.webp"
     },
@@ -4715,6 +4835,7 @@
         "expirationTime": "BRAK",
         "plik": "bag",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_TORBAMAX.glb",
         "thumbnail": "assets/card/STATIC_TORBAMAX.webp"
     },
@@ -4754,6 +4875,7 @@
         "expirationTime": "BRAK",
         "plik": "ap_belt",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_PIWO.glb",
         "thumbnail": "assets/card/STATIC_PIWO.webp"
     },
@@ -4793,6 +4915,7 @@
         "expirationTime": "BRAK",
         "plik": "bag",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_TORBA_02.glb",
         "thumbnail": "assets/card/STATIC_TORBA_02.webp"
     },
@@ -4832,6 +4955,7 @@
         "expirationTime": "BRAK",
         "plik": "bag",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_TORBA_PRZEKLETAZBROJA.glb",
         "thumbnail": "assets/card/STATIC_TORBA_PRZEKLETAZBROJA.webp"
     },
@@ -4871,6 +4995,7 @@
         "expirationTime": "BRAK",
         "plik": "ap_belt",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_FIOLKI_BRAZOWA_FIX.glb",
         "thumbnail": "assets/card/STATIC_FIOLKI_BRAZOWA_FIX.webp"
     },
@@ -4910,6 +5035,7 @@
         "expirationTime": "BRAK",
         "plik": "ap_belt",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_FIOLKI_FIX.glb",
         "thumbnail": "assets/card/STATIC_FIOLKI_FIX.webp"
     },
@@ -4949,6 +5075,7 @@
         "expirationTime": "BRAK",
         "plik": "ap_belt",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_FIOLKI_NIEBIESKA_FIX.glb",
         "thumbnail": "assets/card/STATIC_FIOLKI_NIEBIESKA_FIX.webp"
     },
@@ -4988,6 +5115,7 @@
         "expirationTime": "BRAK",
         "plik": "ap_belt",
         "profession": "Kaletnik",
+        "kategoria": "Akcesoria",
         "model": "assets/models/STATIC_FIOLKI_FIOLETOWA_FIX.glb",
         "thumbnail": "assets/card/STATIC_FIOLKI_FIOLETOWA_FIX.webp"
     }

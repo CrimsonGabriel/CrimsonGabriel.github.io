@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/WOOD.glb",
         "thumbnail": "assets/card/WOOD.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/BELA.glb",
         "thumbnail": "assets/card/BELA.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/BELA2.glb",
         "thumbnail": "assets/card/BELA2.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/BELA3.glb",
         "thumbnail": "assets/card/BELA3.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/WOODPIECE.glb",
         "thumbnail": "assets/card/WOODPIECE.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/CYLINDER_003.glb",
         "thumbnail": "assets/card/CYLINDER_003.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/CRAFT_DREWNO_SWIERKU.glb",
         "thumbnail": "assets/card/CRAFT_DREWNO_SWIERKU.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/CRAFT_DREWNO_BRZOZA.glb",
         "thumbnail": "assets/card/CRAFT_DREWNO_BRZOZA.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/CRAFT_DREWNO_DEBU.glb",
         "thumbnail": "assets/card/CRAFT_DREWNO_DEBU.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/CRAFT_DREWNO.glb",
         "thumbnail": "assets/card/CRAFT_DREWNO.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DREWIENKO1.glb",
         "thumbnail": "assets/card/DREWIENKO1.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DREWIENKO2.glb",
         "thumbnail": "assets/card/DREWIENKO2.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DREWIENKO1.glb",
         "thumbnail": "assets/card/DREWIENKO1.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DESKA1M.glb",
         "thumbnail": "assets/card/DESKA1M.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DESKA2M.glb",
         "thumbnail": "assets/card/DESKA2M.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DESKA3M.glb",
         "thumbnail": "assets/card/DESKA3M.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/CRAFT_DREWNO2.glb",
         "thumbnail": "assets/card/CRAFT_DREWNO2.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DESKA2.glb",
         "thumbnail": "assets/card/DESKA2.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/DESKA3.glb",
         "thumbnail": "assets/card/DESKA3.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/ITLS_TORCH_01.glb",
         "thumbnail": "assets/card/ITLS_TORCH_01.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/ITMI_BROOM.glb",
         "thumbnail": "assets/card/ITMI_BROOM.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "common",
         "profession": "Drwal",
+        "kategoria": "",
         "model": "assets/models/ITMI_BRUSH.glb",
         "thumbnail": "assets/card/ITMI_BRUSH.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Drwal",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_010_1H_CLUB_01.glb",
         "thumbnail": "assets/card/ITMW_010_1H_CLUB_01.webp"
     }

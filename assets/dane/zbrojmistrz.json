@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/PROSTA_REKOJESC.glb",
         "thumbnail": "assets/card/PROSTA_REKOJESC.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/PODSTAWOWA_REKOJESC.glb",
         "thumbnail": "assets/card/PODSTAWOWA_REKOJESC.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/WZMACNIANA_REKOJESC.glb",
         "thumbnail": "assets/card/WZMACNIANA_REKOJESC.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/SOLIDNA_REKOJESC.glb",
         "thumbnail": "assets/card/SOLIDNA_REKOJESC.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/MISTRZOWSKA_REKOJESC.glb",
         "thumbnail": "assets/card/MISTRZOWSKA_REKOJESC.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_VOB_WOOD_SWORD_01.glb",
         "thumbnail": "assets/card/KM_VOB_WOOD_SWORD_01.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_VOB_WOOD_SWORD_02.glb",
         "thumbnail": "assets/card/KM_VOB_WOOD_SWORD_02.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_020_1H_SWORD_OLD_01.glb",
         "thumbnail": "assets/card/ITMW_020_1H_SWORD_OLD_01.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_010_1H_SWORD_SHORT_01.glb",
         "thumbnail": "assets/card/ITMW_010_1H_SWORD_SHORT_01.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_012_1H_SWORD_SHORT_02.glb",
         "thumbnail": "assets/card/ITMW_012_1H_SWORD_SHORT_02.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_016_1H_SWORD_SHORT_03.glb",
         "thumbnail": "assets/card/ITMW_016_1H_SWORD_SHORT_03.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_025_1H_SWORD_SHORT_05.glb",
         "thumbnail": "assets/card/ITMW_025_1H_SWORD_SHORT_05.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_020_1H_SWORD_SHORT_04.glb",
         "thumbnail": "assets/card/ITMW_020_1H_SWORD_SHORT_04.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_030_1H_COMMON_SWORD_01.glb",
         "thumbnail": "assets/card/ITMW_030_1H_COMMON_SWORD_01.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_025_1H_SWORD_SHORT_05.glb",
         "thumbnail": "assets/card/ITMW_025_1H_SWORD_SHORT_05.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_030_1H_PAL_SWORD_02.glb",
         "thumbnail": "assets/card/ITMW_030_1H_PAL_SWORD_02.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_SWORD_04.glb",
         "thumbnail": "assets/card/KM_SWORD_04.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_1H_MACHETE_01.glb",
         "thumbnail": "assets/card/ITMW_1H_MACHETE_01.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_030_1H_SWORD_LONG_01.glb",
         "thumbnail": "assets/card/ITMW_030_1H_SWORD_LONG_01.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_1H_WONDERSWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_WONDERSWORD_01.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_RYCHU_SWORD_02.glb",
         "thumbnail": "assets/card/KM_RYCHU_SWORD_02.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_1H_WONDERSWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_WONDERSWORD_01.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_SWORD_05.glb",
         "thumbnail": "assets/card/KM_SWORD_05.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_035_1H_SWORD_04.glb",
         "thumbnail": "assets/card/ITMW_035_1H_SWORD_04.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_030_1H_PAL_SWORD_02.glb",
         "thumbnail": "assets/card/ITMW_030_1H_PAL_SWORD_02.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_1H_LEATHERSWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_LEATHERSWORD_01.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_1H_SWORD_10.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_SWORD_10.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_RYCHU_1H_SWORD_02.glb",
         "thumbnail": "assets/card/KM_ITMW_RYCHU_1H_SWORD_02.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_030_1H_PAL_SWORD_BASTARD_RAW_01.glb",
         "thumbnail": "assets/card/ITMW_030_1H_PAL_SWORD_BASTARD_RAW_01.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_1H_SWORD_12.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_SWORD_12.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_1H_SILVERSWORD_02.glb",
         "thumbnail": "assets/card/ITMW_1H_SILVERSWORD_02.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_065_1H_SWORD_BASTARD_03.glb",
         "thumbnail": "assets/card/ITMW_065_1H_SWORD_BASTARD_03.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_065_1H_SWORD_BASTARD_04.glb",
         "thumbnail": "assets/card/ITMW_065_1H_SWORD_BASTARD_04.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_058_1H_SWORD_BASTARD_02.glb",
         "thumbnail": "assets/card/ITMW_058_1H_SWORD_BASTARD_02.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_1H_MACHETE_02.glb",
         "thumbnail": "assets/card/ITMW_1H_MACHETE_02.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_KEDART_1H_SWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_KEDART_1H_SWORD_01.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_1H_SWORD_08.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_SWORD_08.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_008_1H_POLE_01.glb",
         "thumbnail": "assets/card/ITMW_008_1H_POLE_01.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_008_1H_MACE_LIGHT_01.glb",
         "thumbnail": "assets/card/ITMW_008_1H_MACE_LIGHT_01.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_010_1H_CLUB_02.glb",
         "thumbnail": "assets/card/KM_ITMW_010_1H_CLUB_02.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_018_1H_MACE_01.glb",
         "thumbnail": "assets/card/ITMW_018_1H_MACE_01.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_1H_MACE_04.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_MACE_04.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_035_1H_MACE_03.glb",
         "thumbnail": "assets/card/ITMW_035_1H_MACE_03.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_1H_MACE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_MACE_01.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_022_1H_MACE_WAR_01.glb",
         "thumbnail": "assets/card/ITMW_022_1H_MACE_WAR_01.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_035_1H_MACE_WAR_02.glb",
         "thumbnail": "assets/card/ITMW_035_1H_MACE_WAR_02.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_1H_BLUNT_DEX_04.glb",
         "thumbnail": "assets/card/KM_1H_BLUNT_DEX_04.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_045_1H_MACE_04.glb",
         "thumbnail": "assets/card/ITMW_045_1H_MACE_04.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_058_1H_WARHAMMER_02.glb",
         "thumbnail": "assets/card/ITMW_058_1H_WARHAMMER_02.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_028_1H_WARHAMMER_01.glb",
         "thumbnail": "assets/card/ITMW_028_1H_WARHAMMER_01.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_060_1H_MACE_WAR_04.glb",
         "thumbnail": "assets/card/ITMW_060_1H_MACE_WAR_04.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_1H_BLUNT_DEX_01.glb",
         "thumbnail": "assets/card/KM_1H_BLUNT_DEX_01.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_1H_BLUNT_DEX_05.glb",
         "thumbnail": "assets/card/KM_1H_BLUNT_DEX_05.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_065_1H_WARHAMMER_03.glb",
         "thumbnail": "assets/card/ITMW_065_1H_WARHAMMER_03.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_1H_MACE_02.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_MACE_02.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_1H_BLUNT_DEX_02.glb",
         "thumbnail": "assets/card/KM_1H_BLUNT_DEX_02.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMW_005_1H_POKER_01.glb",
         "thumbnail": "assets/card/ITMW_005_1H_POKER_01.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMW_007_1H_SICKLE_01.glb",
         "thumbnail": "assets/card/ITMW_007_1H_SICKLE_01.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/ITMW_012_1H_SCYTHE_01.glb",
         "thumbnail": "assets/card/ITMW_012_1H_SCYTHE_01.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_010_1H_VLK_HATCHET_01.glb",
         "thumbnail": "assets/card/ITMW_010_1H_VLK_HATCHET_01.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_018_1H_SWORDCANE_01.glb",
         "thumbnail": "assets/card/ITMW_018_1H_SWORDCANE_01.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_030_1H_AXE_01.glb",
         "thumbnail": "assets/card/ITMW_030_1H_AXE_01.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_018_1H_SWORDCANE_01.glb",
         "thumbnail": "assets/card/ITMW_018_1H_SWORDCANE_01.webp"
     },
@@ -2492,6 +2555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/KM_SWORD_04.glb",
         "thumbnail": "assets/card/KM_SWORD_04.webp"
     },
@@ -2531,6 +2595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_030_1H_SWORD_03.glb",
         "thumbnail": "assets/card/ITMW_030_1H_SWORD_03.webp"
     },
@@ -2570,6 +2635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_040_1H_AXE_03.glb",
         "thumbnail": "assets/card/ITMW_040_1H_AXE_03.webp"
     },
@@ -2609,6 +2675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_1H_DEXSWORD_04.glb",
         "thumbnail": "assets/card/ITMW_1H_DEXSWORD_04.webp"
     },
@@ -2648,6 +2715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_045_1H_SWORD_SMITH_02.glb",
         "thumbnail": "assets/card/ITMW_045_1H_SWORD_SMITH_02.webp"
     },
@@ -2687,6 +2755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/KM_SWORD_06.glb",
         "thumbnail": "assets/card/KM_SWORD_06.webp"
     },
@@ -2726,6 +2795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/KM_RYCHU_AXE_01.glb",
         "thumbnail": "assets/card/KM_RYCHU_AXE_01.webp"
     },
@@ -2765,6 +2835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_1H_DEXSWORD_02.glb",
         "thumbnail": "assets/card/ITMW_1H_DEXSWORD_02.webp"
     },
@@ -2804,6 +2875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_1H_DEXSWORD_04.glb",
         "thumbnail": "assets/card/ITMW_1H_DEXSWORD_04.webp"
     },
@@ -2843,6 +2915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/KM_RYCHU_SWORD_02.glb",
         "thumbnail": "assets/card/KM_RYCHU_SWORD_02.webp"
     },
@@ -2882,6 +2955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_1H_DEXSWORD_05.glb",
         "thumbnail": "assets/card/ITMW_1H_DEXSWORD_05.webp"
     },
@@ -2921,6 +2995,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_065_2H_GREATAXE_01.glb",
         "thumbnail": "assets/card/ITMW_065_2H_GREATAXE_01.webp"
     },
@@ -2960,6 +3035,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_050_1H_SWORD_RAPIER_01.glb",
         "thumbnail": "assets/card/ITMW_050_1H_SWORD_RAPIER_01.webp"
     },
@@ -2999,6 +3075,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_040_1H_AXE_03.glb",
         "thumbnail": "assets/card/ITMW_040_1H_AXE_03.webp"
     },
@@ -3038,6 +3115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/KM_ITMW_RYCHU_1H_SWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_RYCHU_1H_SWORD_01.webp"
     },
@@ -3077,6 +3155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_065_1H_SWORDCANE_02.glb",
         "thumbnail": "assets/card/ITMW_065_1H_SWORDCANE_02.webp"
     },
@@ -3116,6 +3195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_040_1H_AXE_02.glb",
         "thumbnail": "assets/card/ITMW_040_1H_AXE_02.webp"
     },
@@ -3155,6 +3235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/KM_ITMW_RYCHU_1H_SWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_RYCHU_1H_SWORD_01.webp"
     },
@@ -3194,6 +3275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/KM_RYCHU_AXE_02.glb",
         "thumbnail": "assets/card/KM_RYCHU_AXE_02.webp"
     },
@@ -3233,6 +3315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Rapiery",
         "model": "assets/models/ITMW_050_1H_SWORD_05.glb",
         "thumbnail": "assets/card/ITMW_050_1H_SWORD_05.webp"
     },
@@ -3272,6 +3355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_01.webp"
     },
@@ -3311,6 +3395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/ITMW_005_1H_DAGGER_01.glb",
         "thumbnail": "assets/card/ITMW_005_1H_DAGGER_01.webp"
     },
@@ -3350,6 +3435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/ITMW_012_1H_KNIFE_02.glb",
         "thumbnail": "assets/card/ITMW_012_1H_KNIFE_02.webp"
     },
@@ -3389,6 +3475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/ITMW_005_1H_DAGGER_01.glb",
         "thumbnail": "assets/card/ITMW_005_1H_DAGGER_01.webp"
     },
@@ -3428,6 +3515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/ITMW_005_1H_DAGGER_01.glb",
         "thumbnail": "assets/card/ITMW_005_1H_DAGGER_01.webp"
     },
@@ -3467,6 +3555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_ITMW_KNIFE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_KNIFE_01.webp"
     },
@@ -3506,6 +3595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_02.glb",
         "thumbnail": "assets/card/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_02.webp"
     },
@@ -3545,6 +3635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/ITMW_SKE_1H_DAGGER_01.glb",
         "thumbnail": "assets/card/ITMW_SKE_1H_DAGGER_01.webp"
     },
@@ -3584,6 +3675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_ITMW_KNIFE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_KNIFE_01.webp"
     },
@@ -3623,6 +3715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_03.glb",
         "thumbnail": "assets/card/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_03.webp"
     },
@@ -3662,6 +3755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_RYCHU_DAGGER_02.glb",
         "thumbnail": "assets/card/KM_RYCHU_DAGGER_02.webp"
     },
@@ -3701,6 +3795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_LAKOMY_1H_KITCHEN_KNIFE_01.webp"
     },
@@ -3740,6 +3835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_RYCHU_DAGGER_02.glb",
         "thumbnail": "assets/card/KM_RYCHU_DAGGER_02.webp"
     },
@@ -3779,6 +3875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_RYCHU_DAGGER_02.glb",
         "thumbnail": "assets/card/KM_RYCHU_DAGGER_02.webp"
     },
@@ -3818,6 +3915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons1h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Sztylety",
         "model": "assets/models/KM_RYCHU_DAGGER_01.glb",
         "thumbnail": "assets/card/KM_RYCHU_DAGGER_01.webp"
     },
@@ -3857,6 +3955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_WOLFENSONSWORD_OLD.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_WOLFENSONSWORD_OLD.webp"
     },
@@ -3896,6 +3995,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_035_2H_SLD_SWORD_01.glb",
         "thumbnail": "assets/card/ITMW_035_2H_SLD_SWORD_01.webp"
     },
@@ -3935,6 +4035,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_032_2H_SWORD_LIGHT_01.glb",
         "thumbnail": "assets/card/ITMW_032_2H_SWORD_LIGHT_01.webp"
     },
@@ -3974,6 +4075,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_050_2H_SWORD_SMITH_02.glb",
         "thumbnail": "assets/card/ITMW_050_2H_SWORD_SMITH_02.webp"
     },
@@ -4013,6 +4115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_055_2H_SWORD_LIGHT_05.glb",
         "thumbnail": "assets/card/ITMW_055_2H_SWORD_LIGHT_05.webp"
     },
@@ -4052,6 +4155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_WOLFENSONSWORD_GOLDEN.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_WOLFENSONSWORD_GOLDEN.webp"
     },
@@ -4091,6 +4195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_WOLFENSONSWORD.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_WOLFENSONSWORD.webp"
     },
@@ -4130,6 +4235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_070_2H_SWORD_SMITH_03.glb",
         "thumbnail": "assets/card/ITMW_070_2H_SWORD_SMITH_03.webp"
     },
@@ -4169,6 +4275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_2H_OLDSWORD_02.glb",
         "thumbnail": "assets/card/ITMW_2H_OLDSWORD_02.webp"
     },
@@ -4208,6 +4315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_LEATHERSWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_LEATHERSWORD_01.webp"
     },
@@ -4247,6 +4355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_2H_MACHETE_01.glb",
         "thumbnail": "assets/card/ITMW_2H_MACHETE_01.webp"
     },
@@ -4286,6 +4395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_FAKEARTEFACT_DEATHSBREATH.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_FAKEARTEFACT_DEATHSBREATH.webp"
     },
@@ -4325,6 +4435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_RYCHU_2H_SWORD_02.glb",
         "thumbnail": "assets/card/KM_ITMW_RYCHU_2H_SWORD_02.webp"
     },
@@ -4364,6 +4475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_2H_MACHETE_02.glb",
         "thumbnail": "assets/card/ITMW_2H_MACHETE_02.webp"
     },
@@ -4403,6 +4515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_SWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_SWORD_01.webp"
     },
@@ -4442,6 +4555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_040_2H_PAL_SWORD_03.glb",
         "thumbnail": "assets/card/ITMW_040_2H_PAL_SWORD_03.webp"
     },
@@ -4481,6 +4595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_SWORD_02.glb",
         "thumbnail": "assets/card/KM_SWORD_02.webp"
     },
@@ -4520,6 +4635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_DRAGONSWORD_01.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_DRAGONSWORD_01.webp"
     },
@@ -4559,6 +4675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_060_2H_SWORD_01.glb",
         "thumbnail": "assets/card/ITMW_060_2H_SWORD_01.webp"
     },
@@ -4598,6 +4715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_SWORD_01.glb",
         "thumbnail": "assets/card/KM_SWORD_01.webp"
     },
@@ -4637,6 +4755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_SWORD_03.glb",
         "thumbnail": "assets/card/KM_SWORD_03.webp"
     },
@@ -4676,6 +4795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_040_2H_PAL_SWORD_HEAVY_RAW_01.glb",
         "thumbnail": "assets/card/ITMW_040_2H_PAL_SWORD_HEAVY_RAW_01.webp"
     },
@@ -4715,6 +4835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_070_2H_SWORD_09.glb",
         "thumbnail": "assets/card/ITMW_070_2H_SWORD_09.webp"
     },
@@ -4754,6 +4875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_080_2H_SWORD_HEAVY_04.glb",
         "thumbnail": "assets/card/ITMW_080_2H_SWORD_HEAVY_04.webp"
     },
@@ -4793,6 +4915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_075_2H_SWORD_HEAVY_03.glb",
         "thumbnail": "assets/card/ITMW_075_2H_SWORD_HEAVY_03.webp"
     },
@@ -4832,6 +4955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_RYCHU_BIG_SWORD_01.glb",
         "thumbnail": "assets/card/KM_RYCHU_BIG_SWORD_01.webp"
     },
@@ -4871,6 +4995,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_2H_SILVERSWORD_02.glb",
         "thumbnail": "assets/card/ITMW_2H_SILVERSWORD_02.webp"
     },
@@ -4910,6 +5035,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/KM_ITMW_2H_SWORD_03.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_SWORD_03.webp"
     },
@@ -4949,6 +5075,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Miecze",
         "model": "assets/models/ITMW_110_2H_SWORD_SMITH_05.glb",
         "thumbnail": "assets/card/ITMW_110_2H_SWORD_SMITH_05.webp"
     },
@@ -4988,6 +5115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_020_2H_NOV_STAFF_01.glb",
         "thumbnail": "assets/card/ITMW_020_2H_NOV_STAFF_01.webp"
     },
@@ -5027,6 +5155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_020_2H_NOV_STAFF_01.glb",
         "thumbnail": "assets/card/ITMW_020_2H_NOV_STAFF_01.webp"
     },
@@ -5066,6 +5195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_CLUB_1H_01.glb",
         "thumbnail": "assets/card/ITMW_CLUB_1H_01.webp"
     },
@@ -5105,6 +5235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_2H_SPEAR_14.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_14.webp"
     },
@@ -5144,6 +5275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_032_2H_STAFF_03.glb",
         "thumbnail": "assets/card/ITMW_032_2H_STAFF_03.webp"
     },
@@ -5183,6 +5315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_2H_SPEAR_09.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_09.webp"
     },
@@ -5222,6 +5355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_1H_HAMMER_03.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_HAMMER_03.webp"
     },
@@ -5261,6 +5395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_CLUB_2H_01.glb",
         "thumbnail": "assets/card/ITMW_CLUB_2H_01.webp"
     },
@@ -5300,6 +5435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_2H_MACE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_MACE_01.webp"
     },
@@ -5339,6 +5475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_FROGMACE.glb",
         "thumbnail": "assets/card/KM_FROGMACE.webp"
     },
@@ -5378,6 +5515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_2H_MACE_02.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_MACE_02.webp"
     },
@@ -5417,6 +5555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_2H_BLUNT_DEX_04.glb",
         "thumbnail": "assets/card/KM_2H_BLUNT_DEX_04.webp"
     },
@@ -5456,6 +5595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/ITMW_2H_SPEAR_12.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_12.webp"
     },
@@ -5495,6 +5635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_2H_BLUNT_DEX_02.glb",
         "thumbnail": "assets/card/KM_2H_BLUNT_DEX_02.webp"
     },
@@ -5534,6 +5675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_2H_BLUNT_DEX_03.glb",
         "thumbnail": "assets/card/KM_2H_BLUNT_DEX_03.webp"
     },
@@ -5573,6 +5715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_2H_BLUNT_DEX_01.glb",
         "thumbnail": "assets/card/KM_2H_BLUNT_DEX_01.webp"
     },
@@ -5612,6 +5755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_2H_HAMMER_02.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_HAMMER_02.webp"
     },
@@ -5651,6 +5795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_2H_HAMMER_05.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_HAMMER_05.webp"
     },
@@ -5690,6 +5835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_1H_HAMMER_04.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_HAMMER_04.webp"
     },
@@ -5729,6 +5875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_BIGBEN_HAMMER.glb",
         "thumbnail": "assets/card/KM_BIGBEN_HAMMER.webp"
     },
@@ -5768,6 +5915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_1H_HAMMER_01.glb",
         "thumbnail": "assets/card/KM_ITMW_1H_HAMMER_01.webp"
     },
@@ -5807,6 +5955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Obuchy",
         "model": "assets/models/KM_ITMW_2H_HAMMER_06.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_HAMMER_06.webp"
     },
@@ -5846,6 +5995,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_03.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_03.webp"
     },
@@ -5885,6 +6035,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Inne",
         "model": "assets/models/KM_ITMW_2H_BAU_SCYTHE.glb",
         "thumbnail": "assets/card/KM_ITMW_2H_BAU_SCYTHE.webp"
     },
@@ -5924,6 +6075,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_08.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_08.webp"
     },
@@ -5963,6 +6115,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_025_2H_MISC_AXE_OLD_01.glb",
         "thumbnail": "assets/card/ITMW_025_2H_MISC_AXE_OLD_01.webp"
     },
@@ -6002,6 +6155,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_035_2H_SLD_AXE_01.glb",
         "thumbnail": "assets/card/ITMW_035_2H_SLD_AXE_01.webp"
     },
@@ -6041,6 +6195,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_028_2H_HALBERD_01.glb",
         "thumbnail": "assets/card/ITMW_028_2H_HALBERD_01.webp"
     },
@@ -6080,6 +6235,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_025_2H_STAFF_02.glb",
         "thumbnail": "assets/card/ITMW_025_2H_STAFF_02.webp"
     },
@@ -6119,6 +6275,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_035_2H_AXE_LIGHT_03.glb",
         "thumbnail": "assets/card/ITMW_035_2H_AXE_LIGHT_03.webp"
     },
@@ -6158,6 +6315,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_07.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_07.webp"
     },
@@ -6197,6 +6355,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_11.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_11.webp"
     },
@@ -6236,6 +6395,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_060_2H_AXE_HEAVY_01.glb",
         "thumbnail": "assets/card/ITMW_060_2H_AXE_HEAVY_01.webp"
     },
@@ -6275,6 +6435,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_02.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_02.webp"
     },
@@ -6314,6 +6475,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_04.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_04.webp"
     },
@@ -6353,6 +6515,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/KM_RYCHU_AXE_03.glb",
         "thumbnail": "assets/card/KM_RYCHU_AXE_03.webp"
     },
@@ -6392,6 +6555,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/KM_ITMW_RYCHU_2H_AXE_01.glb",
         "thumbnail": "assets/card/KM_ITMW_RYCHU_2H_AXE_01.webp"
     },
@@ -6431,6 +6595,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/KM_MW_HALBERD_01.glb",
         "thumbnail": "assets/card/KM_MW_HALBERD_01.webp"
     },
@@ -6470,6 +6635,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/KM_OLD_AX_01.glb",
         "thumbnail": "assets/card/KM_OLD_AX_01.webp"
     },
@@ -6509,6 +6675,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_05.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_05.webp"
     },
@@ -6548,6 +6715,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_KM_2H_AXE_HEAVY_EVENT.glb",
         "thumbnail": "assets/card/ITMW_KM_2H_AXE_HEAVY_EVENT.webp"
     },
@@ -6587,6 +6755,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_13.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_13.webp"
     },
@@ -6626,6 +6795,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_070_2H_AXE_HEAVY_03.glb",
         "thumbnail": "assets/card/ITMW_070_2H_AXE_HEAVY_03.webp"
     },
@@ -6665,6 +6835,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_10.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_10.webp"
     },
@@ -6704,6 +6875,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/KM_NEW_AX_01.glb",
         "thumbnail": "assets/card/KM_NEW_AX_01.webp"
     },
@@ -6743,6 +6915,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Włócznie",
         "model": "assets/models/ITMW_2H_SPEAR_01.glb",
         "thumbnail": "assets/card/ITMW_2H_SPEAR_01.webp"
     },
@@ -6782,6 +6955,7 @@
         "expirationTime": "BRAK",
         "plik": "weapons2h",
         "profession": "Zbrojmistrz",
+        "kategoria": "Topory",
         "model": "assets/models/ITMW_080_2H_AXE_HEAVY_02.glb",
         "thumbnail": "assets/card/ITMW_080_2H_AXE_HEAVY_02.webp"
     }

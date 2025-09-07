@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/GS_TRUCHLO_LISKA.glb",
         "thumbnail": "assets/card/GS_TRUCHLO_LISKA.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/ZAIC.glb",
         "thumbnail": "assets/card/ZAIC.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/ZAIC.glb",
         "thumbnail": "assets/card/ZAIC.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_OWCA.glb",
         "thumbnail": "assets/card/STATIC_OWCA.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_KRETO.glb",
         "thumbnail": "assets/card/STATIC_KRETO.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_KRETO.glb",
         "thumbnail": "assets/card/STATIC_KRETO.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_DZIK.glb",
         "thumbnail": "assets/card/STATIC_DZIK.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WILK.glb",
         "thumbnail": "assets/card/STATIC_WILK.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_SCIERWOJAD.glb",
         "thumbnail": "assets/card/STATIC_SCIERWOJAD.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_LURKER.glb",
         "thumbnail": "assets/card/STATIC_LURKER.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WILK.glb",
         "thumbnail": "assets/card/STATIC_WILK.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_KRETOZIELONY.glb",
         "thumbnail": "assets/card/STATIC_KRETOZIELONY.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_SCIERWOJAD.glb",
         "thumbnail": "assets/card/STATIC_SCIERWOJAD.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_LURKER.glb",
         "thumbnail": "assets/card/STATIC_LURKER.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_DZIK.glb",
         "thumbnail": "assets/card/STATIC_DZIK.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_OWCA.glb",
         "thumbnail": "assets/card/STATIC_OWCA.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_SCIERWOJAD.glb",
         "thumbnail": "assets/card/STATIC_SCIERWOJAD.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WILKCZERWONY3DS.glb",
         "thumbnail": "assets/card/STATIC_WILKCZERWONY3DS.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_ZEBACZ.glb",
         "thumbnail": "assets/card/STATIC_ZEBACZ.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_LURKER.glb",
         "thumbnail": "assets/card/STATIC_LURKER.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_JASZCZUR.glb",
         "thumbnail": "assets/card/STATIC_JASZCZUR.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_CIALO_BRZYTWIAKA.glb",
         "thumbnail": "assets/card/STATIC_CIALO_BRZYTWIAKA.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WARG.glb",
         "thumbnail": "assets/card/STATIC_WARG.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_NA_TRUCHLO.glb",
         "thumbnail": "assets/card/STATIC_WOREK_NA_TRUCHLO.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_JASZCZURCZERWONY.glb",
         "thumbnail": "assets/card/STATIC_JASZCZURCZERWONY.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_Z_WEZEM.glb",
         "thumbnail": "assets/card/STATIC_WOREK_Z_WEZEM.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_Z_TROLLEM.glb",
         "thumbnail": "assets/card/STATIC_WOREK_Z_TROLLEM.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_Z_NIEDZWIEDZIEM.glb",
         "thumbnail": "assets/card/STATIC_WOREK_Z_NIEDZWIEDZIEM.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "corpse",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/STATIC_WOREK_Z_CIENOSTWOREM.glb",
         "thumbnail": "assets/card/STATIC_WOREK_Z_CIENOSTWOREM.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Truchła",
         "model": "assets/models/ITAT_MEATBUG_01.glb",
         "thumbnail": "assets/card/ITAT_MEATBUG_01.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "21600",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITFOMUTTONRAW.glb",
         "thumbnail": "assets/card/ITFOMUTTONRAW.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_GOBLINBONE.glb",
         "thumbnail": "assets/card/ITAT_GOBLINBONE.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ZAIC_FUR.glb",
         "thumbnail": "assets/card/ZAIC_FUR.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_GIANTTURTLESHELL.glb",
         "thumbnail": "assets/card/ITAT_GIANTTURTLESHELL.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/SHEEP_FUR_GARB.glb",
         "thumbnail": "assets/card/SHEEP_FUR_GARB.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_LURKERSKIN.glb",
         "thumbnail": "assets/card/ITAT_LURKERSKIN.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_STING.glb",
         "thumbnail": "assets/card/ITAT_STING.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WOLFFUR.glb",
         "thumbnail": "assets/card/ITAT_WOLFFUR.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_LURKERSKINFIX.glb",
         "thumbnail": "assets/card/ITAT_LURKERSKINFIX.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WANTEDPOSTER_FUR_KEILER.glb",
         "thumbnail": "assets/card/ITAT_WANTEDPOSTER_FUR_KEILER.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/SERCE.glb",
         "thumbnail": "assets/card/SERCE.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_CRAWLERPLATE.glb",
         "thumbnail": "assets/card/ITAT_CRAWLERPLATE.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/WOLF_FUR_GARB.glb",
         "thumbnail": "assets/card/WOLF_FUR_GARB.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/SKORA_GAD.glb",
         "thumbnail": "assets/card/SKORA_GAD.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WARANFIRETONGUE.glb",
         "thumbnail": "assets/card/ITAT_WARANFIRETONGUE.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_BUGMANDIBLES.glb",
         "thumbnail": "assets/card/ITAT_BUGMANDIBLES.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_SHARKTEETH.glb",
         "thumbnail": "assets/card/ITAT_SHARKTEETH.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_CLAW.glb",
         "thumbnail": "assets/card/ITAT_CLAW.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_CRAWLERPLATE.glb",
         "thumbnail": "assets/card/ITAT_CRAWLERPLATE.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WARGFUR.glb",
         "thumbnail": "assets/card/ITAT_WARGFUR.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_SHARKSKIN.glb",
         "thumbnail": "assets/card/ITAT_SHARKSKIN.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_TROLLFUR.glb",
         "thumbnail": "assets/card/ITAT_TROLLFUR.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/NIEDZWIEDZ_FUR.glb",
         "thumbnail": "assets/card/NIEDZWIEDZ_FUR.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_SHADOWFUR.glb",
         "thumbnail": "assets/card/ITAT_SHADOWFUR.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_CRAWLERQUEEN.glb",
         "thumbnail": "assets/card/ITAT_CRAWLERQUEEN.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_SHADOWHORN.glb",
         "thumbnail": "assets/card/ITAT_SHADOWHORN.webp"
     },
@@ -2492,6 +2555,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITMI_ALCHEMY_MOLERATLUBRIC_01.glb",
         "thumbnail": "assets/card/ITMI_ALCHEMY_MOLERATLUBRIC_01.webp"
     },
@@ -2531,6 +2595,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_FIREGOLEMHEART.glb",
         "thumbnail": "assets/card/ITAT_FIREGOLEMHEART.webp"
     },
@@ -2570,6 +2635,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_ICEGOLEMHEART.glb",
         "thumbnail": "assets/card/ITAT_ICEGOLEMHEART.webp"
     },
@@ -2609,6 +2675,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_STONEGOLEMHEART.glb",
         "thumbnail": "assets/card/ITAT_STONEGOLEMHEART.webp"
     },
@@ -2648,6 +2715,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_TROLLTOOTH.glb",
         "thumbnail": "assets/card/ITAT_TROLLTOOTH.webp"
     },
@@ -2687,6 +2755,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/SHEEP_FUR_GARB_G.glb",
         "thumbnail": "assets/card/SHEEP_FUR_GARB_G.webp"
     },
@@ -2726,6 +2795,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_LURKERSKIN_G.glb",
         "thumbnail": "assets/card/ITAT_LURKERSKIN_G.webp"
     },
@@ -2765,6 +2835,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WOLFFUR_G.glb",
         "thumbnail": "assets/card/ITAT_WOLFFUR_G.webp"
     },
@@ -2804,6 +2875,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_LURKERSKINFIX_G.glb",
         "thumbnail": "assets/card/ITAT_LURKERSKINFIX_G.webp"
     },
@@ -2843,6 +2915,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WANTEDPOSTER_FUR_KEILER_G.glb",
         "thumbnail": "assets/card/ITAT_WANTEDPOSTER_FUR_KEILER_G.webp"
     },
@@ -2882,6 +2955,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/WOLF_FUR_GARB_G.glb",
         "thumbnail": "assets/card/WOLF_FUR_GARB_G.webp"
     },
@@ -2921,6 +2995,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_GS_JASZCZUR_G.glb",
         "thumbnail": "assets/card/ITAT_GS_JASZCZUR_G.webp"
     },
@@ -2960,6 +3035,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_WARGFUR_G.glb",
         "thumbnail": "assets/card/ITAT_WARGFUR_G.webp"
     },
@@ -2999,6 +3075,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_SHARKSKIN_G.glb",
         "thumbnail": "assets/card/ITAT_SHARKSKIN_G.webp"
     },
@@ -3038,6 +3115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_TROLLFUR_G.glb",
         "thumbnail": "assets/card/ITAT_TROLLFUR_G.webp"
     },
@@ -3077,6 +3155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/NIEDZWIEDZ_FUR_G.glb",
         "thumbnail": "assets/card/NIEDZWIEDZ_FUR_G.webp"
     },
@@ -3116,6 +3195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Myśliwy",
+        "kategoria": "Materiały z zwierzyny",
         "model": "assets/models/ITAT_SHADOWFUR_G.glb",
         "thumbnail": "assets/card/ITAT_SHADOWFUR_G.webp"
     }

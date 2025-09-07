@@ -35,6 +35,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Płatnerz",
+        "kategoria": "Inne",
         "model": "assets/models/TARCZKA.glb",
         "thumbnail": "assets/card/TARCZKA.webp"
     },
@@ -74,6 +75,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Płatnerz",
+        "kategoria": "Inne",
         "model": "assets/models/NAPIERSNIK.glb",
         "thumbnail": "assets/card/NAPIERSNIK.webp"
     },
@@ -113,6 +115,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Płatnerz",
+        "kategoria": "Inne",
         "model": "assets/models/TASZKA.glb",
         "thumbnail": "assets/card/TASZKA.webp"
     },
@@ -152,6 +155,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Płatnerz",
+        "kategoria": "Inne",
         "model": "assets/models/KM_VOB_ARMORER_GLOVES_01.glb",
         "thumbnail": "assets/card/KM_VOB_ARMORER_GLOVES_01.webp"
     },
@@ -191,6 +195,7 @@
         "expirationTime": "BRAK",
         "plik": "materials",
         "profession": "Płatnerz",
+        "kategoria": "Inne",
         "model": "assets/models/PLYTOWE_TRZEWIKI.glb",
         "thumbnail": "assets/card/PLYTOWE_TRZEWIKI.webp"
     },
@@ -230,6 +235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/GLADIATORCHYBA.glb",
         "thumbnail": "assets/card/GLADIATORCHYBA.webp"
     },
@@ -269,6 +275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_KARES_T1.glb",
         "thumbnail": "assets/card/ARMOR_KARES_T1.webp"
     },
@@ -308,6 +315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_ARX_A1.glb",
         "thumbnail": "assets/card/KM_ARX_A1.webp"
     },
@@ -347,6 +355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_CH_ARMOR.glb",
         "thumbnail": "assets/card/KM_CH_ARMOR.webp"
     },
@@ -386,6 +395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_VAMP_FIST_1.glb",
         "thumbnail": "assets/card/ARMOR_VAMP_FIST_1.webp"
     },
@@ -425,6 +435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/HUM_DHT1_ARMOR.glb",
         "thumbnail": "assets/card/HUM_DHT1_ARMOR.webp"
     },
@@ -464,6 +475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/GUARD_L_A_BLACK.glb",
         "thumbnail": "assets/card/GUARD_L_A_BLACK.webp"
     },
@@ -503,6 +515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/GS_PIRATY_T2.glb",
         "thumbnail": "assets/card/GS_PIRATY_T2.webp"
     },
@@ -542,6 +555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_ARX_B.glb",
         "thumbnail": "assets/card/KM_ARX_B.webp"
     },
@@ -581,6 +595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/MITTLEREFREIESOELDNERRUESTUNG.glb",
         "thumbnail": "assets/card/MITTLEREFREIESOELDNERRUESTUNG.webp"
     },
@@ -620,6 +635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_HCH_ARMOR.glb",
         "thumbnail": "assets/card/KM_HCH_ARMOR.webp"
     },
@@ -659,6 +675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_OGAR.glb",
         "thumbnail": "assets/card/ARMOR_OGAR.webp"
     },
@@ -698,6 +715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_CH_DETLOW_ARMOR.glb",
         "thumbnail": "assets/card/KM_CH_DETLOW_ARMOR.webp"
     },
@@ -737,6 +755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_WACHE_DMH.glb",
         "thumbnail": "assets/card/ARMOR_WACHE_DMH.webp"
     },
@@ -776,6 +795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/NAJEMNIK_M.glb",
         "thumbnail": "assets/card/NAJEMNIK_M.webp"
     },
@@ -815,6 +835,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_CYKLOP.glb",
         "thumbnail": "assets/card/ARMOR_CYKLOP.webp"
     },
@@ -854,6 +875,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_RAVON_CIEZKI_BLUE.glb",
         "thumbnail": "assets/card/ARMOR_RAVON_CIEZKI_BLUE.webp"
     },
@@ -893,6 +915,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/MK_BAB_SLD_H.glb",
         "thumbnail": "assets/card/MK_BAB_SLD_H.webp"
     },
@@ -932,6 +955,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_STARSZY_STRAZNIK.glb",
         "thumbnail": "assets/card/ARMOR_STARSZY_STRAZNIK.webp"
     },
@@ -971,6 +995,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/DRAGOMIR.glb",
         "thumbnail": "assets/card/DRAGOMIR.webp"
     },
@@ -1010,6 +1035,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_SLD_H.glb",
         "thumbnail": "assets/card/ARMOR_SLD_H.webp"
     },
@@ -1049,6 +1075,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/TRAMIS_GUARD.glb",
         "thumbnail": "assets/card/TRAMIS_GUARD.webp"
     },
@@ -1088,6 +1115,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/NEUTRAL_PAL_M.glb",
         "thumbnail": "assets/card/NEUTRAL_PAL_M.webp"
     },
@@ -1127,6 +1155,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_RSCOUT_LEGEND.glb",
         "thumbnail": "assets/card/ARMOR_RSCOUT_LEGEND.webp"
     },
@@ -1166,6 +1195,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/FER_H_ARMOR_01.glb",
         "thumbnail": "assets/card/FER_H_ARMOR_01.webp"
     },
@@ -1205,6 +1235,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/LIDERKWN.glb",
         "thumbnail": "assets/card/LIDERKWN.webp"
     },
@@ -1244,6 +1275,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/OLDARMOR.glb",
         "thumbnail": "assets/card/OLDARMOR.webp"
     },
@@ -1283,6 +1315,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOURV6.glb",
         "thumbnail": "assets/card/ARMOURV6.webp"
     },
@@ -1322,6 +1355,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/RP_SIERZANT2.glb",
         "thumbnail": "assets/card/RP_SIERZANT2.webp"
     },
@@ -1361,6 +1395,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_SLD_G3.glb",
         "thumbnail": "assets/card/ARMOR_SLD_G3.webp"
     },
@@ -1400,6 +1435,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/NIEBIESKI_TABARD.glb",
         "thumbnail": "assets/card/NIEBIESKI_TABARD.webp"
     },
@@ -1439,6 +1475,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_COW_HA.glb",
         "thumbnail": "assets/card/KM_COW_HA.webp"
     },
@@ -1478,6 +1515,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_THORUS_ADDON.glb",
         "thumbnail": "assets/card/ARMOR_THORUS_ADDON.webp"
     },
@@ -1517,6 +1555,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_ADEPTUS.glb",
         "thumbnail": "assets/card/ARMOR_ADEPTUS.webp"
     },
@@ -1556,6 +1595,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/RAVEN_ORC_ELITE.glb",
         "thumbnail": "assets/card/RAVEN_ORC_ELITE.webp"
     },
@@ -1595,6 +1635,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_OLDMYRTANASMITHING.glb",
         "thumbnail": "assets/card/ARMOR_OLDMYRTANASMITHING.webp"
     },
@@ -1634,6 +1675,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/NEUTRAL_PAL_H.glb",
         "thumbnail": "assets/card/NEUTRAL_PAL_H.webp"
     },
@@ -1673,6 +1715,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/KM_KNIGHT_ARMOR.glb",
         "thumbnail": "assets/card/KM_KNIGHT_ARMOR.webp"
     },
@@ -1712,6 +1755,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/PANCERZ_ZAKONNIKA.glb",
         "thumbnail": "assets/card/PANCERZ_ZAKONNIKA.webp"
     },
@@ -1751,6 +1795,7 @@
         "expirationTime": "BRAK",
         "plik": "armors",
         "profession": "Płatnerz",
+        "kategoria": "Pancerz ciężki",
         "model": "assets/models/ARMOR_LEE_ADDON.glb",
         "thumbnail": "assets/card/ARMOR_LEE_ADDON.webp"
     },
@@ -1790,6 +1835,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_NEWSHIELD_01.glb",
         "thumbnail": "assets/card/ITAR_NEWSHIELD_01.webp"
     },
@@ -1829,6 +1875,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITSH_SHIELD_A_WOODEN_ROUND.glb",
         "thumbnail": "assets/card/ITSH_SHIELD_A_WOODEN_ROUND.webp"
     },
@@ -1868,6 +1915,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_NEWSHIELD_01R.glb",
         "thumbnail": "assets/card/ITAR_NEWSHIELD_01R.webp"
     },
@@ -1907,6 +1955,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_NEWSHIELD_04R.glb",
         "thumbnail": "assets/card/ITAR_NEWSHIELD_04R.webp"
     },
@@ -1946,6 +1995,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/SHIELD_04.glb",
         "thumbnail": "assets/card/SHIELD_04.webp"
     },
@@ -1985,6 +2035,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_NEWSHIELD_04.glb",
         "thumbnail": "assets/card/ITAR_NEWSHIELD_04.webp"
     },
@@ -2024,6 +2075,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_NEWSHIELD_03.glb",
         "thumbnail": "assets/card/ITAR_NEWSHIELD_03.webp"
     },
@@ -2063,6 +2115,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITSH_SHIELD_A_WOLF.glb",
         "thumbnail": "assets/card/ITSH_SHIELD_A_WOLF.webp"
     },
@@ -2102,6 +2155,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_SHIELD_07_02.glb",
         "thumbnail": "assets/card/ITAR_SHIELD_07_02.webp"
     },
@@ -2141,6 +2195,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/MIL_SHIELD_NEW.glb",
         "thumbnail": "assets/card/MIL_SHIELD_NEW.webp"
     },
@@ -2180,6 +2235,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_NEWSHIELD_02.glb",
         "thumbnail": "assets/card/ITAR_NEWSHIELD_02.webp"
     },
@@ -2219,6 +2275,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/SHIELD_SLD.glb",
         "thumbnail": "assets/card/SHIELD_SLD.webp"
     },
@@ -2258,6 +2315,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_SHIELD_04_NEW.glb",
         "thumbnail": "assets/card/ITAR_SHIELD_04_NEW.webp"
     },
@@ -2297,6 +2355,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_SHIELD_05.glb",
         "thumbnail": "assets/card/ITAR_SHIELD_05.webp"
     },
@@ -2336,6 +2395,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITSH_SHIELD_A_KORSHAN.glb",
         "thumbnail": "assets/card/ITSH_SHIELD_A_KORSHAN.webp"
     },
@@ -2375,6 +2435,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITSH_SHIELD_A_LONG.glb",
         "thumbnail": "assets/card/ITSH_SHIELD_A_LONG.webp"
     },
@@ -2414,6 +2475,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITSH_SHIELD_A_WASP.glb",
         "thumbnail": "assets/card/ITSH_SHIELD_A_WASP.webp"
     },
@@ -2453,6 +2515,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_SHIELD_05_NEW.glb",
         "thumbnail": "assets/card/ITAR_SHIELD_05_NEW.webp"
     },
@@ -2492,6 +2555,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/SHIELD_01.glb",
         "thumbnail": "assets/card/SHIELD_01.webp"
     },
@@ -2531,6 +2595,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/SHIELD_02.glb",
         "thumbnail": "assets/card/SHIELD_02.webp"
     },
@@ -2570,6 +2635,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITAR_SHIELD_GOD.glb",
         "thumbnail": "assets/card/ITAR_SHIELD_GOD.webp"
     },
@@ -2609,6 +2675,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/ITSH_SHIELD_A_OCEAN.glb",
         "thumbnail": "assets/card/ITSH_SHIELD_A_OCEAN.webp"
     },
@@ -2648,6 +2715,7 @@
         "expirationTime": "BRAK",
         "plik": "shields",
         "profession": "Płatnerz",
+        "kategoria": "Tarcze",
         "model": "assets/models/SHIELD_A_PALADIN_DECO.glb",
         "thumbnail": "assets/card/SHIELD_A_PALADIN_DECO.webp"
     },
@@ -2687,6 +2755,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/RYCERZ9.glb",
         "thumbnail": "assets/card/RYCERZ9.webp"
     },
@@ -2726,6 +2795,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/RYCERZ8.glb",
         "thumbnail": "assets/card/RYCERZ8.webp"
     },
@@ -2765,6 +2835,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ORE_HELM.glb",
         "thumbnail": "assets/card/ORE_HELM.webp"
     },
@@ -2804,6 +2875,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_HELMET_R_SENTINEL.glb",
         "thumbnail": "assets/card/ITHL_HELMET_R_SENTINEL.webp"
     },
@@ -2843,6 +2915,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/WIKING2.glb",
         "thumbnail": "assets/card/WIKING2.webp"
     },
@@ -2882,6 +2955,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_MAKEDHELMET1_AS_THORNIARA_ROBE.glb",
         "thumbnail": "assets/card/ITHL_MAKEDHELMET1_AS_THORNIARA_ROBE.webp"
     },
@@ -2921,6 +2995,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_HELMET_G3_ORIENT_01_LEATHER.glb",
         "thumbnail": "assets/card/ITHL_HELMET_G3_ORIENT_01_LEATHER.webp"
     },
@@ -2960,6 +3035,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_MAKEDHELMET4_S_STEELLIGHT.glb",
         "thumbnail": "assets/card/ITHL_MAKEDHELMET4_S_STEELLIGHT.webp"
     },
@@ -2999,6 +3075,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/KAPALIN_2.glb",
         "thumbnail": "assets/card/KAPALIN_2.webp"
     },
@@ -3038,6 +3115,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/KAPALIN_3.glb",
         "thumbnail": "assets/card/KAPALIN_3.webp"
     },
@@ -3077,6 +3155,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/KAPALIN_4.glb",
         "thumbnail": "assets/card/KAPALIN_4.webp"
     },
@@ -3116,6 +3195,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/CLEGANE.glb",
         "thumbnail": "assets/card/CLEGANE.webp"
     },
@@ -3155,6 +3235,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_HELMET_S_DAWNGUARD.glb",
         "thumbnail": "assets/card/ITHL_HELMET_S_DAWNGUARD.webp"
     },
@@ -3194,6 +3275,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_HELMET_S_SONS_OF_TALOS.glb",
         "thumbnail": "assets/card/ITHL_HELMET_S_SONS_OF_TALOS.webp"
     },
@@ -3233,6 +3315,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/GREATHELM.glb",
         "thumbnail": "assets/card/GREATHELM.webp"
     },
@@ -3272,6 +3355,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/HELM_TYTANA.glb",
         "thumbnail": "assets/card/HELM_TYTANA.webp"
     },
@@ -3311,6 +3395,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITAR_DJG_HELM.glb",
         "thumbnail": "assets/card/ITAR_DJG_HELM.webp"
     },
@@ -3350,6 +3435,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITHL_HELMET_S_DAWNGUARDFULL.glb",
         "thumbnail": "assets/card/ITHL_HELMET_S_DAWNGUARDFULL.webp"
     },
@@ -3389,6 +3475,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/HELMLOWCOW2.glb",
         "thumbnail": "assets/card/HELMLOWCOW2.webp"
     },
@@ -3428,6 +3515,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/ITAR_ZPZ_HELMET_02.glb",
         "thumbnail": "assets/card/ITAR_ZPZ_HELMET_02.webp"
     },
@@ -3467,6 +3555,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/RYCERZ3.glb",
         "thumbnail": "assets/card/RYCERZ3.webp"
     },
@@ -3506,6 +3595,7 @@
         "expirationTime": "BRAK",
         "plik": "helmets",
         "profession": "Płatnerz",
+        "kategoria": "Hełmy",
         "model": "assets/models/HELMETNORD2.glb",
         "thumbnail": "assets/card/HELMETNORD2.webp"
     }
