@@ -22321,7 +22321,7 @@
     },
     {
         "title": "GUARD_L_A_BLACK",
-        "name": "Pancerz nierzeszonego rekruta",
+        "name": "Pancerz niezrzeszonego rekruta",
         "opis": "Lekki pancerz pozwalający na swobodne pływanie w wodzie, a także nie krępuje ruchów. Ponadto pancerz może być ubrany bez niczyjej pomocy. (Z krótką narracją!)",
         "mainFlag": "ITEM_CAT_ARMOR",
         "instance": "ITAR_SDRP_LTH_06",
